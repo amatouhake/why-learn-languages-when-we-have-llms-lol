@@ -1,0 +1,477 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #1a1a2e;
+    color: #e0e0e0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.screen {
+    display: none;
+    width: 100%;
+    max-width: 600px;
+    padding: 2rem;
+}
+
+.screen.active {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+
+/* Setup screen */
+h1 {
+    font-size: 2rem;
+    color: #e94560;
+}
+
+h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0.8rem;
+    color: #a0a0b0;
+}
+
+.level-select {
+    text-align: center;
+}
+
+.checkboxes {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+}
+
+.checkboxes label {
+    font-size: 1.1rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.checkboxes input[type="checkbox"] {
+    width: 1.2rem;
+    height: 1.2rem;
+    accent-color: #e94560;
+}
+
+.mode-select {
+    text-align: center;
+    width: 100%;
+}
+
+.mode-btn {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin: 0.5rem auto;
+    padding: 1rem 2rem;
+    font-size: 1.3rem;
+    background: #16213e;
+    color: #e0e0e0;
+    border: 2px solid #0f3460;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.15s;
+}
+
+.mode-btn:hover {
+    background: #0f3460;
+    border-color: #e94560;
+}
+
+.key-hint {
+    display: block;
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 0.3rem;
+}
+
+/* Radio groups */
+.radio-group {
+    text-align: center;
+    width: 100%;
+}
+
+.radio-options {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+}
+
+.radio-options label {
+    font-size: 1.1rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.radio-options input[type="radio"] {
+    width: 1.2rem;
+    height: 1.2rem;
+    accent-color: #e94560;
+}
+
+/* Example area */
+.example-area {
+    margin-top: 1.5rem;
+    padding: 1rem 1.5rem;
+    background: #16213e;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.example-zh {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-bottom: 0.3rem;
+}
+
+.example-pinyin {
+    font-size: 1rem;
+    color: #888;
+    margin-bottom: 0.3rem;
+}
+
+.example-meaning {
+    font-size: 1rem;
+    color: #a0a0b0;
+}
+
+/* Quiz screen */
+.quiz-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.streak-display {
+    display: flex;
+    gap: 1.5rem;
+    font-size: 1.2rem;
+}
+
+#best-streak {
+    color: #888;
+}
+
+.back-btn {
+    background: none;
+    border: 1px solid #444;
+    color: #888;
+    padding: 0.4rem 0.8rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+.back-btn:hover {
+    border-color: #e94560;
+    color: #e0e0e0;
+}
+
+.quiz-body {
+    text-align: center;
+    width: 100%;
+}
+
+#prompt-area {
+    margin-bottom: 2rem;
+}
+
+.prompt {
+    font-size: 4rem;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+}
+
+.prompt-sub {
+    font-size: 1.3rem;
+    color: #888;
+}
+
+/* Options — 4 choices */
+.options {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    width: 100%;
+}
+
+.option-btn {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 0.9rem 1.2rem;
+    font-size: 1.2rem;
+    background: #16213e;
+    color: #e0e0e0;
+    border: 2px solid #0f3460;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: left;
+    transition: all 0.1s;
+}
+
+.option-btn:hover {
+    border-color: #533483;
+}
+
+.option-key {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 2rem;
+    height: 2rem;
+    margin-right: 0.8rem;
+    background: #0f3460;
+    border-radius: 4px;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.option-text {
+    flex: 1;
+}
+
+/* 9-choice grid */
+.options.grid-9 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+}
+
+.options.grid-9 .option-btn {
+    flex-direction: column;
+    text-align: center;
+    padding: 0.8rem 0.5rem;
+    font-size: 1.1rem;
+}
+
+.options.grid-9 .option-key {
+    margin-right: 0;
+    margin-bottom: 0.3rem;
+}
+
+/* Feedback states */
+.option-btn.correct {
+    background: #1b5e20;
+    border-color: #4caf50;
+}
+
+.option-btn.incorrect {
+    background: #b71c1c;
+    border-color: #f44336;
+}
+
+/* Loading */
+.loading {
+    display: none;
+    text-align: center;
+    color: #888;
+    font-size: 1.2rem;
+    padding: 2rem;
+}
+
+.loading.active {
+    display: block;
+}
+
+/* Dashboard button on setup screen */
+.dashboard-btn {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 0.8rem 2rem;
+    font-size: 1.1rem;
+    background: transparent;
+    color: #a0a0b0;
+    border: 1px solid #444;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.15s;
+}
+
+.dashboard-btn:hover {
+    border-color: #e94560;
+    color: #e0e0e0;
+}
+
+/* Dashboard screen */
+#dashboard-screen {
+    max-width: 900px;
+}
+
+#dashboard-screen.active {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.dashboard-header h1 {
+    font-size: 1.5rem;
+}
+
+.level-filter {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+}
+
+.level-filter label {
+    font-size: 1rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.level-filter input[type="checkbox"] {
+    width: 1.1rem;
+    height: 1.1rem;
+    accent-color: #e94560;
+}
+
+/* Level summary cards */
+.level-cards {
+    display: flex;
+    gap: 0.8rem;
+    width: 100%;
+}
+
+.level-card {
+    flex: 1;
+    background: #16213e;
+    border: 1px solid #0f3460;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+}
+
+.level-card h3 {
+    color: #e94560;
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.level-card .stat-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+    color: #a0a0b0;
+    padding: 0.15rem 0;
+}
+
+.level-card .stat-value {
+    color: #e0e0e0;
+    font-weight: bold;
+}
+
+.level-card .accuracy-big {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 0.5rem 0;
+}
+
+/* Sort controls */
+.sort-controls {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.sort-label {
+    color: #a0a0b0;
+    font-size: 0.9rem;
+}
+
+.sort-btn {
+    padding: 0.3rem 0.7rem;
+    font-size: 0.85rem;
+    background: #16213e;
+    color: #a0a0b0;
+    border: 1px solid #0f3460;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.15s;
+}
+
+.sort-btn:hover {
+    border-color: #533483;
+    color: #e0e0e0;
+}
+
+.sort-btn.active {
+    background: #0f3460;
+    color: #e0e0e0;
+    border-color: #e94560;
+}
+
+/* Words table */
+.words-table-wrap {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.words-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+
+.words-table th {
+    background: #16213e;
+    color: #a0a0b0;
+    padding: 0.5rem 0.6rem;
+    text-align: left;
+    border-bottom: 2px solid #0f3460;
+    position: sticky;
+    top: 0;
+    white-space: nowrap;
+}
+
+.words-table td {
+    padding: 0.4rem 0.6rem;
+    border-bottom: 1px solid #1a1a3e;
+}
+
+.words-table tr:hover {
+    background: #16213e44;
+}
+
+.words-table .col-hanzi {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.words-table .col-accuracy {
+    font-weight: bold;
+}
+
+/* Accuracy colors */
+.acc-unpracticed { color: #555; }
+.acc-weak { color: #f44336; }
+.acc-learning { color: #ff9800; }
+.acc-mastered { color: #4caf50; }

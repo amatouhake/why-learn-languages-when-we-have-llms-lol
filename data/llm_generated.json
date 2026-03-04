@@ -1,0 +1,4762 @@
+[
+  {
+    "simplified": "爱",
+    "meaning_ja": "愛する；好む",
+    "example_zh": "我爱我的家人。",
+    "example_pinyin": "Wǒ ài wǒ de jiārén.",
+    "example_en": "I love my family.",
+    "example_ja": "私は家族を愛しています。"
+  },
+  {
+    "simplified": "八",
+    "meaning_ja": "八；8",
+    "example_zh": "我有八本书。",
+    "example_pinyin": "Wǒ yǒu bā běn shū.",
+    "example_en": "I have eight books.",
+    "example_ja": "私は本を八冊持っています。"
+  },
+  {
+    "simplified": "爸爸",
+    "meaning_ja": "お父さん；パパ",
+    "example_zh": "爸爸在工作。",
+    "example_pinyin": "Bàba zài gōngzuò.",
+    "example_en": "Dad is working.",
+    "example_ja": "お父さんは仕事をしています。"
+  },
+  {
+    "simplified": "杯子",
+    "meaning_ja": "コップ；グラス",
+    "example_zh": "请给我一个杯子。",
+    "example_pinyin": "Qǐng gěi wǒ yí ge bēizi.",
+    "example_en": "Please give me a cup.",
+    "example_ja": "コップを一つください。"
+  },
+  {
+    "simplified": "北京",
+    "meaning_ja": "北京",
+    "example_zh": "我想去北京。",
+    "example_pinyin": "Wǒ xiǎng qù Běijīng.",
+    "example_en": "I want to go to Beijing.",
+    "example_ja": "私は北京に行きたいです。"
+  },
+  {
+    "simplified": "本",
+    "meaning_ja": "～冊（量詞）",
+    "example_zh": "这本书很好。",
+    "example_pinyin": "Zhè běn shū hěn hǎo.",
+    "example_en": "This book is very good.",
+    "example_ja": "この本はとても良いです。"
+  },
+  {
+    "simplified": "不",
+    "meaning_ja": "～ない（否定）",
+    "example_zh": "我不喝咖啡。",
+    "example_pinyin": "Wǒ bù hē kāfēi.",
+    "example_en": "I don't drink coffee.",
+    "example_ja": "私はコーヒーを飲みません。"
+  },
+  {
+    "simplified": "不客气",
+    "meaning_ja": "どういたしまして",
+    "example_zh": "不客气，这是应该的。",
+    "example_pinyin": "Bú kèqi, zhè shì yīnggāi de.",
+    "example_en": "You're welcome, it's nothing.",
+    "example_ja": "どういたしまして、当然のことです。"
+  },
+  {
+    "simplified": "菜",
+    "meaning_ja": "料理；野菜",
+    "example_zh": "这个菜很好吃。",
+    "example_pinyin": "Zhège cài hěn hǎochī.",
+    "example_en": "This dish is delicious.",
+    "example_ja": "この料理はとてもおいしいです。"
+  },
+  {
+    "simplified": "茶",
+    "meaning_ja": "お茶",
+    "example_zh": "你想喝茶吗？",
+    "example_pinyin": "Nǐ xiǎng hē chá ma?",
+    "example_en": "Would you like some tea?",
+    "example_ja": "お茶を飲みたいですか？"
+  },
+  {
+    "simplified": "吃",
+    "meaning_ja": "食べる",
+    "example_zh": "我们一起吃饭吧。",
+    "example_pinyin": "Wǒmen yìqǐ chīfàn ba.",
+    "example_en": "Let's eat together.",
+    "example_ja": "一緒にご飯を食べましょう。"
+  },
+  {
+    "simplified": "出租车",
+    "meaning_ja": "タクシー",
+    "example_zh": "我们坐出租车去。",
+    "example_pinyin": "Wǒmen zuò chūzūchē qù.",
+    "example_en": "Let's go by taxi.",
+    "example_ja": "タクシーで行きましょう。"
+  },
+  {
+    "simplified": "打电话",
+    "meaning_ja": "電話をかける",
+    "example_zh": "我给妈妈打电话。",
+    "example_pinyin": "Wǒ gěi māma dǎ diànhuà.",
+    "example_en": "I call my mom.",
+    "example_ja": "お母さんに電話をかけます。"
+  },
+  {
+    "simplified": "大",
+    "meaning_ja": "大きい",
+    "example_zh": "这个房间很大。",
+    "example_pinyin": "Zhège fángjiān hěn dà.",
+    "example_en": "This room is very big.",
+    "example_ja": "この部屋はとても大きいです。"
+  },
+  {
+    "simplified": "的",
+    "meaning_ja": "～の（助詞）",
+    "example_zh": "这是我的书。",
+    "example_pinyin": "Zhè shì wǒ de shū.",
+    "example_en": "This is my book.",
+    "example_ja": "これは私の本です。"
+  },
+  {
+    "simplified": "点",
+    "meaning_ja": "～時（時刻）；少し",
+    "example_zh": "现在三点了。",
+    "example_pinyin": "Xiànzài sān diǎn le.",
+    "example_en": "It's three o'clock now.",
+    "example_ja": "今三時です。"
+  },
+  {
+    "simplified": "电脑",
+    "meaning_ja": "パソコン；コンピュータ",
+    "example_zh": "我用电脑工作。",
+    "example_pinyin": "Wǒ yòng diànnǎo gōngzuò.",
+    "example_en": "I work on a computer.",
+    "example_ja": "私はパソコンで仕事をします。"
+  },
+  {
+    "simplified": "电视",
+    "meaning_ja": "テレビ",
+    "example_zh": "爸爸在看电视。",
+    "example_pinyin": "Bàba zài kàn diànshì.",
+    "example_en": "Dad is watching TV.",
+    "example_ja": "お父さんはテレビを見ています。"
+  },
+  {
+    "simplified": "电影",
+    "meaning_ja": "映画",
+    "example_zh": "我们去看电影吧。",
+    "example_pinyin": "Wǒmen qù kàn diànyǐng ba.",
+    "example_en": "Let's go watch a movie.",
+    "example_ja": "映画を見に行きましょう。"
+  },
+  {
+    "simplified": "东西",
+    "meaning_ja": "もの；物",
+    "example_zh": "我要买一些东西。",
+    "example_pinyin": "Wǒ yào mǎi yìxiē dōngxi.",
+    "example_en": "I want to buy some things.",
+    "example_ja": "いくつか買い物をしたいです。"
+  },
+  {
+    "simplified": "都",
+    "meaning_ja": "みんな；すべて",
+    "example_zh": "我们都是学生。",
+    "example_pinyin": "Wǒmen dōu shì xuéshēng.",
+    "example_en": "We are all students.",
+    "example_ja": "私たちはみんな学生です。"
+  },
+  {
+    "simplified": "读",
+    "meaning_ja": "読む",
+    "example_zh": "我喜欢读书。",
+    "example_pinyin": "Wǒ xǐhuan dú shū.",
+    "example_en": "I like to read.",
+    "example_ja": "私は読書が好きです。"
+  },
+  {
+    "simplified": "对不起",
+    "meaning_ja": "すみません；ごめんなさい",
+    "example_zh": "对不起，我迟到了。",
+    "example_pinyin": "Duìbuqǐ, wǒ chídào le.",
+    "example_en": "Sorry, I'm late.",
+    "example_ja": "すみません、遅刻しました。"
+  },
+  {
+    "simplified": "多",
+    "meaning_ja": "多い；たくさん",
+    "example_zh": "这里人很多。",
+    "example_pinyin": "Zhèlǐ rén hěn duō.",
+    "example_en": "There are many people here.",
+    "example_ja": "ここは人が多いです。"
+  },
+  {
+    "simplified": "多少",
+    "meaning_ja": "いくつ；いくら",
+    "example_zh": "这个多少钱？",
+    "example_pinyin": "Zhège duōshao qián?",
+    "example_en": "How much is this?",
+    "example_ja": "これはいくらですか？"
+  },
+  {
+    "simplified": "儿子",
+    "meaning_ja": "息子",
+    "example_zh": "我的儿子五岁了。",
+    "example_pinyin": "Wǒ de érzi wǔ suì le.",
+    "example_en": "My son is five years old.",
+    "example_ja": "私の息子は五歳です。"
+  },
+  {
+    "simplified": "二",
+    "meaning_ja": "二；2",
+    "example_zh": "我有二个姐姐。",
+    "example_pinyin": "Wǒ yǒu èr ge jiějie.",
+    "example_en": "I have two older sisters.",
+    "example_ja": "私には姉が二人います。"
+  },
+  {
+    "simplified": "饭馆",
+    "meaning_ja": "レストラン；食堂",
+    "example_zh": "我们去饭馆吃饭。",
+    "example_pinyin": "Wǒmen qù fànguǎn chīfàn.",
+    "example_en": "Let's go eat at a restaurant.",
+    "example_ja": "レストランに食事に行きましょう。"
+  },
+  {
+    "simplified": "飞机",
+    "meaning_ja": "飛行機",
+    "example_zh": "我坐飞机去北京。",
+    "example_pinyin": "Wǒ zuò fēijī qù Běijīng.",
+    "example_en": "I take a plane to Beijing.",
+    "example_ja": "飛行機で北京に行きます。"
+  },
+  {
+    "simplified": "分钟",
+    "meaning_ja": "～分（時間）",
+    "example_zh": "请等五分钟。",
+    "example_pinyin": "Qǐng děng wǔ fēnzhōng.",
+    "example_en": "Please wait five minutes.",
+    "example_ja": "五分お待ちください。"
+  },
+  {
+    "simplified": "高兴",
+    "meaning_ja": "嬉しい；楽しい",
+    "example_zh": "认识你很高兴。",
+    "example_pinyin": "Rènshi nǐ hěn gāoxìng.",
+    "example_en": "Nice to meet you.",
+    "example_ja": "お会いできて嬉しいです。"
+  },
+  {
+    "simplified": "个",
+    "meaning_ja": "～個（量詞）",
+    "example_zh": "我买了三个苹果。",
+    "example_pinyin": "Wǒ mǎi le sān ge píngguǒ.",
+    "example_en": "I bought three apples.",
+    "example_ja": "リンゴを三つ買いました。"
+  },
+  {
+    "simplified": "工作",
+    "meaning_ja": "仕事；働く",
+    "example_zh": "她的工作很忙。",
+    "example_pinyin": "Tā de gōngzuò hěn máng.",
+    "example_en": "Her work is very busy.",
+    "example_ja": "彼女の仕事はとても忙しいです。"
+  },
+  {
+    "simplified": "狗",
+    "meaning_ja": "犬",
+    "example_zh": "我家有一只狗。",
+    "example_pinyin": "Wǒ jiā yǒu yì zhī gǒu.",
+    "example_en": "We have a dog at home.",
+    "example_ja": "うちには犬が一匹います。"
+  },
+  {
+    "simplified": "汉语",
+    "meaning_ja": "中国語",
+    "example_zh": "我在学汉语。",
+    "example_pinyin": "Wǒ zài xué Hànyǔ.",
+    "example_en": "I'm studying Chinese.",
+    "example_ja": "私は中国語を勉強しています。"
+  },
+  {
+    "simplified": "好",
+    "meaning_ja": "良い；好い",
+    "example_zh": "今天天气很好。",
+    "example_pinyin": "Jīntiān tiānqì hěn hǎo.",
+    "example_en": "The weather is nice today.",
+    "example_ja": "今日は天気が良いです。"
+  },
+  {
+    "simplified": "喝",
+    "meaning_ja": "飲む",
+    "example_zh": "我每天喝水。",
+    "example_pinyin": "Wǒ měitiān hē shuǐ.",
+    "example_en": "I drink water every day.",
+    "example_ja": "私は毎日水を飲みます。"
+  },
+  {
+    "simplified": "和",
+    "meaning_ja": "～と（接続詞）",
+    "example_zh": "我和朋友去看电影。",
+    "example_pinyin": "Wǒ hé péngyou qù kàn diànyǐng.",
+    "example_en": "I go watch a movie with friends.",
+    "example_ja": "友達と映画を見に行きます。"
+  },
+  {
+    "simplified": "很",
+    "meaning_ja": "とても",
+    "example_zh": "这个很好吃。",
+    "example_pinyin": "Zhège hěn hǎochī.",
+    "example_en": "This is very delicious.",
+    "example_ja": "これはとてもおいしいです。"
+  },
+  {
+    "simplified": "后面",
+    "meaning_ja": "後ろ；裏",
+    "example_zh": "学校在商店后面。",
+    "example_pinyin": "Xuéxiào zài shāngdiàn hòumiàn.",
+    "example_en": "The school is behind the store.",
+    "example_ja": "学校は店の後ろにあります。"
+  },
+  {
+    "simplified": "回",
+    "meaning_ja": "帰る；戻る",
+    "example_zh": "我要回家了。",
+    "example_pinyin": "Wǒ yào huí jiā le.",
+    "example_en": "I'm going home.",
+    "example_ja": "もう家に帰ります。"
+  },
+  {
+    "simplified": "会",
+    "meaning_ja": "できる；～だろう",
+    "example_zh": "我会说汉语。",
+    "example_pinyin": "Wǒ huì shuō Hànyǔ.",
+    "example_en": "I can speak Chinese.",
+    "example_ja": "私は中国語を話せます。"
+  },
+  {
+    "simplified": "火车站",
+    "meaning_ja": "鉄道の駅",
+    "example_zh": "火车站在哪里？",
+    "example_pinyin": "Huǒchēzhàn zài nǎlǐ?",
+    "example_en": "Where is the train station?",
+    "example_ja": "駅はどこですか？"
+  },
+  {
+    "simplified": "几",
+    "meaning_ja": "いくつ；何",
+    "example_zh": "你几岁了？",
+    "example_pinyin": "Nǐ jǐ suì le?",
+    "example_en": "How old are you?",
+    "example_ja": "あなたは何歳ですか？"
+  },
+  {
+    "simplified": "家",
+    "meaning_ja": "家；家庭",
+    "example_zh": "我的家在北京。",
+    "example_pinyin": "Wǒ de jiā zài Běijīng.",
+    "example_en": "My home is in Beijing.",
+    "example_ja": "私の家は北京にあります。"
+  },
+  {
+    "simplified": "叫",
+    "meaning_ja": "呼ぶ；～という名前",
+    "example_zh": "我叫小明。",
+    "example_pinyin": "Wǒ jiào Xiǎo Míng.",
+    "example_en": "My name is Xiao Ming.",
+    "example_ja": "私は小明といいます。"
+  },
+  {
+    "simplified": "今天",
+    "meaning_ja": "今日",
+    "example_zh": "今天是星期一。",
+    "example_pinyin": "Jīntiān shì xīngqīyī.",
+    "example_en": "Today is Monday.",
+    "example_ja": "今日は月曜日です。"
+  },
+  {
+    "simplified": "九",
+    "meaning_ja": "九；9",
+    "example_zh": "现在九点了。",
+    "example_pinyin": "Xiànzài jiǔ diǎn le.",
+    "example_en": "It's nine o'clock now.",
+    "example_ja": "今九時です。"
+  },
+  {
+    "simplified": "开",
+    "meaning_ja": "開ける；運転する",
+    "example_zh": "请开门。",
+    "example_pinyin": "Qǐng kāi mén.",
+    "example_en": "Please open the door.",
+    "example_ja": "ドアを開けてください。"
+  },
+  {
+    "simplified": "看",
+    "meaning_ja": "見る；読む",
+    "example_zh": "我在看书。",
+    "example_pinyin": "Wǒ zài kàn shū.",
+    "example_en": "I'm reading a book.",
+    "example_ja": "私は本を読んでいます。"
+  },
+  {
+    "simplified": "看见",
+    "meaning_ja": "見える；見かける",
+    "example_zh": "我看见他了。",
+    "example_pinyin": "Wǒ kànjiàn tā le.",
+    "example_en": "I saw him.",
+    "example_ja": "彼を見かけました。"
+  },
+  {
+    "simplified": "块",
+    "meaning_ja": "～元（通貨）；塊",
+    "example_zh": "这个十块钱。",
+    "example_pinyin": "Zhège shí kuài qián.",
+    "example_en": "This is ten yuan.",
+    "example_ja": "これは十元です。"
+  },
+  {
+    "simplified": "来",
+    "meaning_ja": "来る",
+    "example_zh": "你来我家吧。",
+    "example_pinyin": "Nǐ lái wǒ jiā ba.",
+    "example_en": "Come to my house.",
+    "example_ja": "私の家に来てください。"
+  },
+  {
+    "simplified": "老师",
+    "meaning_ja": "先生；教師",
+    "example_zh": "老师在教室里。",
+    "example_pinyin": "Lǎoshī zài jiàoshì lǐ.",
+    "example_en": "The teacher is in the classroom.",
+    "example_ja": "先生は教室にいます。"
+  },
+  {
+    "simplified": "了",
+    "meaning_ja": "～した（完了助詞）",
+    "example_zh": "我吃了饭了。",
+    "example_pinyin": "Wǒ chī le fàn le.",
+    "example_en": "I've eaten.",
+    "example_ja": "ご飯を食べました。"
+  },
+  {
+    "simplified": "冷",
+    "meaning_ja": "寒い；冷たい",
+    "example_zh": "今天很冷。",
+    "example_pinyin": "Jīntiān hěn lěng.",
+    "example_en": "It's cold today.",
+    "example_ja": "今日は寒いです。"
+  },
+  {
+    "simplified": "里",
+    "meaning_ja": "～の中",
+    "example_zh": "书在包里。",
+    "example_pinyin": "Shū zài bāo lǐ.",
+    "example_en": "The book is in the bag.",
+    "example_ja": "本はカバンの中にあります。"
+  },
+  {
+    "simplified": "零",
+    "meaning_ja": "ゼロ；零",
+    "example_zh": "今天零下五度。",
+    "example_pinyin": "Jīntiān líng xià wǔ dù.",
+    "example_en": "It's minus five degrees today.",
+    "example_ja": "今日は氷点下五度です。"
+  },
+  {
+    "simplified": "六",
+    "meaning_ja": "六；6",
+    "example_zh": "我六点起床。",
+    "example_pinyin": "Wǒ liù diǎn qǐchuáng.",
+    "example_en": "I get up at six o'clock.",
+    "example_ja": "私は六時に起きます。"
+  },
+  {
+    "simplified": "妈妈",
+    "meaning_ja": "お母さん；ママ",
+    "example_zh": "妈妈做饭很好吃。",
+    "example_pinyin": "Māma zuòfàn hěn hǎochī.",
+    "example_en": "Mom's cooking is delicious.",
+    "example_ja": "お母さんの料理はおいしいです。"
+  },
+  {
+    "simplified": "吗",
+    "meaning_ja": "～か（疑問助詞）",
+    "example_zh": "你好吗？",
+    "example_pinyin": "Nǐ hǎo ma?",
+    "example_en": "How are you?",
+    "example_ja": "お元気ですか？"
+  },
+  {
+    "simplified": "买",
+    "meaning_ja": "買う",
+    "example_zh": "我想买这个。",
+    "example_pinyin": "Wǒ xiǎng mǎi zhège.",
+    "example_en": "I want to buy this.",
+    "example_ja": "これを買いたいです。"
+  },
+  {
+    "simplified": "猫",
+    "meaning_ja": "猫",
+    "example_zh": "这只猫很可爱。",
+    "example_pinyin": "Zhè zhī māo hěn kě'ài.",
+    "example_en": "This cat is very cute.",
+    "example_ja": "この猫はとてもかわいいです。"
+  },
+  {
+    "simplified": "没",
+    "meaning_ja": "～ない；～していない",
+    "example_zh": "我没去过中国。",
+    "example_pinyin": "Wǒ méi qùguò Zhōngguó.",
+    "example_en": "I haven't been to China.",
+    "example_ja": "私は中国に行ったことがありません。"
+  },
+  {
+    "simplified": "没关系",
+    "meaning_ja": "大丈夫；問題ない",
+    "example_zh": "没关系，别担心。",
+    "example_pinyin": "Méi guānxi, bié dānxīn.",
+    "example_en": "It's okay, don't worry.",
+    "example_ja": "大丈夫、心配しないで。"
+  },
+  {
+    "simplified": "米饭",
+    "meaning_ja": "ご飯",
+    "example_zh": "我要一碗米饭。",
+    "example_pinyin": "Wǒ yào yì wǎn mǐfàn.",
+    "example_en": "I'd like a bowl of rice.",
+    "example_ja": "ご飯を一杯ください。"
+  },
+  {
+    "simplified": "名字",
+    "meaning_ja": "名前",
+    "example_zh": "你的名字是什么？",
+    "example_pinyin": "Nǐ de míngzi shì shénme?",
+    "example_en": "What is your name?",
+    "example_ja": "あなたの名前は何ですか？"
+  },
+  {
+    "simplified": "明天",
+    "meaning_ja": "明日",
+    "example_zh": "明天我不上班。",
+    "example_pinyin": "Míngtiān wǒ bù shàngbān.",
+    "example_en": "I don't work tomorrow.",
+    "example_ja": "明日は仕事が休みです。"
+  },
+  {
+    "simplified": "哪",
+    "meaning_ja": "どの；どこ",
+    "example_zh": "你是哪国人？",
+    "example_pinyin": "Nǐ shì nǎ guó rén?",
+    "example_en": "What country are you from?",
+    "example_ja": "あなたはどこの国の人ですか？"
+  },
+  {
+    "simplified": "那",
+    "meaning_ja": "あの；あれ",
+    "example_zh": "那个人是谁？",
+    "example_pinyin": "Nàge rén shì shéi?",
+    "example_en": "Who is that person?",
+    "example_ja": "あの人は誰ですか？"
+  },
+  {
+    "simplified": "呢",
+    "meaning_ja": "～は？（疑問助詞）",
+    "example_zh": "我很好，你呢？",
+    "example_pinyin": "Wǒ hěn hǎo, nǐ ne?",
+    "example_en": "I'm fine, and you?",
+    "example_ja": "元気です、あなたは？"
+  },
+  {
+    "simplified": "能",
+    "meaning_ja": "できる；～しうる",
+    "example_zh": "你能帮我吗？",
+    "example_pinyin": "Nǐ néng bāng wǒ ma?",
+    "example_en": "Can you help me?",
+    "example_ja": "手伝ってもらえますか？"
+  },
+  {
+    "simplified": "你",
+    "meaning_ja": "あなた",
+    "example_zh": "你好！",
+    "example_pinyin": "Nǐ hǎo!",
+    "example_en": "Hello!",
+    "example_ja": "こんにちは！"
+  },
+  {
+    "simplified": "年",
+    "meaning_ja": "年",
+    "example_zh": "今年是二〇二五年。",
+    "example_pinyin": "Jīnnián shì èr líng èr wǔ nián.",
+    "example_en": "This year is 2025.",
+    "example_ja": "今年は2025年です。"
+  },
+  {
+    "simplified": "女儿",
+    "meaning_ja": "娘",
+    "example_zh": "我的女儿很聪明。",
+    "example_pinyin": "Wǒ de nǚ'ér hěn cōngming.",
+    "example_en": "My daughter is very smart.",
+    "example_ja": "私の娘はとても賢いです。"
+  },
+  {
+    "simplified": "朋友",
+    "meaning_ja": "友達",
+    "example_zh": "他是我的好朋友。",
+    "example_pinyin": "Tā shì wǒ de hǎo péngyou.",
+    "example_en": "He is my good friend.",
+    "example_ja": "彼は私の親友です。"
+  },
+  {
+    "simplified": "漂亮",
+    "meaning_ja": "きれい；美しい",
+    "example_zh": "她很漂亮。",
+    "example_pinyin": "Tā hěn piàoliang.",
+    "example_en": "She is very beautiful.",
+    "example_ja": "彼女はとてもきれいです。"
+  },
+  {
+    "simplified": "苹果",
+    "meaning_ja": "リンゴ",
+    "example_zh": "我喜欢吃苹果。",
+    "example_pinyin": "Wǒ xǐhuan chī píngguǒ.",
+    "example_en": "I like to eat apples.",
+    "example_ja": "私はリンゴを食べるのが好きです。"
+  },
+  {
+    "simplified": "七",
+    "meaning_ja": "七；7",
+    "example_zh": "一个星期有七天。",
+    "example_pinyin": "Yí ge xīngqī yǒu qī tiān.",
+    "example_en": "A week has seven days.",
+    "example_ja": "一週間は七日あります。"
+  },
+  {
+    "simplified": "前面",
+    "meaning_ja": "前；前方",
+    "example_zh": "学校在前面。",
+    "example_pinyin": "Xuéxiào zài qiánmiàn.",
+    "example_en": "The school is ahead.",
+    "example_ja": "学校は前方にあります。"
+  },
+  {
+    "simplified": "钱",
+    "meaning_ja": "お金",
+    "example_zh": "我没有钱。",
+    "example_pinyin": "Wǒ méiyǒu qián.",
+    "example_en": "I don't have money.",
+    "example_ja": "お金がありません。"
+  },
+  {
+    "simplified": "请",
+    "meaning_ja": "どうぞ；～してください",
+    "example_zh": "请坐。",
+    "example_pinyin": "Qǐng zuò.",
+    "example_en": "Please sit down.",
+    "example_ja": "どうぞお座りください。"
+  },
+  {
+    "simplified": "去",
+    "meaning_ja": "行く",
+    "example_zh": "我去学校。",
+    "example_pinyin": "Wǒ qù xuéxiào.",
+    "example_en": "I go to school.",
+    "example_ja": "学校に行きます。"
+  },
+  {
+    "simplified": "热",
+    "meaning_ja": "暑い；熱い",
+    "example_zh": "今天很热。",
+    "example_pinyin": "Jīntiān hěn rè.",
+    "example_en": "It's hot today.",
+    "example_ja": "今日は暑いです。"
+  },
+  {
+    "simplified": "人",
+    "meaning_ja": "人",
+    "example_zh": "这里有很多人。",
+    "example_pinyin": "Zhèlǐ yǒu hěn duō rén.",
+    "example_en": "There are many people here.",
+    "example_ja": "ここにはたくさんの人がいます。"
+  },
+  {
+    "simplified": "认识",
+    "meaning_ja": "知っている；知り合う",
+    "example_zh": "我认识他。",
+    "example_pinyin": "Wǒ rènshi tā.",
+    "example_en": "I know him.",
+    "example_ja": "私は彼を知っています。"
+  },
+  {
+    "simplified": "日",
+    "meaning_ja": "日；太陽",
+    "example_zh": "今天是几月几日？",
+    "example_pinyin": "Jīntiān shì jǐ yuè jǐ rì?",
+    "example_en": "What date is today?",
+    "example_ja": "今日は何月何日ですか？"
+  },
+  {
+    "simplified": "三",
+    "meaning_ja": "三；3",
+    "example_zh": "我有三个孩子。",
+    "example_pinyin": "Wǒ yǒu sān ge háizi.",
+    "example_en": "I have three children.",
+    "example_ja": "私には三人の子供がいます。"
+  },
+  {
+    "simplified": "商店",
+    "meaning_ja": "店；商店",
+    "example_zh": "商店几点关门？",
+    "example_pinyin": "Shāngdiàn jǐ diǎn guānmén?",
+    "example_en": "What time does the store close?",
+    "example_ja": "店は何時に閉まりますか？"
+  },
+  {
+    "simplified": "上",
+    "meaning_ja": "上；上がる",
+    "example_zh": "书在桌子上。",
+    "example_pinyin": "Shū zài zhuōzi shàng.",
+    "example_en": "The book is on the table.",
+    "example_ja": "本は机の上にあります。"
+  },
+  {
+    "simplified": "上午",
+    "meaning_ja": "午前",
+    "example_zh": "上午我有课。",
+    "example_pinyin": "Shàngwǔ wǒ yǒu kè.",
+    "example_en": "I have class in the morning.",
+    "example_ja": "午前中は授業があります。"
+  },
+  {
+    "simplified": "少",
+    "meaning_ja": "少ない",
+    "example_zh": "这里人很少。",
+    "example_pinyin": "Zhèlǐ rén hěn shǎo.",
+    "example_en": "There are few people here.",
+    "example_ja": "ここは人が少ないです。"
+  },
+  {
+    "simplified": "什么",
+    "meaning_ja": "何",
+    "example_zh": "你在做什么？",
+    "example_pinyin": "Nǐ zài zuò shénme?",
+    "example_en": "What are you doing?",
+    "example_ja": "何をしていますか？"
+  },
+  {
+    "simplified": "十",
+    "meaning_ja": "十；10",
+    "example_zh": "我买了十个苹果。",
+    "example_pinyin": "Wǒ mǎi le shí ge píngguǒ.",
+    "example_en": "I bought ten apples.",
+    "example_ja": "リンゴを十個買いました。"
+  },
+  {
+    "simplified": "时候",
+    "meaning_ja": "時；頃",
+    "example_zh": "你什么时候来？",
+    "example_pinyin": "Nǐ shénme shíhou lái?",
+    "example_en": "When are you coming?",
+    "example_ja": "いつ来ますか？"
+  },
+  {
+    "simplified": "是",
+    "meaning_ja": "～である",
+    "example_zh": "我是学生。",
+    "example_pinyin": "Wǒ shì xuéshēng.",
+    "example_en": "I am a student.",
+    "example_ja": "私は学生です。"
+  },
+  {
+    "simplified": "书",
+    "meaning_ja": "本；書籍",
+    "example_zh": "这本书很有意思。",
+    "example_pinyin": "Zhè běn shū hěn yǒu yìsi.",
+    "example_en": "This book is very interesting.",
+    "example_ja": "この本はとても面白いです。"
+  },
+  {
+    "simplified": "谁",
+    "meaning_ja": "誰",
+    "example_zh": "他是谁？",
+    "example_pinyin": "Tā shì shéi?",
+    "example_en": "Who is he?",
+    "example_ja": "彼は誰ですか？"
+  },
+  {
+    "simplified": "水",
+    "meaning_ja": "水",
+    "example_zh": "请给我一杯水。",
+    "example_pinyin": "Qǐng gěi wǒ yì bēi shuǐ.",
+    "example_en": "Please give me a glass of water.",
+    "example_ja": "水を一杯ください。"
+  },
+  {
+    "simplified": "水果",
+    "meaning_ja": "果物",
+    "example_zh": "我喜欢吃水果。",
+    "example_pinyin": "Wǒ xǐhuan chī shuǐguǒ.",
+    "example_en": "I like to eat fruit.",
+    "example_ja": "果物を食べるのが好きです。"
+  },
+  {
+    "simplified": "睡觉",
+    "meaning_ja": "寝る；眠る",
+    "example_zh": "我十点睡觉。",
+    "example_pinyin": "Wǒ shí diǎn shuìjiào.",
+    "example_en": "I go to bed at ten.",
+    "example_ja": "私は十時に寝ます。"
+  },
+  {
+    "simplified": "说话",
+    "meaning_ja": "話す；しゃべる",
+    "example_zh": "请小声说话。",
+    "example_pinyin": "Qǐng xiǎo shēng shuōhuà.",
+    "example_en": "Please speak softly.",
+    "example_ja": "小声で話してください。"
+  },
+  {
+    "simplified": "四",
+    "meaning_ja": "四；4",
+    "example_zh": "一年有四个季节。",
+    "example_pinyin": "Yì nián yǒu sì ge jìjié.",
+    "example_en": "A year has four seasons.",
+    "example_ja": "一年には四つの季節があります。"
+  },
+  {
+    "simplified": "岁",
+    "meaning_ja": "～歳",
+    "example_zh": "我二十岁了。",
+    "example_pinyin": "Wǒ èrshí suì le.",
+    "example_en": "I'm twenty years old.",
+    "example_ja": "私は二十歳です。"
+  },
+  {
+    "simplified": "他",
+    "meaning_ja": "彼",
+    "example_zh": "他是我的同学。",
+    "example_pinyin": "Tā shì wǒ de tóngxué.",
+    "example_en": "He is my classmate.",
+    "example_ja": "彼は私のクラスメートです。"
+  },
+  {
+    "simplified": "她",
+    "meaning_ja": "彼女",
+    "example_zh": "她是医生。",
+    "example_pinyin": "Tā shì yīshēng.",
+    "example_en": "She is a doctor.",
+    "example_ja": "彼女は医者です。"
+  },
+  {
+    "simplified": "太",
+    "meaning_ja": "～すぎる；とても",
+    "example_zh": "这个太贵了。",
+    "example_pinyin": "Zhège tài guì le.",
+    "example_en": "This is too expensive.",
+    "example_ja": "これは高すぎます。"
+  },
+  {
+    "simplified": "天气",
+    "meaning_ja": "天気",
+    "example_zh": "今天天气怎么样？",
+    "example_pinyin": "Jīntiān tiānqì zěnmeyàng?",
+    "example_en": "How's the weather today?",
+    "example_ja": "今日の天気はどうですか？"
+  },
+  {
+    "simplified": "听",
+    "meaning_ja": "聞く",
+    "example_zh": "我喜欢听音乐。",
+    "example_pinyin": "Wǒ xǐhuan tīng yīnyuè.",
+    "example_en": "I like listening to music.",
+    "example_ja": "音楽を聴くのが好きです。"
+  },
+  {
+    "simplified": "同学",
+    "meaning_ja": "クラスメート；同級生",
+    "example_zh": "我和同学一起学习。",
+    "example_pinyin": "Wǒ hé tóngxué yìqǐ xuéxí.",
+    "example_en": "I study with classmates.",
+    "example_ja": "クラスメートと一緒に勉強します。"
+  },
+  {
+    "simplified": "喂",
+    "meaning_ja": "もしもし；おい",
+    "example_zh": "喂，你好！",
+    "example_pinyin": "Wèi, nǐ hǎo!",
+    "example_en": "Hello! (on the phone)",
+    "example_ja": "もしもし！"
+  },
+  {
+    "simplified": "我",
+    "meaning_ja": "私",
+    "example_zh": "我是中国人。",
+    "example_pinyin": "Wǒ shì Zhōngguó rén.",
+    "example_en": "I am Chinese.",
+    "example_ja": "私は中国人です。"
+  },
+  {
+    "simplified": "我们",
+    "meaning_ja": "私たち",
+    "example_zh": "我们是好朋友。",
+    "example_pinyin": "Wǒmen shì hǎo péngyou.",
+    "example_en": "We are good friends.",
+    "example_ja": "私たちは仲良しです。"
+  },
+  {
+    "simplified": "五",
+    "meaning_ja": "五；5",
+    "example_zh": "我每天工作五个小时。",
+    "example_pinyin": "Wǒ měitiān gōngzuò wǔ ge xiǎoshí.",
+    "example_en": "I work five hours every day.",
+    "example_ja": "毎日五時間働きます。"
+  },
+  {
+    "simplified": "喜欢",
+    "meaning_ja": "好き；好む",
+    "example_zh": "我喜欢中国菜。",
+    "example_pinyin": "Wǒ xǐhuan Zhōngguó cài.",
+    "example_en": "I like Chinese food.",
+    "example_ja": "中華料理が好きです。"
+  },
+  {
+    "simplified": "下",
+    "meaning_ja": "下；降りる",
+    "example_zh": "请下车。",
+    "example_pinyin": "Qǐng xià chē.",
+    "example_en": "Please get off.",
+    "example_ja": "降りてください。"
+  },
+  {
+    "simplified": "下午",
+    "meaning_ja": "午後",
+    "example_zh": "下午我去图书馆。",
+    "example_pinyin": "Xiàwǔ wǒ qù túshūguǎn.",
+    "example_en": "I go to the library in the afternoon.",
+    "example_ja": "午後は図書館に行きます。"
+  },
+  {
+    "simplified": "下雨",
+    "meaning_ja": "雨が降る",
+    "example_zh": "明天会下雨吗？",
+    "example_pinyin": "Míngtiān huì xiàyǔ ma?",
+    "example_en": "Will it rain tomorrow?",
+    "example_ja": "明日は雨が降りますか？"
+  },
+  {
+    "simplified": "先生",
+    "meaning_ja": "～さん（男性敬称）",
+    "example_zh": "王先生，你好！",
+    "example_pinyin": "Wáng xiānsheng, nǐ hǎo!",
+    "example_en": "Hello, Mr. Wang!",
+    "example_ja": "王さん、こんにちは！"
+  },
+  {
+    "simplified": "现在",
+    "meaning_ja": "今；現在",
+    "example_zh": "现在几点了？",
+    "example_pinyin": "Xiànzài jǐ diǎn le?",
+    "example_en": "What time is it now?",
+    "example_ja": "今何時ですか？"
+  },
+  {
+    "simplified": "想",
+    "meaning_ja": "～したい；思う",
+    "example_zh": "我想去旅游。",
+    "example_pinyin": "Wǒ xiǎng qù lǚyóu.",
+    "example_en": "I want to travel.",
+    "example_ja": "旅行に行きたいです。"
+  },
+  {
+    "simplified": "小",
+    "meaning_ja": "小さい",
+    "example_zh": "这只猫很小。",
+    "example_pinyin": "Zhè zhī māo hěn xiǎo.",
+    "example_en": "This cat is very small.",
+    "example_ja": "この猫はとても小さいです。"
+  },
+  {
+    "simplified": "小姐",
+    "meaning_ja": "お嬢さん；～さん（女性）",
+    "example_zh": "李小姐，请进。",
+    "example_pinyin": "Lǐ xiǎojiě, qǐng jìn.",
+    "example_en": "Miss Li, please come in.",
+    "example_ja": "李さん、どうぞお入りください。"
+  },
+  {
+    "simplified": "些",
+    "meaning_ja": "いくつか；少し",
+    "example_zh": "我买了一些水果。",
+    "example_pinyin": "Wǒ mǎi le yìxiē shuǐguǒ.",
+    "example_en": "I bought some fruit.",
+    "example_ja": "果物をいくつか買いました。"
+  },
+  {
+    "simplified": "写",
+    "meaning_ja": "書く",
+    "example_zh": "请写你的名字。",
+    "example_pinyin": "Qǐng xiě nǐ de míngzi.",
+    "example_en": "Please write your name.",
+    "example_ja": "名前を書いてください。"
+  },
+  {
+    "simplified": "谢谢",
+    "meaning_ja": "ありがとう",
+    "example_zh": "谢谢你的帮助。",
+    "example_pinyin": "Xièxie nǐ de bāngzhù.",
+    "example_en": "Thank you for your help.",
+    "example_ja": "助けてくれてありがとう。"
+  },
+  {
+    "simplified": "星期",
+    "meaning_ja": "週；曜日",
+    "example_zh": "今天星期几？",
+    "example_pinyin": "Jīntiān xīngqī jǐ?",
+    "example_en": "What day of the week is it?",
+    "example_ja": "今日は何曜日ですか？"
+  },
+  {
+    "simplified": "学生",
+    "meaning_ja": "学生",
+    "example_zh": "我是大学生。",
+    "example_pinyin": "Wǒ shì dàxuéshēng.",
+    "example_en": "I am a college student.",
+    "example_ja": "私は大学生です。"
+  },
+  {
+    "simplified": "学习",
+    "meaning_ja": "勉強する；学ぶ",
+    "example_zh": "我每天学习汉语。",
+    "example_pinyin": "Wǒ měitiān xuéxí Hànyǔ.",
+    "example_en": "I study Chinese every day.",
+    "example_ja": "毎日中国語を勉強します。"
+  },
+  {
+    "simplified": "学校",
+    "meaning_ja": "学校",
+    "example_zh": "我们的学校很大。",
+    "example_pinyin": "Wǒmen de xuéxiào hěn dà.",
+    "example_en": "Our school is very big.",
+    "example_ja": "私たちの学校はとても大きいです。"
+  },
+  {
+    "simplified": "一",
+    "meaning_ja": "一；1",
+    "example_zh": "我有一个问题。",
+    "example_pinyin": "Wǒ yǒu yí ge wèntí.",
+    "example_en": "I have a question.",
+    "example_ja": "質問が一つあります。"
+  },
+  {
+    "simplified": "衣服",
+    "meaning_ja": "服；衣類",
+    "example_zh": "这件衣服很好看。",
+    "example_pinyin": "Zhè jiàn yīfu hěn hǎokàn.",
+    "example_en": "This clothes look nice.",
+    "example_ja": "この服はきれいです。"
+  },
+  {
+    "simplified": "医生",
+    "meaning_ja": "医者",
+    "example_zh": "医生说我很健康。",
+    "example_pinyin": "Yīshēng shuō wǒ hěn jiànkāng.",
+    "example_en": "The doctor says I'm healthy.",
+    "example_ja": "医者は私が健康だと言いました。"
+  },
+  {
+    "simplified": "医院",
+    "meaning_ja": "病院",
+    "example_zh": "医院在哪里？",
+    "example_pinyin": "Yīyuàn zài nǎlǐ?",
+    "example_en": "Where is the hospital?",
+    "example_ja": "病院はどこですか？"
+  },
+  {
+    "simplified": "椅子",
+    "meaning_ja": "椅子",
+    "example_zh": "请坐这把椅子。",
+    "example_pinyin": "Qǐng zuò zhè bǎ yǐzi.",
+    "example_en": "Please sit in this chair.",
+    "example_ja": "この椅子に座ってください。"
+  },
+  {
+    "simplified": "有",
+    "meaning_ja": "ある；いる；持っている",
+    "example_zh": "我有两个姐姐。",
+    "example_pinyin": "Wǒ yǒu liǎng ge jiějie.",
+    "example_en": "I have two older sisters.",
+    "example_ja": "私には姉が二人います。"
+  },
+  {
+    "simplified": "月",
+    "meaning_ja": "月",
+    "example_zh": "一年有十二个月。",
+    "example_pinyin": "Yì nián yǒu shí'èr ge yuè.",
+    "example_en": "A year has twelve months.",
+    "example_ja": "一年は十二か月あります。"
+  },
+  {
+    "simplified": "再见",
+    "meaning_ja": "さようなら",
+    "example_zh": "明天见，再见！",
+    "example_pinyin": "Míngtiān jiàn, zàijiàn!",
+    "example_en": "See you tomorrow, goodbye!",
+    "example_ja": "また明日、さようなら！"
+  },
+  {
+    "simplified": "在",
+    "meaning_ja": "～にいる；～にある；～している",
+    "example_zh": "我在家。",
+    "example_pinyin": "Wǒ zài jiā.",
+    "example_en": "I'm at home.",
+    "example_ja": "家にいます。"
+  },
+  {
+    "simplified": "怎么",
+    "meaning_ja": "どうやって；なぜ",
+    "example_zh": "这个字怎么写？",
+    "example_pinyin": "Zhège zì zěnme xiě?",
+    "example_en": "How do you write this character?",
+    "example_ja": "この字はどう書きますか？"
+  },
+  {
+    "simplified": "怎么样",
+    "meaning_ja": "どうですか；いかが",
+    "example_zh": "这个怎么样？",
+    "example_pinyin": "Zhège zěnmeyàng?",
+    "example_en": "How about this?",
+    "example_ja": "これはどうですか？"
+  },
+  {
+    "simplified": "这",
+    "meaning_ja": "この；これ",
+    "example_zh": "这是什么？",
+    "example_pinyin": "Zhè shì shénme?",
+    "example_en": "What is this?",
+    "example_ja": "これは何ですか？"
+  },
+  {
+    "simplified": "中国",
+    "meaning_ja": "中国",
+    "example_zh": "中国很大。",
+    "example_pinyin": "Zhōngguó hěn dà.",
+    "example_en": "China is very big.",
+    "example_ja": "中国はとても大きいです。"
+  },
+  {
+    "simplified": "中午",
+    "meaning_ja": "正午；昼",
+    "example_zh": "中午我们吃饭吧。",
+    "example_pinyin": "Zhōngwǔ wǒmen chīfàn ba.",
+    "example_en": "Let's eat lunch at noon.",
+    "example_ja": "お昼にご飯を食べましょう。"
+  },
+  {
+    "simplified": "住",
+    "meaning_ja": "住む",
+    "example_zh": "你住在哪里？",
+    "example_pinyin": "Nǐ zhù zài nǎlǐ?",
+    "example_en": "Where do you live?",
+    "example_ja": "どこに住んでいますか？"
+  },
+  {
+    "simplified": "桌子",
+    "meaning_ja": "机；テーブル",
+    "example_zh": "桌子上有一本书。",
+    "example_pinyin": "Zhuōzi shàng yǒu yì běn shū.",
+    "example_en": "There's a book on the table.",
+    "example_ja": "机の上に本が一冊あります。"
+  },
+  {
+    "simplified": "字",
+    "meaning_ja": "字；文字",
+    "example_zh": "你写的字很好看。",
+    "example_pinyin": "Nǐ xiě de zì hěn hǎokàn.",
+    "example_en": "Your handwriting is nice.",
+    "example_ja": "あなたの字はきれいです。"
+  },
+  {
+    "simplified": "昨天",
+    "meaning_ja": "昨日",
+    "example_zh": "昨天我去了公园。",
+    "example_pinyin": "Zuótiān wǒ qù le gōngyuán.",
+    "example_en": "I went to the park yesterday.",
+    "example_ja": "昨日公園に行きました。"
+  },
+  {
+    "simplified": "坐",
+    "meaning_ja": "座る；乗る",
+    "example_zh": "请坐这里。",
+    "example_pinyin": "Qǐng zuò zhèlǐ.",
+    "example_en": "Please sit here.",
+    "example_ja": "ここに座ってください。"
+  },
+  {
+    "simplified": "做",
+    "meaning_ja": "する；作る",
+    "example_zh": "你在做什么？",
+    "example_pinyin": "Nǐ zài zuò shénme?",
+    "example_en": "What are you doing?",
+    "example_ja": "何をしていますか？"
+  },
+  {
+    "simplified": "吧",
+    "meaning_ja": "～しよう（提案助詞）",
+    "example_zh": "我们走吧。",
+    "example_pinyin": "Wǒmen zǒu ba.",
+    "example_en": "Let's go.",
+    "example_ja": "行きましょう。"
+  },
+  {
+    "simplified": "白",
+    "meaning_ja": "白い",
+    "example_zh": "她穿着白色的衣服。",
+    "example_pinyin": "Tā chuānzhe báisè de yīfu.",
+    "example_en": "She's wearing white clothes.",
+    "example_ja": "彼女は白い服を着ています。"
+  },
+  {
+    "simplified": "百",
+    "meaning_ja": "百；100",
+    "example_zh": "这个要一百块。",
+    "example_pinyin": "Zhège yào yì bǎi kuài.",
+    "example_en": "This costs one hundred yuan.",
+    "example_ja": "これは百元です。"
+  },
+  {
+    "simplified": "帮助",
+    "meaning_ja": "助ける；手伝う",
+    "example_zh": "谢谢你帮助我。",
+    "example_pinyin": "Xièxie nǐ bāngzhù wǒ.",
+    "example_en": "Thank you for helping me.",
+    "example_ja": "助けてくれてありがとう。"
+  },
+  {
+    "simplified": "报纸",
+    "meaning_ja": "新聞",
+    "example_zh": "爸爸在看报纸。",
+    "example_pinyin": "Bàba zài kàn bàozhǐ.",
+    "example_en": "Dad is reading the newspaper.",
+    "example_ja": "お父さんは新聞を読んでいます。"
+  },
+  {
+    "simplified": "比",
+    "meaning_ja": "～より（比較）",
+    "example_zh": "他比我高。",
+    "example_pinyin": "Tā bǐ wǒ gāo.",
+    "example_en": "He is taller than me.",
+    "example_ja": "彼は私より背が高いです。"
+  },
+  {
+    "simplified": "便宜",
+    "meaning_ja": "安い",
+    "example_zh": "这个很便宜。",
+    "example_pinyin": "Zhège hěn piányi.",
+    "example_en": "This is very cheap.",
+    "example_ja": "これはとても安いです。"
+  },
+  {
+    "simplified": "别",
+    "meaning_ja": "～するな（禁止）",
+    "example_zh": "别说话！",
+    "example_pinyin": "Bié shuōhuà!",
+    "example_en": "Don't talk!",
+    "example_ja": "話さないで！"
+  },
+  {
+    "simplified": "唱歌",
+    "meaning_ja": "歌を歌う",
+    "example_zh": "她喜欢唱歌。",
+    "example_pinyin": "Tā xǐhuan chànggē.",
+    "example_en": "She likes to sing.",
+    "example_ja": "彼女は歌うのが好きです。"
+  },
+  {
+    "simplified": "出",
+    "meaning_ja": "出る；出す",
+    "example_zh": "他出去了。",
+    "example_pinyin": "Tā chūqù le.",
+    "example_en": "He went out.",
+    "example_ja": "彼は出かけました。"
+  },
+  {
+    "simplified": "穿",
+    "meaning_ja": "着る；履く",
+    "example_zh": "今天穿什么衣服？",
+    "example_pinyin": "Jīntiān chuān shénme yīfu?",
+    "example_en": "What should I wear today?",
+    "example_ja": "今日は何を着ますか？"
+  },
+  {
+    "simplified": "船",
+    "meaning_ja": "船；舟",
+    "example_zh": "我们坐船去。",
+    "example_pinyin": "Wǒmen zuò chuán qù.",
+    "example_en": "Let's go by boat.",
+    "example_ja": "船で行きましょう。"
+  },
+  {
+    "simplified": "次",
+    "meaning_ja": "～回（量詞）",
+    "example_zh": "我去过两次中国。",
+    "example_pinyin": "Wǒ qùguò liǎng cì Zhōngguó.",
+    "example_en": "I've been to China twice.",
+    "example_ja": "中国に二回行ったことがあります。"
+  },
+  {
+    "simplified": "从",
+    "meaning_ja": "～から",
+    "example_zh": "我从北京来。",
+    "example_pinyin": "Wǒ cóng Běijīng lái.",
+    "example_en": "I come from Beijing.",
+    "example_ja": "北京から来ました。"
+  },
+  {
+    "simplified": "错",
+    "meaning_ja": "間違い；間違った",
+    "example_zh": "你说错了。",
+    "example_pinyin": "Nǐ shuō cuò le.",
+    "example_en": "You said it wrong.",
+    "example_ja": "言い間違えましたよ。"
+  },
+  {
+    "simplified": "打篮球",
+    "meaning_ja": "バスケットボールをする",
+    "example_zh": "我喜欢打篮球。",
+    "example_pinyin": "Wǒ xǐhuan dǎ lánqiú.",
+    "example_en": "I like playing basketball.",
+    "example_ja": "バスケをするのが好きです。"
+  },
+  {
+    "simplified": "大家",
+    "meaning_ja": "みんな；皆さん",
+    "example_zh": "大家好！",
+    "example_pinyin": "Dàjiā hǎo!",
+    "example_en": "Hello, everyone!",
+    "example_ja": "皆さん、こんにちは！"
+  },
+  {
+    "simplified": "但是",
+    "meaning_ja": "しかし；でも",
+    "example_zh": "我想去，但是没时间。",
+    "example_pinyin": "Wǒ xiǎng qù, dànshì méi shíjiān.",
+    "example_en": "I want to go, but I don't have time.",
+    "example_ja": "行きたいけど、時間がありません。"
+  },
+  {
+    "simplified": "到",
+    "meaning_ja": "着く；～まで",
+    "example_zh": "我到了。",
+    "example_pinyin": "Wǒ dào le.",
+    "example_en": "I've arrived.",
+    "example_ja": "着きました。"
+  },
+  {
+    "simplified": "得",
+    "meaning_ja": "～しなければならない",
+    "example_zh": "我得走了。",
+    "example_pinyin": "Wǒ děi zǒu le.",
+    "example_en": "I have to go.",
+    "example_ja": "もう行かなければなりません。"
+  },
+  {
+    "simplified": "弟弟",
+    "meaning_ja": "弟",
+    "example_zh": "我弟弟十五岁。",
+    "example_pinyin": "Wǒ dìdi shíwǔ suì.",
+    "example_en": "My younger brother is fifteen.",
+    "example_ja": "弟は十五歳です。"
+  },
+  {
+    "simplified": "第一",
+    "meaning_ja": "第一；一番目",
+    "example_zh": "他是第一名。",
+    "example_pinyin": "Tā shì dì yī míng.",
+    "example_en": "He is first place.",
+    "example_ja": "彼は一位です。"
+  },
+  {
+    "simplified": "懂",
+    "meaning_ja": "分かる；理解する",
+    "example_zh": "我听不懂。",
+    "example_pinyin": "Wǒ tīng bù dǒng.",
+    "example_en": "I don't understand.",
+    "example_ja": "聞き取れません。"
+  },
+  {
+    "simplified": "房间",
+    "meaning_ja": "部屋",
+    "example_zh": "这个房间很干净。",
+    "example_pinyin": "Zhège fángjiān hěn gānjìng.",
+    "example_en": "This room is very clean.",
+    "example_ja": "この部屋はとてもきれいです。"
+  },
+  {
+    "simplified": "非常",
+    "meaning_ja": "非常に；とても",
+    "example_zh": "非常感谢。",
+    "example_pinyin": "Fēicháng gǎnxiè.",
+    "example_en": "Thank you very much.",
+    "example_ja": "大変感謝します。"
+  },
+  {
+    "simplified": "服务员",
+    "meaning_ja": "店員；ウェイター",
+    "example_zh": "服务员，买单。",
+    "example_pinyin": "Fúwùyuán, mǎidān.",
+    "example_en": "Waiter, the check please.",
+    "example_ja": "すみません、お会計お願いします。"
+  },
+  {
+    "simplified": "高",
+    "meaning_ja": "高い；背が高い",
+    "example_zh": "他很高。",
+    "example_pinyin": "Tā hěn gāo.",
+    "example_en": "He is very tall.",
+    "example_ja": "彼はとても背が高いです。"
+  },
+  {
+    "simplified": "告诉",
+    "meaning_ja": "伝える；教える",
+    "example_zh": "请告诉我你的电话号码。",
+    "example_pinyin": "Qǐng gàosu wǒ nǐ de diànhuà hàomǎ.",
+    "example_en": "Please tell me your phone number.",
+    "example_ja": "電話番号を教えてください。"
+  },
+  {
+    "simplified": "哥哥",
+    "meaning_ja": "兄；お兄さん",
+    "example_zh": "我哥哥在大学学习。",
+    "example_pinyin": "Wǒ gēge zài dàxué xuéxí.",
+    "example_en": "My older brother studies at university.",
+    "example_ja": "兄は大学で勉強しています。"
+  },
+  {
+    "simplified": "给",
+    "meaning_ja": "あげる；～に",
+    "example_zh": "我给你一本书。",
+    "example_pinyin": "Wǒ gěi nǐ yì běn shū.",
+    "example_en": "I give you a book.",
+    "example_ja": "本を一冊あげます。"
+  },
+  {
+    "simplified": "公共汽车",
+    "meaning_ja": "バス",
+    "example_zh": "我坐公共汽车上班。",
+    "example_pinyin": "Wǒ zuò gōnggòng qìchē shàngbān.",
+    "example_en": "I take the bus to work.",
+    "example_ja": "バスで出勤します。"
+  },
+  {
+    "simplified": "公斤",
+    "meaning_ja": "キログラム",
+    "example_zh": "我买了两公斤苹果。",
+    "example_pinyin": "Wǒ mǎi le liǎng gōngjīn píngguǒ.",
+    "example_en": "I bought two kilograms of apples.",
+    "example_ja": "リンゴを二キロ買いました。"
+  },
+  {
+    "simplified": "公司",
+    "meaning_ja": "会社",
+    "example_zh": "他在一家大公司工作。",
+    "example_pinyin": "Tā zài yì jiā dà gōngsī gōngzuò.",
+    "example_en": "He works at a big company.",
+    "example_ja": "彼は大きな会社で働いています。"
+  },
+  {
+    "simplified": "贵",
+    "meaning_ja": "高い（値段）",
+    "example_zh": "这个太贵了。",
+    "example_pinyin": "Zhège tài guì le.",
+    "example_en": "This is too expensive.",
+    "example_ja": "これは高すぎます。"
+  },
+  {
+    "simplified": "还",
+    "meaning_ja": "まだ；さらに",
+    "example_zh": "你还要别的吗？",
+    "example_pinyin": "Nǐ hái yào biéde ma?",
+    "example_en": "Do you want anything else?",
+    "example_ja": "他に何か要りますか？"
+  },
+  {
+    "simplified": "孩子",
+    "meaning_ja": "子供",
+    "example_zh": "孩子们在玩。",
+    "example_pinyin": "Háizimen zài wán.",
+    "example_en": "The children are playing.",
+    "example_ja": "子供たちは遊んでいます。"
+  },
+  {
+    "simplified": "好吃",
+    "meaning_ja": "おいしい",
+    "example_zh": "这个菜很好吃。",
+    "example_pinyin": "Zhège cài hěn hǎochī.",
+    "example_en": "This dish is delicious.",
+    "example_ja": "この料理はおいしいです。"
+  },
+  {
+    "simplified": "号",
+    "meaning_ja": "番号；～日",
+    "example_zh": "今天几号？",
+    "example_pinyin": "Jīntiān jǐ hào?",
+    "example_en": "What date is today?",
+    "example_ja": "今日は何日ですか？"
+  },
+  {
+    "simplified": "黑",
+    "meaning_ja": "黒い",
+    "example_zh": "他穿黑色的衣服。",
+    "example_pinyin": "Tā chuān hēisè de yīfu.",
+    "example_en": "He wears black clothes.",
+    "example_ja": "彼は黒い服を着ています。"
+  },
+  {
+    "simplified": "红",
+    "meaning_ja": "赤い",
+    "example_zh": "她喜欢红色。",
+    "example_pinyin": "Tā xǐhuan hóngsè.",
+    "example_en": "She likes the color red.",
+    "example_ja": "彼女は赤が好きです。"
+  },
+  {
+    "simplified": "欢迎",
+    "meaning_ja": "歓迎する；ようこそ",
+    "example_zh": "欢迎来到中国！",
+    "example_pinyin": "Huānyíng lái dào Zhōngguó!",
+    "example_en": "Welcome to China!",
+    "example_ja": "中国へようこそ！"
+  },
+  {
+    "simplified": "回答",
+    "meaning_ja": "答える；回答",
+    "example_zh": "请回答这个问题。",
+    "example_pinyin": "Qǐng huídá zhège wèntí.",
+    "example_en": "Please answer this question.",
+    "example_ja": "この質問に答えてください。"
+  },
+  {
+    "simplified": "机场",
+    "meaning_ja": "空港",
+    "example_zh": "我去机场接你。",
+    "example_pinyin": "Wǒ qù jīchǎng jiē nǐ.",
+    "example_en": "I'll pick you up at the airport.",
+    "example_ja": "空港に迎えに行きます。"
+  },
+  {
+    "simplified": "鸡蛋",
+    "meaning_ja": "卵",
+    "example_zh": "我每天吃一个鸡蛋。",
+    "example_pinyin": "Wǒ měitiān chī yí ge jīdàn.",
+    "example_en": "I eat an egg every day.",
+    "example_ja": "毎日卵を一つ食べます。"
+  },
+  {
+    "simplified": "件",
+    "meaning_ja": "～着；～件（量詞）",
+    "example_zh": "我买了三件衣服。",
+    "example_pinyin": "Wǒ mǎi le sān jiàn yīfu.",
+    "example_en": "I bought three pieces of clothing.",
+    "example_ja": "服を三着買いました。"
+  },
+  {
+    "simplified": "教室",
+    "meaning_ja": "教室",
+    "example_zh": "学生在教室里学习。",
+    "example_pinyin": "Xuéshēng zài jiàoshì lǐ xuéxí.",
+    "example_en": "Students study in the classroom.",
+    "example_ja": "学生は教室で勉強しています。"
+  },
+  {
+    "simplified": "介绍",
+    "meaning_ja": "紹介する",
+    "example_zh": "我来介绍一下。",
+    "example_pinyin": "Wǒ lái jièshào yíxià.",
+    "example_en": "Let me introduce.",
+    "example_ja": "ちょっと紹介させてください。"
+  },
+  {
+    "simplified": "姐姐",
+    "meaning_ja": "姉；お姉さん",
+    "example_zh": "我姐姐是老师。",
+    "example_pinyin": "Wǒ jiějie shì lǎoshī.",
+    "example_en": "My older sister is a teacher.",
+    "example_ja": "姉は先生です。"
+  },
+  {
+    "simplified": "近",
+    "meaning_ja": "近い",
+    "example_zh": "学校离我家很近。",
+    "example_pinyin": "Xuéxiào lí wǒ jiā hěn jìn.",
+    "example_en": "The school is close to my home.",
+    "example_ja": "学校は私の家から近いです。"
+  },
+  {
+    "simplified": "进",
+    "meaning_ja": "入る",
+    "example_zh": "请进！",
+    "example_pinyin": "Qǐng jìn!",
+    "example_en": "Please come in!",
+    "example_ja": "どうぞお入りください！"
+  },
+  {
+    "simplified": "就",
+    "meaning_ja": "すぐに；～なら",
+    "example_zh": "我就来。",
+    "example_pinyin": "Wǒ jiù lái.",
+    "example_en": "I'm coming right away.",
+    "example_ja": "すぐ行きます。"
+  },
+  {
+    "simplified": "觉得",
+    "meaning_ja": "思う；感じる",
+    "example_zh": "我觉得很有意思。",
+    "example_pinyin": "Wǒ juéde hěn yǒu yìsi.",
+    "example_en": "I think it's interesting.",
+    "example_ja": "面白いと思います。"
+  },
+  {
+    "simplified": "咖啡",
+    "meaning_ja": "コーヒー",
+    "example_zh": "我要一杯咖啡。",
+    "example_pinyin": "Wǒ yào yì bēi kāfēi.",
+    "example_en": "I'd like a cup of coffee.",
+    "example_ja": "コーヒーを一杯ください。"
+  },
+  {
+    "simplified": "开始",
+    "meaning_ja": "始まる；始める",
+    "example_zh": "电影要开始了。",
+    "example_pinyin": "Diànyǐng yào kāishǐ le.",
+    "example_en": "The movie is about to start.",
+    "example_ja": "映画がもうすぐ始まります。"
+  },
+  {
+    "simplified": "考试",
+    "meaning_ja": "試験；テスト",
+    "example_zh": "明天有考试。",
+    "example_pinyin": "Míngtiān yǒu kǎoshì.",
+    "example_en": "There's an exam tomorrow.",
+    "example_ja": "明日試験があります。"
+  },
+  {
+    "simplified": "可能",
+    "meaning_ja": "かもしれない；可能性",
+    "example_zh": "明天可能下雨。",
+    "example_pinyin": "Míngtiān kěnéng xiàyǔ.",
+    "example_en": "It might rain tomorrow.",
+    "example_ja": "明日は雨が降るかもしれません。"
+  },
+  {
+    "simplified": "可以",
+    "meaning_ja": "～してもよい；できる",
+    "example_zh": "我可以进来吗？",
+    "example_pinyin": "Wǒ kěyǐ jìnlái ma?",
+    "example_en": "May I come in?",
+    "example_ja": "入ってもいいですか？"
+  },
+  {
+    "simplified": "课",
+    "meaning_ja": "授業",
+    "example_zh": "今天有三节课。",
+    "example_pinyin": "Jīntiān yǒu sān jié kè.",
+    "example_en": "There are three classes today.",
+    "example_ja": "今日は三コマ授業があります。"
+  },
+  {
+    "simplified": "快",
+    "meaning_ja": "速い；もうすぐ",
+    "example_zh": "你走得太快了。",
+    "example_pinyin": "Nǐ zǒu de tài kuài le.",
+    "example_en": "You walk too fast.",
+    "example_ja": "歩くのが速すぎます。"
+  },
+  {
+    "simplified": "快乐",
+    "meaning_ja": "楽しい；愉快な",
+    "example_zh": "祝你生日快乐！",
+    "example_pinyin": "Zhù nǐ shēngrì kuàilè!",
+    "example_en": "Happy birthday!",
+    "example_ja": "お誕生日おめでとう！"
+  },
+  {
+    "simplified": "累",
+    "meaning_ja": "疲れた",
+    "example_zh": "今天工作很累。",
+    "example_pinyin": "Jīntiān gōngzuò hěn lèi.",
+    "example_en": "Work was tiring today.",
+    "example_ja": "今日は仕事で疲れました。"
+  },
+  {
+    "simplified": "离",
+    "meaning_ja": "～から離れている",
+    "example_zh": "学校离这里不远。",
+    "example_pinyin": "Xuéxiào lí zhèlǐ bù yuǎn.",
+    "example_en": "The school is not far from here.",
+    "example_ja": "学校はここから遠くないです。"
+  },
+  {
+    "simplified": "两",
+    "meaning_ja": "二つ；二",
+    "example_zh": "我买了两本书。",
+    "example_pinyin": "Wǒ mǎi le liǎng běn shū.",
+    "example_en": "I bought two books.",
+    "example_ja": "本を二冊買いました。"
+  },
+  {
+    "simplified": "路",
+    "meaning_ja": "道；路",
+    "example_zh": "这条路很长。",
+    "example_pinyin": "Zhè tiáo lù hěn cháng.",
+    "example_en": "This road is very long.",
+    "example_ja": "この道はとても長いです。"
+  },
+  {
+    "simplified": "旅游",
+    "meaning_ja": "旅行する",
+    "example_zh": "我喜欢旅游。",
+    "example_pinyin": "Wǒ xǐhuan lǚyóu.",
+    "example_en": "I like traveling.",
+    "example_ja": "旅行が好きです。"
+  },
+  {
+    "simplified": "卖",
+    "meaning_ja": "売る",
+    "example_zh": "这家店卖水果。",
+    "example_pinyin": "Zhè jiā diàn mài shuǐguǒ.",
+    "example_en": "This store sells fruit.",
+    "example_ja": "この店は果物を売っています。"
+  },
+  {
+    "simplified": "慢",
+    "meaning_ja": "遅い；ゆっくり",
+    "example_zh": "请说慢一点。",
+    "example_pinyin": "Qǐng shuō màn yìdiǎn.",
+    "example_en": "Please speak slower.",
+    "example_ja": "もう少しゆっくり話してください。"
+  },
+  {
+    "simplified": "忙",
+    "meaning_ja": "忙しい",
+    "example_zh": "最近很忙。",
+    "example_pinyin": "Zuìjìn hěn máng.",
+    "example_en": "I've been busy recently.",
+    "example_ja": "最近忙しいです。"
+  },
+  {
+    "simplified": "每",
+    "meaning_ja": "毎～；それぞれ",
+    "example_zh": "我每天运动。",
+    "example_pinyin": "Wǒ měitiān yùndòng.",
+    "example_en": "I exercise every day.",
+    "example_ja": "毎日運動します。"
+  },
+  {
+    "simplified": "妹妹",
+    "meaning_ja": "妹",
+    "example_zh": "我妹妹在上学。",
+    "example_pinyin": "Wǒ mèimei zài shàngxué.",
+    "example_en": "My younger sister goes to school.",
+    "example_ja": "妹は学校に通っています。"
+  },
+  {
+    "simplified": "门",
+    "meaning_ja": "ドア；門",
+    "example_zh": "请关门。",
+    "example_pinyin": "Qǐng guān mén.",
+    "example_en": "Please close the door.",
+    "example_ja": "ドアを閉めてください。"
+  },
+  {
+    "simplified": "男人",
+    "meaning_ja": "男性；男の人",
+    "example_zh": "那个男人是谁？",
+    "example_pinyin": "Nàge nánrén shì shéi?",
+    "example_en": "Who is that man?",
+    "example_ja": "あの男の人は誰ですか？"
+  },
+  {
+    "simplified": "您",
+    "meaning_ja": "あなた（敬称）",
+    "example_zh": "您好！请问您贵姓？",
+    "example_pinyin": "Nín hǎo! Qǐngwèn nín guìxìng?",
+    "example_en": "Hello! May I ask your name?",
+    "example_ja": "こんにちは！お名前を伺ってもよろしいですか？"
+  },
+  {
+    "simplified": "牛奶",
+    "meaning_ja": "牛乳；ミルク",
+    "example_zh": "我每天喝牛奶。",
+    "example_pinyin": "Wǒ měitiān hē niúnǎi.",
+    "example_en": "I drink milk every day.",
+    "example_ja": "毎日牛乳を飲みます。"
+  },
+  {
+    "simplified": "女人",
+    "meaning_ja": "女性；女の人",
+    "example_zh": "那个女人很漂亮。",
+    "example_pinyin": "Nàge nǚrén hěn piàoliang.",
+    "example_en": "That woman is very beautiful.",
+    "example_ja": "あの女性はとてもきれいです。"
+  },
+  {
+    "simplified": "旁边",
+    "meaning_ja": "隣；そば",
+    "example_zh": "银行在学校旁边。",
+    "example_pinyin": "Yínháng zài xuéxiào pángbiān.",
+    "example_en": "The bank is next to the school.",
+    "example_ja": "銀行は学校の隣にあります。"
+  },
+  {
+    "simplified": "跑步",
+    "meaning_ja": "ジョギングする；走る",
+    "example_zh": "我每天早上跑步。",
+    "example_pinyin": "Wǒ měitiān zǎoshang pǎobù.",
+    "example_en": "I jog every morning.",
+    "example_ja": "毎朝ジョギングします。"
+  },
+  {
+    "simplified": "票",
+    "meaning_ja": "チケット；切符",
+    "example_zh": "请给我两张票。",
+    "example_pinyin": "Qǐng gěi wǒ liǎng zhāng piào.",
+    "example_en": "Please give me two tickets.",
+    "example_ja": "チケットを二枚ください。"
+  },
+  {
+    "simplified": "妻子",
+    "meaning_ja": "妻",
+    "example_zh": "他和妻子去旅游了。",
+    "example_pinyin": "Tā hé qīzi qù lǚyóu le.",
+    "example_en": "He went traveling with his wife.",
+    "example_ja": "彼は妻と旅行に行きました。"
+  },
+  {
+    "simplified": "起床",
+    "meaning_ja": "起きる；起床する",
+    "example_zh": "我每天六点起床。",
+    "example_pinyin": "Wǒ měitiān liù diǎn qǐchuáng.",
+    "example_en": "I get up at six every day.",
+    "example_ja": "毎日六時に起きます。"
+  },
+  {
+    "simplified": "千",
+    "meaning_ja": "千；1000",
+    "example_zh": "这个要三千块。",
+    "example_pinyin": "Zhège yào sān qiān kuài.",
+    "example_en": "This costs three thousand yuan.",
+    "example_ja": "これは三千元です。"
+  },
+  {
+    "simplified": "晴",
+    "meaning_ja": "晴れ",
+    "example_zh": "今天是晴天。",
+    "example_pinyin": "Jīntiān shì qíngtiān.",
+    "example_en": "It's sunny today.",
+    "example_ja": "今日は晴れです。"
+  },
+  {
+    "simplified": "去年",
+    "meaning_ja": "去年；昨年",
+    "example_zh": "去年我去了日本。",
+    "example_pinyin": "Qùnián wǒ qù le Rìběn.",
+    "example_en": "I went to Japan last year.",
+    "example_ja": "去年日本に行きました。"
+  },
+  {
+    "simplified": "让",
+    "meaning_ja": "～させる；譲る",
+    "example_zh": "妈妈让我做作业。",
+    "example_pinyin": "Māma ràng wǒ zuò zuòyè.",
+    "example_en": "Mom told me to do homework.",
+    "example_ja": "お母さんに宿題をしなさいと言われました。"
+  },
+  {
+    "simplified": "上班",
+    "meaning_ja": "出勤する",
+    "example_zh": "我每天八点上班。",
+    "example_pinyin": "Wǒ měitiān bā diǎn shàngbān.",
+    "example_en": "I go to work at eight every day.",
+    "example_ja": "毎日八時に出勤します。"
+  },
+  {
+    "simplified": "身体",
+    "meaning_ja": "体；身体",
+    "example_zh": "你的身体怎么样？",
+    "example_pinyin": "Nǐ de shēntǐ zěnmeyàng?",
+    "example_en": "How is your health?",
+    "example_ja": "体の調子はどうですか？"
+  },
+  {
+    "simplified": "生病",
+    "meaning_ja": "病気になる",
+    "example_zh": "他生病了。",
+    "example_pinyin": "Tā shēngbìng le.",
+    "example_en": "He got sick.",
+    "example_ja": "彼は病気になりました。"
+  },
+  {
+    "simplified": "生日",
+    "meaning_ja": "誕生日",
+    "example_zh": "今天是她的生日。",
+    "example_pinyin": "Jīntiān shì tā de shēngrì.",
+    "example_en": "Today is her birthday.",
+    "example_ja": "今日は彼女の誕生日です。"
+  },
+  {
+    "simplified": "时间",
+    "meaning_ja": "時間",
+    "example_zh": "我没有时间。",
+    "example_pinyin": "Wǒ méiyǒu shíjiān.",
+    "example_en": "I don't have time.",
+    "example_ja": "時間がありません。"
+  },
+  {
+    "simplified": "事情",
+    "meaning_ja": "事；用事",
+    "example_zh": "我有一件事情要说。",
+    "example_pinyin": "Wǒ yǒu yí jiàn shìqing yào shuō.",
+    "example_en": "I have something to say.",
+    "example_ja": "言いたいことがあります。"
+  },
+  {
+    "simplified": "手表",
+    "meaning_ja": "腕時計",
+    "example_zh": "这块手表很贵。",
+    "example_pinyin": "Zhè kuài shǒubiǎo hěn guì.",
+    "example_en": "This watch is expensive.",
+    "example_ja": "この腕時計は高いです。"
+  },
+  {
+    "simplified": "手机",
+    "meaning_ja": "携帯電話；スマホ",
+    "example_zh": "我的手机没电了。",
+    "example_pinyin": "Wǒ de shǒujī méi diàn le.",
+    "example_en": "My phone is out of battery.",
+    "example_ja": "携帯の充電が切れました。"
+  },
+  {
+    "simplified": "送",
+    "meaning_ja": "送る；届ける；贈る",
+    "example_zh": "我送你回家。",
+    "example_pinyin": "Wǒ sòng nǐ huí jiā.",
+    "example_en": "I'll walk you home.",
+    "example_ja": "家まで送ります。"
+  },
+  {
+    "simplified": "所以",
+    "meaning_ja": "だから；それで",
+    "example_zh": "下雨了，所以我没去。",
+    "example_pinyin": "Xiàyǔ le, suǒyǐ wǒ méi qù.",
+    "example_en": "It rained, so I didn't go.",
+    "example_ja": "雨が降ったので行きませんでした。"
+  },
+  {
+    "simplified": "它",
+    "meaning_ja": "それ（動物・物）",
+    "example_zh": "这只猫，它很可爱。",
+    "example_pinyin": "Zhè zhī māo, tā hěn kě'ài.",
+    "example_en": "This cat, it's very cute.",
+    "example_ja": "この猫はとてもかわいいです。"
+  },
+  {
+    "simplified": "踢",
+    "meaning_ja": "蹴る",
+    "example_zh": "他喜欢踢足球。",
+    "example_pinyin": "Tā xǐhuan tī zúqiú.",
+    "example_en": "He likes playing soccer.",
+    "example_ja": "彼はサッカーが好きです。"
+  },
+  {
+    "simplified": "题",
+    "meaning_ja": "問題；題",
+    "example_zh": "这道题很难。",
+    "example_pinyin": "Zhè dào tí hěn nán.",
+    "example_en": "This question is very hard.",
+    "example_ja": "この問題はとても難しいです。"
+  },
+  {
+    "simplified": "跳舞",
+    "meaning_ja": "踊る；ダンス",
+    "example_zh": "她喜欢跳舞。",
+    "example_pinyin": "Tā xǐhuan tiàowǔ.",
+    "example_en": "She likes dancing.",
+    "example_ja": "彼女は踊るのが好きです。"
+  },
+  {
+    "simplified": "外",
+    "meaning_ja": "外；外側",
+    "example_zh": "外面很冷。",
+    "example_pinyin": "Wàimiàn hěn lěng.",
+    "example_en": "It's cold outside.",
+    "example_ja": "外は寒いです。"
+  },
+  {
+    "simplified": "完",
+    "meaning_ja": "終わる；完了する",
+    "example_zh": "作业做完了。",
+    "example_pinyin": "Zuòyè zuò wán le.",
+    "example_en": "I finished my homework.",
+    "example_ja": "宿題が終わりました。"
+  },
+  {
+    "simplified": "玩",
+    "meaning_ja": "遊ぶ",
+    "example_zh": "孩子们在外面玩。",
+    "example_pinyin": "Háizimen zài wàimiàn wán.",
+    "example_en": "The children are playing outside.",
+    "example_ja": "子供たちは外で遊んでいます。"
+  },
+  {
+    "simplified": "晚上",
+    "meaning_ja": "夜；晩",
+    "example_zh": "晚上我看电视。",
+    "example_pinyin": "Wǎnshang wǒ kàn diànshì.",
+    "example_en": "I watch TV in the evening.",
+    "example_ja": "夜はテレビを見ます。"
+  },
+  {
+    "simplified": "为",
+    "meaning_ja": "～のために",
+    "example_zh": "我为你高兴。",
+    "example_pinyin": "Wǒ wèi nǐ gāoxìng.",
+    "example_en": "I'm happy for you.",
+    "example_ja": "あなたのために嬉しいです。"
+  },
+  {
+    "simplified": "问",
+    "meaning_ja": "聞く；質問する",
+    "example_zh": "我想问你一个问题。",
+    "example_pinyin": "Wǒ xiǎng wèn nǐ yí ge wèntí.",
+    "example_en": "I want to ask you a question.",
+    "example_ja": "質問があります。"
+  },
+  {
+    "simplified": "问题",
+    "meaning_ja": "問題；質問",
+    "example_zh": "你有什么问题？",
+    "example_pinyin": "Nǐ yǒu shénme wèntí?",
+    "example_en": "Do you have any questions?",
+    "example_ja": "何か質問はありますか？"
+  },
+  {
+    "simplified": "希望",
+    "meaning_ja": "希望する；望む",
+    "example_zh": "我希望你快乐。",
+    "example_pinyin": "Wǒ xīwàng nǐ kuàilè.",
+    "example_en": "I hope you're happy.",
+    "example_ja": "あなたが幸せであることを願います。"
+  },
+  {
+    "simplified": "洗",
+    "meaning_ja": "洗う",
+    "example_zh": "我要洗衣服。",
+    "example_pinyin": "Wǒ yào xǐ yīfu.",
+    "example_en": "I need to do laundry.",
+    "example_ja": "洗濯をしなければなりません。"
+  },
+  {
+    "simplified": "西瓜",
+    "meaning_ja": "スイカ",
+    "example_zh": "夏天吃西瓜很好。",
+    "example_pinyin": "Xiàtiān chī xīguā hěn hǎo.",
+    "example_en": "Eating watermelon in summer is great.",
+    "example_ja": "夏にスイカを食べるのは最高です。"
+  },
+  {
+    "simplified": "向",
+    "meaning_ja": "～に向かって",
+    "example_zh": "请向前走。",
+    "example_pinyin": "Qǐng xiàng qián zǒu.",
+    "example_en": "Please walk forward.",
+    "example_ja": "前に進んでください。"
+  },
+  {
+    "simplified": "小时",
+    "meaning_ja": "時間（単位）",
+    "example_zh": "我学了两个小时。",
+    "example_pinyin": "Wǒ xué le liǎng ge xiǎoshí.",
+    "example_en": "I studied for two hours.",
+    "example_ja": "二時間勉強しました。"
+  },
+  {
+    "simplified": "笑",
+    "meaning_ja": "笑う",
+    "example_zh": "他总是笑。",
+    "example_pinyin": "Tā zǒngshì xiào.",
+    "example_en": "He always smiles.",
+    "example_ja": "彼はいつも笑っています。"
+  },
+  {
+    "simplified": "新",
+    "meaning_ja": "新しい",
+    "example_zh": "我买了一件新衣服。",
+    "example_pinyin": "Wǒ mǎi le yí jiàn xīn yīfu.",
+    "example_en": "I bought new clothes.",
+    "example_ja": "新しい服を買いました。"
+  },
+  {
+    "simplified": "姓",
+    "meaning_ja": "名字；～という姓",
+    "example_zh": "我姓王。",
+    "example_pinyin": "Wǒ xìng Wáng.",
+    "example_en": "My surname is Wang.",
+    "example_ja": "私の名字は王です。"
+  },
+  {
+    "simplified": "休息",
+    "meaning_ja": "休む；休憩する",
+    "example_zh": "你应该休息一下。",
+    "example_pinyin": "Nǐ yīnggāi xiūxi yíxià.",
+    "example_en": "You should take a rest.",
+    "example_ja": "少し休んだ方がいいですよ。"
+  },
+  {
+    "simplified": "雪",
+    "meaning_ja": "雪",
+    "example_zh": "今天下雪了。",
+    "example_pinyin": "Jīntiān xiàxuě le.",
+    "example_en": "It's snowing today.",
+    "example_ja": "今日は雪が降っています。"
+  },
+  {
+    "simplified": "颜色",
+    "meaning_ja": "色",
+    "example_zh": "你喜欢什么颜色？",
+    "example_pinyin": "Nǐ xǐhuan shénme yánsè?",
+    "example_en": "What color do you like?",
+    "example_ja": "何色が好きですか？"
+  },
+  {
+    "simplified": "眼睛",
+    "meaning_ja": "目",
+    "example_zh": "她的眼睛很大。",
+    "example_pinyin": "Tā de yǎnjing hěn dà.",
+    "example_en": "Her eyes are big.",
+    "example_ja": "彼女の目は大きいです。"
+  },
+  {
+    "simplified": "羊肉",
+    "meaning_ja": "羊肉；マトン",
+    "example_zh": "我不吃羊肉。",
+    "example_pinyin": "Wǒ bù chī yángròu.",
+    "example_en": "I don't eat lamb.",
+    "example_ja": "私は羊肉を食べません。"
+  },
+  {
+    "simplified": "药",
+    "meaning_ja": "薬",
+    "example_zh": "你要吃药。",
+    "example_pinyin": "Nǐ yào chī yào.",
+    "example_en": "You need to take medicine.",
+    "example_ja": "薬を飲まなければなりません。"
+  },
+  {
+    "simplified": "要",
+    "meaning_ja": "～したい；必要である",
+    "example_zh": "我要一杯水。",
+    "example_pinyin": "Wǒ yào yì bēi shuǐ.",
+    "example_en": "I want a glass of water.",
+    "example_ja": "水を一杯ください。"
+  },
+  {
+    "simplified": "也",
+    "meaning_ja": "～も",
+    "example_zh": "我也喜欢。",
+    "example_pinyin": "Wǒ yě xǐhuan.",
+    "example_en": "I like it too.",
+    "example_ja": "私も好きです。"
+  },
+  {
+    "simplified": "一起",
+    "meaning_ja": "一緒に",
+    "example_zh": "我们一起去吧。",
+    "example_pinyin": "Wǒmen yìqǐ qù ba.",
+    "example_en": "Let's go together.",
+    "example_ja": "一緒に行きましょう。"
+  },
+  {
+    "simplified": "已经",
+    "meaning_ja": "すでに；もう",
+    "example_zh": "我已经吃了。",
+    "example_pinyin": "Wǒ yǐjīng chī le.",
+    "example_en": "I've already eaten.",
+    "example_ja": "もう食べました。"
+  },
+  {
+    "simplified": "意思",
+    "meaning_ja": "意味",
+    "example_zh": "这是什么意思？",
+    "example_pinyin": "Zhè shì shénme yìsi?",
+    "example_en": "What does this mean?",
+    "example_ja": "これはどういう意味ですか？"
+  },
+  {
+    "simplified": "因为",
+    "meaning_ja": "なぜなら；～だから",
+    "example_zh": "因为下雨，我没去。",
+    "example_pinyin": "Yīnwèi xiàyǔ, wǒ méi qù.",
+    "example_en": "Because it rained, I didn't go.",
+    "example_ja": "雨だったので行きませんでした。"
+  },
+  {
+    "simplified": "阴",
+    "meaning_ja": "曇り",
+    "example_zh": "今天是阴天。",
+    "example_pinyin": "Jīntiān shì yīntiān.",
+    "example_en": "It's cloudy today.",
+    "example_ja": "今日は曇りです。"
+  },
+  {
+    "simplified": "游泳",
+    "meaning_ja": "泳ぐ；水泳",
+    "example_zh": "我喜欢游泳。",
+    "example_pinyin": "Wǒ xǐhuan yóuyǒng.",
+    "example_en": "I like swimming.",
+    "example_ja": "泳ぐのが好きです。"
+  },
+  {
+    "simplified": "右边",
+    "meaning_ja": "右側",
+    "example_zh": "银行在右边。",
+    "example_pinyin": "Yínháng zài yòubiān.",
+    "example_en": "The bank is on the right.",
+    "example_ja": "銀行は右側にあります。"
+  },
+  {
+    "simplified": "鱼",
+    "meaning_ja": "魚",
+    "example_zh": "我喜欢吃鱼。",
+    "example_pinyin": "Wǒ xǐhuan chī yú.",
+    "example_en": "I like eating fish.",
+    "example_ja": "魚を食べるのが好きです。"
+  },
+  {
+    "simplified": "元",
+    "meaning_ja": "元（通貨単位）",
+    "example_zh": "这个五元。",
+    "example_pinyin": "Zhège wǔ yuán.",
+    "example_en": "This is five yuan.",
+    "example_ja": "これは五元です。"
+  },
+  {
+    "simplified": "远",
+    "meaning_ja": "遠い",
+    "example_zh": "你家离学校远吗？",
+    "example_pinyin": "Nǐ jiā lí xuéxiào yuǎn ma?",
+    "example_en": "Is your home far from school?",
+    "example_ja": "家から学校は遠いですか？"
+  },
+  {
+    "simplified": "运动",
+    "meaning_ja": "運動；スポーツ",
+    "example_zh": "运动对身体好。",
+    "example_pinyin": "Yùndòng duì shēntǐ hǎo.",
+    "example_en": "Exercise is good for health.",
+    "example_ja": "運動は体にいいです。"
+  },
+  {
+    "simplified": "再",
+    "meaning_ja": "また；再び",
+    "example_zh": "请再说一次。",
+    "example_pinyin": "Qǐng zài shuō yí cì.",
+    "example_en": "Please say it again.",
+    "example_ja": "もう一度言ってください。"
+  },
+  {
+    "simplified": "早上",
+    "meaning_ja": "朝",
+    "example_zh": "早上好！",
+    "example_pinyin": "Zǎoshang hǎo!",
+    "example_en": "Good morning!",
+    "example_ja": "おはようございます！"
+  },
+  {
+    "simplified": "张",
+    "meaning_ja": "～枚（量詞）",
+    "example_zh": "给我一张纸。",
+    "example_pinyin": "Gěi wǒ yì zhāng zhǐ.",
+    "example_en": "Give me a piece of paper.",
+    "example_ja": "紙を一枚ください。"
+  },
+  {
+    "simplified": "长",
+    "meaning_ja": "長い",
+    "example_zh": "这条路很长。",
+    "example_pinyin": "Zhè tiáo lù hěn cháng.",
+    "example_en": "This road is very long.",
+    "example_ja": "この道はとても長いです。"
+  },
+  {
+    "simplified": "丈夫",
+    "meaning_ja": "夫",
+    "example_zh": "她的丈夫是老师。",
+    "example_pinyin": "Tā de zhàngfu shì lǎoshī.",
+    "example_en": "Her husband is a teacher.",
+    "example_ja": "彼女の夫は先生です。"
+  },
+  {
+    "simplified": "找",
+    "meaning_ja": "探す",
+    "example_zh": "我在找我的手机。",
+    "example_pinyin": "Wǒ zài zhǎo wǒ de shǒujī.",
+    "example_en": "I'm looking for my phone.",
+    "example_ja": "携帯を探しています。"
+  },
+  {
+    "simplified": "着",
+    "meaning_ja": "～している（進行・状態）",
+    "example_zh": "门开着。",
+    "example_pinyin": "Mén kāizhe.",
+    "example_en": "The door is open.",
+    "example_ja": "ドアが開いています。"
+  },
+  {
+    "simplified": "真",
+    "meaning_ja": "本当に；本当の",
+    "example_zh": "你真好！",
+    "example_pinyin": "Nǐ zhēn hǎo!",
+    "example_en": "You're so nice!",
+    "example_ja": "あなたは本当に優しいです！"
+  },
+  {
+    "simplified": "正在",
+    "meaning_ja": "～しているところ",
+    "example_zh": "我正在吃饭。",
+    "example_pinyin": "Wǒ zhèngzài chīfàn.",
+    "example_en": "I'm eating right now.",
+    "example_ja": "今ご飯を食べているところです。"
+  },
+  {
+    "simplified": "知道",
+    "meaning_ja": "知っている",
+    "example_zh": "我不知道。",
+    "example_pinyin": "Wǒ bù zhīdào.",
+    "example_en": "I don't know.",
+    "example_ja": "知りません。"
+  },
+  {
+    "simplified": "准备",
+    "meaning_ja": "準備する",
+    "example_zh": "我在准备考试。",
+    "example_pinyin": "Wǒ zài zhǔnbèi kǎoshì.",
+    "example_en": "I'm preparing for the exam.",
+    "example_ja": "試験の準備をしています。"
+  },
+  {
+    "simplified": "自行车",
+    "meaning_ja": "自転車",
+    "example_zh": "我骑自行车去学校。",
+    "example_pinyin": "Wǒ qí zìxíngchē qù xuéxiào.",
+    "example_en": "I ride a bike to school.",
+    "example_ja": "自転車で学校に行きます。"
+  },
+  {
+    "simplified": "走",
+    "meaning_ja": "歩く；行く",
+    "example_zh": "我们走路去吧。",
+    "example_pinyin": "Wǒmen zǒulù qù ba.",
+    "example_en": "Let's walk there.",
+    "example_ja": "歩いて行きましょう。"
+  },
+  {
+    "simplified": "最",
+    "meaning_ja": "最も；一番",
+    "example_zh": "她是最好的老师。",
+    "example_pinyin": "Tā shì zuì hǎo de lǎoshī.",
+    "example_en": "She is the best teacher.",
+    "example_ja": "彼女は一番良い先生です。"
+  },
+  {
+    "simplified": "左边",
+    "meaning_ja": "左側",
+    "example_zh": "学校在左边。",
+    "example_pinyin": "Xuéxiào zài zuǒbiān.",
+    "example_en": "The school is on the left.",
+    "example_ja": "学校は左側にあります。"
+  },
+  {
+    "simplified": "阿姨",
+    "meaning_ja": "おばさん",
+    "example_zh": "阿姨，你好！",
+    "example_pinyin": "Āyí, nǐ hǎo!",
+    "example_en": "Hello, auntie!",
+    "example_ja": "おばさん、こんにちは！"
+  },
+  {
+    "simplified": "啊",
+    "meaning_ja": "ああ（感嘆助詞）",
+    "example_zh": "这个地方真好啊！",
+    "example_pinyin": "Zhège dìfang zhēn hǎo a!",
+    "example_en": "This place is really nice!",
+    "example_ja": "ここは本当にいいところですね！"
+  },
+  {
+    "simplified": "矮",
+    "meaning_ja": "背が低い",
+    "example_zh": "他比我矮。",
+    "example_pinyin": "Tā bǐ wǒ ǎi.",
+    "example_en": "He is shorter than me.",
+    "example_ja": "彼は私より背が低いです。"
+  },
+  {
+    "simplified": "爱好",
+    "meaning_ja": "趣味",
+    "example_zh": "你的爱好是什么？",
+    "example_pinyin": "Nǐ de àihào shì shénme?",
+    "example_en": "What are your hobbies?",
+    "example_ja": "あなたの趣味は何ですか？"
+  },
+  {
+    "simplified": "安静",
+    "meaning_ja": "静か",
+    "example_zh": "图书馆很安静。",
+    "example_pinyin": "Túshūguǎn hěn ānjìng.",
+    "example_en": "The library is very quiet.",
+    "example_ja": "図書館はとても静かです。"
+  },
+  {
+    "simplified": "把",
+    "meaning_ja": "～を（処置文）",
+    "example_zh": "请把门关上。",
+    "example_pinyin": "Qǐng bǎ mén guānshang.",
+    "example_en": "Please close the door.",
+    "example_ja": "ドアを閉めてください。"
+  },
+  {
+    "simplified": "班",
+    "meaning_ja": "クラス；班",
+    "example_zh": "我们班有三十个人。",
+    "example_pinyin": "Wǒmen bān yǒu sānshí ge rén.",
+    "example_en": "Our class has thirty students.",
+    "example_ja": "うちのクラスは三十人です。"
+  },
+  {
+    "simplified": "搬",
+    "meaning_ja": "運ぶ；引っ越す",
+    "example_zh": "他搬到新家了。",
+    "example_pinyin": "Tā bān dào xīn jiā le.",
+    "example_en": "He moved to a new home.",
+    "example_ja": "彼は新しい家に引っ越しました。"
+  },
+  {
+    "simplified": "办法",
+    "meaning_ja": "方法；やり方",
+    "example_zh": "我有一个办法。",
+    "example_pinyin": "Wǒ yǒu yí ge bànfǎ.",
+    "example_en": "I have an idea.",
+    "example_ja": "方法があります。"
+  },
+  {
+    "simplified": "办公室",
+    "meaning_ja": "オフィス；事務室",
+    "example_zh": "老师在办公室。",
+    "example_pinyin": "Lǎoshī zài bàngōngshì.",
+    "example_en": "The teacher is in the office.",
+    "example_ja": "先生はオフィスにいます。"
+  },
+  {
+    "simplified": "半",
+    "meaning_ja": "半分；半",
+    "example_zh": "现在两点半。",
+    "example_pinyin": "Xiànzài liǎng diǎn bàn.",
+    "example_en": "It's half past two now.",
+    "example_ja": "今二時半です。"
+  },
+  {
+    "simplified": "帮忙",
+    "meaning_ja": "手伝う",
+    "example_zh": "你能帮忙吗？",
+    "example_pinyin": "Nǐ néng bāngmáng ma?",
+    "example_en": "Can you help?",
+    "example_ja": "手伝ってもらえますか？"
+  },
+  {
+    "simplified": "包",
+    "meaning_ja": "カバン；包む",
+    "example_zh": "这个包很好看。",
+    "example_pinyin": "Zhège bāo hěn hǎokàn.",
+    "example_en": "This bag looks nice.",
+    "example_ja": "このカバンはきれいです。"
+  },
+  {
+    "simplified": "饱",
+    "meaning_ja": "お腹がいっぱい",
+    "example_zh": "我吃饱了。",
+    "example_pinyin": "Wǒ chī bǎo le.",
+    "example_en": "I'm full.",
+    "example_ja": "お腹いっぱいです。"
+  },
+  {
+    "simplified": "北方",
+    "meaning_ja": "北方；北",
+    "example_zh": "北方的冬天很冷。",
+    "example_pinyin": "Běifāng de dōngtiān hěn lěng.",
+    "example_en": "Winters in the north are very cold.",
+    "example_ja": "北方の冬はとても寒いです。"
+  },
+  {
+    "simplified": "被",
+    "meaning_ja": "～される（受身）",
+    "example_zh": "书被他拿走了。",
+    "example_pinyin": "Shū bèi tā ná zǒu le.",
+    "example_en": "The book was taken by him.",
+    "example_ja": "本は彼に持っていかれました。"
+  },
+  {
+    "simplified": "鼻子",
+    "meaning_ja": "鼻",
+    "example_zh": "他的鼻子很大。",
+    "example_pinyin": "Tā de bízi hěn dà.",
+    "example_en": "His nose is big.",
+    "example_ja": "彼の鼻は大きいです。"
+  },
+  {
+    "simplified": "比较",
+    "meaning_ja": "比較的；わりと",
+    "example_zh": "今天比较冷。",
+    "example_pinyin": "Jīntiān bǐjiào lěng.",
+    "example_en": "It's relatively cold today.",
+    "example_ja": "今日はわりと寒いです。"
+  },
+  {
+    "simplified": "比赛",
+    "meaning_ja": "試合；競争",
+    "example_zh": "明天有足球比赛。",
+    "example_pinyin": "Míngtiān yǒu zúqiú bǐsài.",
+    "example_en": "There's a soccer match tomorrow.",
+    "example_ja": "明日サッカーの試合があります。"
+  },
+  {
+    "simplified": "必须",
+    "meaning_ja": "～しなければならない",
+    "example_zh": "你必须来。",
+    "example_pinyin": "Nǐ bìxū lái.",
+    "example_en": "You must come.",
+    "example_ja": "あなたは来なければなりません。"
+  },
+  {
+    "simplified": "变化",
+    "meaning_ja": "変化",
+    "example_zh": "这里变化很大。",
+    "example_pinyin": "Zhèlǐ biànhuà hěn dà.",
+    "example_en": "There have been big changes here.",
+    "example_ja": "ここは大きく変わりました。"
+  },
+  {
+    "simplified": "表示",
+    "meaning_ja": "表す；示す",
+    "example_zh": "红色表示危险。",
+    "example_pinyin": "Hóngsè biǎoshì wéixiǎn.",
+    "example_en": "Red indicates danger.",
+    "example_ja": "赤は危険を表します。"
+  },
+  {
+    "simplified": "表演",
+    "meaning_ja": "公演；パフォーマンス",
+    "example_zh": "今天的表演很好。",
+    "example_pinyin": "Jīntiān de biǎoyǎn hěn hǎo.",
+    "example_en": "Today's performance was great.",
+    "example_ja": "今日の公演は素晴らしかったです。"
+  },
+  {
+    "simplified": "别人",
+    "meaning_ja": "他の人",
+    "example_zh": "别人都走了。",
+    "example_pinyin": "Biérén dōu zǒu le.",
+    "example_en": "Everyone else has left.",
+    "example_ja": "他の人はみんな帰りました。"
+  },
+  {
+    "simplified": "宾馆",
+    "meaning_ja": "ホテル",
+    "example_zh": "这家宾馆很好。",
+    "example_pinyin": "Zhè jiā bīnguǎn hěn hǎo.",
+    "example_en": "This hotel is very nice.",
+    "example_ja": "このホテルはとても良いです。"
+  },
+  {
+    "simplified": "冰箱",
+    "meaning_ja": "冷蔵庫",
+    "example_zh": "牛奶在冰箱里。",
+    "example_pinyin": "Niúnǎi zài bīngxiāng lǐ.",
+    "example_en": "The milk is in the fridge.",
+    "example_ja": "牛乳は冷蔵庫の中にあります。"
+  },
+  {
+    "simplified": "才",
+    "meaning_ja": "やっと；わずか",
+    "example_zh": "他才来。",
+    "example_pinyin": "Tā cái lái.",
+    "example_en": "He just arrived.",
+    "example_ja": "彼はやっと来ました。"
+  },
+  {
+    "simplified": "菜单",
+    "meaning_ja": "メニュー",
+    "example_zh": "请给我菜单。",
+    "example_pinyin": "Qǐng gěi wǒ càidān.",
+    "example_en": "Please give me the menu.",
+    "example_ja": "メニューをください。"
+  },
+  {
+    "simplified": "参加",
+    "meaning_ja": "参加する",
+    "example_zh": "我想参加比赛。",
+    "example_pinyin": "Wǒ xiǎng cānjiā bǐsài.",
+    "example_en": "I want to join the competition.",
+    "example_ja": "試合に参加したいです。"
+  },
+  {
+    "simplified": "草",
+    "meaning_ja": "草",
+    "example_zh": "公园里的草很绿。",
+    "example_pinyin": "Gōngyuán lǐ de cǎo hěn lǜ.",
+    "example_en": "The grass in the park is very green.",
+    "example_ja": "公園の草はとても緑です。"
+  },
+  {
+    "simplified": "层",
+    "meaning_ja": "階；層",
+    "example_zh": "我住在三层。",
+    "example_pinyin": "Wǒ zhù zài sān céng.",
+    "example_en": "I live on the third floor.",
+    "example_ja": "三階に住んでいます。"
+  },
+  {
+    "simplified": "差",
+    "meaning_ja": "悪い；足りない",
+    "example_zh": "还差五分钟。",
+    "example_pinyin": "Hái chà wǔ fēnzhōng.",
+    "example_en": "Five more minutes to go.",
+    "example_ja": "あと五分です。"
+  },
+  {
+    "simplified": "超市",
+    "meaning_ja": "スーパーマーケット",
+    "example_zh": "我去超市买东西。",
+    "example_pinyin": "Wǒ qù chāoshì mǎi dōngxi.",
+    "example_en": "I'm going to the supermarket to shop.",
+    "example_ja": "スーパーに買い物に行きます。"
+  },
+  {
+    "simplified": "衬衫",
+    "meaning_ja": "シャツ；ワイシャツ",
+    "example_zh": "他穿了一件白衬衫。",
+    "example_pinyin": "Tā chuān le yí jiàn bái chènshān.",
+    "example_en": "He wore a white shirt.",
+    "example_ja": "彼は白いシャツを着ました。"
+  },
+  {
+    "simplified": "成绩",
+    "meaning_ja": "成績",
+    "example_zh": "她的成绩很好。",
+    "example_pinyin": "Tā de chéngjì hěn hǎo.",
+    "example_en": "Her grades are very good.",
+    "example_ja": "彼女の成績はとても良いです。"
+  },
+  {
+    "simplified": "城市",
+    "meaning_ja": "都市；町",
+    "example_zh": "北京是一个大城市。",
+    "example_pinyin": "Běijīng shì yí ge dà chéngshì.",
+    "example_en": "Beijing is a big city.",
+    "example_ja": "北京は大きな都市です。"
+  },
+  {
+    "simplified": "迟到",
+    "meaning_ja": "遅刻する",
+    "example_zh": "对不起，我迟到了。",
+    "example_pinyin": "Duìbuqǐ, wǒ chídào le.",
+    "example_en": "Sorry, I'm late.",
+    "example_ja": "すみません、遅刻しました。"
+  },
+  {
+    "simplified": "出现",
+    "meaning_ja": "現れる；出現する",
+    "example_zh": "问题出现了。",
+    "example_pinyin": "Wèntí chūxiàn le.",
+    "example_en": "A problem appeared.",
+    "example_ja": "問題が発生しました。"
+  },
+  {
+    "simplified": "除了",
+    "meaning_ja": "～以外；～を除いて",
+    "example_zh": "除了他，大家都来了。",
+    "example_pinyin": "Chúle tā, dàjiā dōu lái le.",
+    "example_en": "Everyone came except him.",
+    "example_ja": "彼以外はみんな来ました。"
+  },
+  {
+    "simplified": "厨房",
+    "meaning_ja": "台所；キッチン",
+    "example_zh": "妈妈在厨房做饭。",
+    "example_pinyin": "Māma zài chúfáng zuòfàn.",
+    "example_en": "Mom is cooking in the kitchen.",
+    "example_ja": "お母さんは台所で料理をしています。"
+  },
+  {
+    "simplified": "春",
+    "meaning_ja": "春",
+    "example_zh": "春天来了。",
+    "example_pinyin": "Chūntiān lái le.",
+    "example_en": "Spring has come.",
+    "example_ja": "春が来ました。"
+  },
+  {
+    "simplified": "词语",
+    "meaning_ja": "単語；語句",
+    "example_zh": "请解释这个词语。",
+    "example_pinyin": "Qǐng jiěshì zhège cíyǔ.",
+    "example_en": "Please explain this word.",
+    "example_ja": "この単語を説明してください。"
+  },
+  {
+    "simplified": "聪明",
+    "meaning_ja": "賢い；頭が良い",
+    "example_zh": "这个孩子很聪明。",
+    "example_pinyin": "Zhège háizi hěn cōngming.",
+    "example_en": "This child is very smart.",
+    "example_ja": "この子はとても賢いです。"
+  },
+  {
+    "simplified": "打扫",
+    "meaning_ja": "掃除する",
+    "example_zh": "我要打扫房间。",
+    "example_pinyin": "Wǒ yào dǎsǎo fángjiān.",
+    "example_en": "I need to clean the room.",
+    "example_ja": "部屋を掃除しなければなりません。"
+  },
+  {
+    "simplified": "打算",
+    "meaning_ja": "つもり；予定",
+    "example_zh": "你打算做什么？",
+    "example_pinyin": "Nǐ dǎsuàn zuò shénme?",
+    "example_en": "What do you plan to do?",
+    "example_ja": "何をするつもりですか？"
+  },
+  {
+    "simplified": "带",
+    "meaning_ja": "持っていく；連れていく",
+    "example_zh": "请带上你的护照。",
+    "example_pinyin": "Qǐng dàishang nǐ de hùzhào.",
+    "example_en": "Please bring your passport.",
+    "example_ja": "パスポートを持っていってください。"
+  },
+  {
+    "simplified": "担心",
+    "meaning_ja": "心配する",
+    "example_zh": "不要担心。",
+    "example_pinyin": "Búyào dānxīn.",
+    "example_en": "Don't worry.",
+    "example_ja": "心配しないで。"
+  },
+  {
+    "simplified": "蛋糕",
+    "meaning_ja": "ケーキ",
+    "example_zh": "这个蛋糕很好吃。",
+    "example_pinyin": "Zhège dàngāo hěn hǎochī.",
+    "example_en": "This cake is delicious.",
+    "example_ja": "このケーキはおいしいです。"
+  },
+  {
+    "simplified": "当然",
+    "meaning_ja": "もちろん",
+    "example_zh": "当然可以！",
+    "example_pinyin": "Dāngrán kěyǐ!",
+    "example_en": "Of course!",
+    "example_ja": "もちろんいいですよ！"
+  },
+  {
+    "simplified": "地",
+    "meaning_ja": "～に（副詞助詞）",
+    "example_zh": "他高兴地笑了。",
+    "example_pinyin": "Tā gāoxìng de xiào le.",
+    "example_en": "He laughed happily.",
+    "example_ja": "彼は嬉しそうに笑いました。"
+  },
+  {
+    "simplified": "地方",
+    "meaning_ja": "場所；ところ",
+    "example_zh": "这个地方很美。",
+    "example_pinyin": "Zhège dìfang hěn měi.",
+    "example_en": "This place is beautiful.",
+    "example_ja": "ここはとてもきれいな場所です。"
+  },
+  {
+    "simplified": "地铁",
+    "meaning_ja": "地下鉄",
+    "example_zh": "我坐地铁去上班。",
+    "example_pinyin": "Wǒ zuò dìtiě qù shàngbān.",
+    "example_en": "I take the subway to work.",
+    "example_ja": "地下鉄で出勤します。"
+  },
+  {
+    "simplified": "地图",
+    "meaning_ja": "地図",
+    "example_zh": "你有地图吗？",
+    "example_pinyin": "Nǐ yǒu dìtú ma?",
+    "example_en": "Do you have a map?",
+    "example_ja": "地図を持っていますか？"
+  },
+  {
+    "simplified": "灯",
+    "meaning_ja": "ライト；電灯",
+    "example_zh": "请开灯。",
+    "example_pinyin": "Qǐng kāi dēng.",
+    "example_en": "Please turn on the light.",
+    "example_ja": "電気をつけてください。"
+  },
+  {
+    "simplified": "低",
+    "meaning_ja": "低い",
+    "example_zh": "今天气温很低。",
+    "example_pinyin": "Jīntiān qìwēn hěn dī.",
+    "example_en": "The temperature is low today.",
+    "example_ja": "今日は気温が低いです。"
+  },
+  {
+    "simplified": "电梯",
+    "meaning_ja": "エレベーター",
+    "example_zh": "我们坐电梯吧。",
+    "example_pinyin": "Wǒmen zuò diàntī ba.",
+    "example_en": "Let's take the elevator.",
+    "example_ja": "エレベーターに乗りましょう。"
+  },
+  {
+    "simplified": "电子",
+    "meaning_ja": "電子；デジタル",
+    "example_zh": "这是电子词典。",
+    "example_pinyin": "Zhè shì diànzǐ cídiǎn.",
+    "example_en": "This is an electronic dictionary.",
+    "example_ja": "これは電子辞書です。"
+  },
+  {
+    "simplified": "东",
+    "meaning_ja": "東",
+    "example_zh": "太阳从东边升起。",
+    "example_pinyin": "Tàiyáng cóng dōngbiān shēngqǐ.",
+    "example_en": "The sun rises from the east.",
+    "example_ja": "太陽は東から昇ります。"
+  },
+  {
+    "simplified": "冬",
+    "meaning_ja": "冬",
+    "example_zh": "冬天很冷。",
+    "example_pinyin": "Dōngtiān hěn lěng.",
+    "example_en": "Winter is very cold.",
+    "example_ja": "冬はとても寒いです。"
+  },
+  {
+    "simplified": "动物",
+    "meaning_ja": "動物",
+    "example_zh": "我喜欢动物。",
+    "example_pinyin": "Wǒ xǐhuan dòngwù.",
+    "example_en": "I like animals.",
+    "example_ja": "動物が好きです。"
+  },
+  {
+    "simplified": "短",
+    "meaning_ja": "短い",
+    "example_zh": "这条裙子太短了。",
+    "example_pinyin": "Zhè tiáo qúnzi tài duǎn le.",
+    "example_en": "This skirt is too short.",
+    "example_ja": "このスカートは短すぎます。"
+  },
+  {
+    "simplified": "段",
+    "meaning_ja": "～段落（量詞）",
+    "example_zh": "请读这段话。",
+    "example_pinyin": "Qǐng dú zhè duàn huà.",
+    "example_en": "Please read this paragraph.",
+    "example_ja": "この段落を読んでください。"
+  },
+  {
+    "simplified": "锻炼",
+    "meaning_ja": "鍛える；トレーニング",
+    "example_zh": "我每天锻炼身体。",
+    "example_pinyin": "Wǒ měitiān duànliàn shēntǐ.",
+    "example_en": "I exercise every day.",
+    "example_ja": "毎日体を鍛えています。"
+  },
+  {
+    "simplified": "多么",
+    "meaning_ja": "なんと；どれほど",
+    "example_zh": "多么好的天气！",
+    "example_pinyin": "Duōme hǎo de tiānqì!",
+    "example_en": "What wonderful weather!",
+    "example_ja": "なんて良い天気でしょう！"
+  },
+  {
+    "simplified": "饿",
+    "meaning_ja": "お腹がすいた",
+    "example_zh": "我很饿。",
+    "example_pinyin": "Wǒ hěn è.",
+    "example_en": "I'm very hungry.",
+    "example_ja": "とてもお腹がすいています。"
+  },
+  {
+    "simplified": "而且",
+    "meaning_ja": "しかも；その上",
+    "example_zh": "她聪明而且漂亮。",
+    "example_pinyin": "Tā cōngming érqiě piàoliang.",
+    "example_en": "She is smart and beautiful.",
+    "example_ja": "彼女は賢くてきれいです。"
+  },
+  {
+    "simplified": "耳朵",
+    "meaning_ja": "耳",
+    "example_zh": "他的耳朵很大。",
+    "example_pinyin": "Tā de ěrduo hěn dà.",
+    "example_en": "His ears are big.",
+    "example_ja": "彼の耳は大きいです。"
+  },
+  {
+    "simplified": "发烧",
+    "meaning_ja": "熱が出る",
+    "example_zh": "我发烧了。",
+    "example_pinyin": "Wǒ fāshāo le.",
+    "example_en": "I have a fever.",
+    "example_ja": "熱が出ました。"
+  },
+  {
+    "simplified": "发现",
+    "meaning_ja": "発見する；気づく",
+    "example_zh": "我发现了一个问题。",
+    "example_pinyin": "Wǒ fāxiàn le yí ge wèntí.",
+    "example_en": "I found a problem.",
+    "example_ja": "問題を一つ発見しました。"
+  },
+  {
+    "simplified": "方便",
+    "meaning_ja": "便利な",
+    "example_zh": "坐地铁很方便。",
+    "example_pinyin": "Zuò dìtiě hěn fāngbiàn.",
+    "example_en": "Taking the subway is convenient.",
+    "example_ja": "地下鉄は便利です。"
+  },
+  {
+    "simplified": "放",
+    "meaning_ja": "置く；放す",
+    "example_zh": "把书放在桌子上。",
+    "example_pinyin": "Bǎ shū fàng zài zhuōzi shàng.",
+    "example_en": "Put the book on the table.",
+    "example_ja": "本を机の上に置いてください。"
+  },
+  {
+    "simplified": "放心",
+    "meaning_ja": "安心する",
+    "example_zh": "你放心吧。",
+    "example_pinyin": "Nǐ fàngxīn ba.",
+    "example_en": "Don't worry.",
+    "example_ja": "安心してください。"
+  },
+  {
+    "simplified": "分",
+    "meaning_ja": "分ける；点数",
+    "example_zh": "我考了九十分。",
+    "example_pinyin": "Wǒ kǎo le jiǔshí fēn.",
+    "example_en": "I scored ninety points.",
+    "example_ja": "九十点取りました。"
+  },
+  {
+    "simplified": "附近",
+    "meaning_ja": "近く；付近",
+    "example_zh": "附近有超市吗？",
+    "example_pinyin": "Fùjìn yǒu chāoshì ma?",
+    "example_en": "Is there a supermarket nearby?",
+    "example_ja": "近くにスーパーはありますか？"
+  },
+  {
+    "simplified": "复习",
+    "meaning_ja": "復習する",
+    "example_zh": "我在复习功课。",
+    "example_pinyin": "Wǒ zài fùxí gōngkè.",
+    "example_en": "I'm reviewing my lessons.",
+    "example_ja": "復習をしています。"
+  },
+  {
+    "simplified": "敢",
+    "meaning_ja": "あえて～する；勇気がある",
+    "example_zh": "你敢不敢试？",
+    "example_pinyin": "Nǐ gǎn bù gǎn shì?",
+    "example_en": "Do you dare to try?",
+    "example_ja": "試す勇気はありますか？"
+  },
+  {
+    "simplified": "感冒",
+    "meaning_ja": "風邪をひく",
+    "example_zh": "我感冒了。",
+    "example_pinyin": "Wǒ gǎnmào le.",
+    "example_en": "I caught a cold.",
+    "example_ja": "風邪をひきました。"
+  },
+  {
+    "simplified": "干净",
+    "meaning_ja": "きれい；清潔",
+    "example_zh": "这个房间很干净。",
+    "example_pinyin": "Zhège fángjiān hěn gānjìng.",
+    "example_en": "This room is very clean.",
+    "example_ja": "この部屋はとてもきれいです。"
+  },
+  {
+    "simplified": "刚才",
+    "meaning_ja": "さっき；先ほど",
+    "example_zh": "刚才谁来了？",
+    "example_pinyin": "Gāngcái shéi lái le?",
+    "example_en": "Who came just now?",
+    "example_ja": "さっき誰が来ましたか？"
+  },
+  {
+    "simplified": "根据",
+    "meaning_ja": "～に基づいて",
+    "example_zh": "根据天气预报，明天会下雨。",
+    "example_pinyin": "Gēnjù tiānqì yùbào, míngtiān huì xiàyǔ.",
+    "example_en": "According to the forecast, it will rain tomorrow.",
+    "example_ja": "天気予報によると、明日は雨が降ります。"
+  },
+  {
+    "simplified": "跟",
+    "meaning_ja": "～と；～について",
+    "example_zh": "我跟他一起去。",
+    "example_pinyin": "Wǒ gēn tā yìqǐ qù.",
+    "example_en": "I'll go with him.",
+    "example_ja": "彼と一緒に行きます。"
+  },
+  {
+    "simplified": "更",
+    "meaning_ja": "もっと；さらに",
+    "example_zh": "今天更冷了。",
+    "example_pinyin": "Jīntiān gèng lěng le.",
+    "example_en": "It's even colder today.",
+    "example_ja": "今日はさらに寒くなりました。"
+  },
+  {
+    "simplified": "公园",
+    "meaning_ja": "公園",
+    "example_zh": "我们去公园散步。",
+    "example_pinyin": "Wǒmen qù gōngyuán sànbù.",
+    "example_en": "Let's go for a walk in the park.",
+    "example_ja": "公園に散歩に行きましょう。"
+  },
+  {
+    "simplified": "故事",
+    "meaning_ja": "物語；話",
+    "example_zh": "妈妈给我讲故事。",
+    "example_pinyin": "Māma gěi wǒ jiǎng gùshi.",
+    "example_en": "Mom tells me stories.",
+    "example_ja": "お母さんが物語を聞かせてくれます。"
+  },
+  {
+    "simplified": "刮",
+    "meaning_ja": "（風が）吹く",
+    "example_zh": "外面刮风了。",
+    "example_pinyin": "Wàimiàn guā fēng le.",
+    "example_en": "The wind is blowing outside.",
+    "example_ja": "外は風が吹いています。"
+  },
+  {
+    "simplified": "关",
+    "meaning_ja": "閉める；消す",
+    "example_zh": "请关灯。",
+    "example_pinyin": "Qǐng guān dēng.",
+    "example_en": "Please turn off the light.",
+    "example_ja": "電気を消してください。"
+  },
+  {
+    "simplified": "关系",
+    "meaning_ja": "関係",
+    "example_zh": "他们的关系很好。",
+    "example_pinyin": "Tāmen de guānxi hěn hǎo.",
+    "example_en": "They have a good relationship.",
+    "example_ja": "彼らの関係はとても良いです。"
+  },
+  {
+    "simplified": "关心",
+    "meaning_ja": "気にかける；心配する",
+    "example_zh": "谢谢你关心我。",
+    "example_pinyin": "Xièxie nǐ guānxīn wǒ.",
+    "example_en": "Thank you for caring about me.",
+    "example_ja": "心配してくれてありがとう。"
+  },
+  {
+    "simplified": "关于",
+    "meaning_ja": "～について；～に関して",
+    "example_zh": "关于这个问题，我有话说。",
+    "example_pinyin": "Guānyú zhège wèntí, wǒ yǒu huà shuō.",
+    "example_en": "I have something to say about this.",
+    "example_ja": "この問題について言いたいことがあります。"
+  },
+  {
+    "simplified": "国家",
+    "meaning_ja": "国；国家",
+    "example_zh": "中国是一个大国家。",
+    "example_pinyin": "Zhōngguó shì yí ge dà guójiā.",
+    "example_en": "China is a big country.",
+    "example_ja": "中国は大きな国です。"
+  },
+  {
+    "simplified": "果汁",
+    "meaning_ja": "ジュース；果汁",
+    "example_zh": "我要一杯果汁。",
+    "example_pinyin": "Wǒ yào yì bēi guǒzhī.",
+    "example_en": "I'd like a glass of juice.",
+    "example_ja": "ジュースを一杯ください。"
+  },
+  {
+    "simplified": "过去",
+    "meaning_ja": "過去；通り過ぎる",
+    "example_zh": "过去的事不要想了。",
+    "example_pinyin": "Guòqù de shì búyào xiǎng le.",
+    "example_en": "Don't think about the past.",
+    "example_ja": "過去のことは考えないで。"
+  },
+  {
+    "simplified": "还是",
+    "meaning_ja": "それとも；やはり",
+    "example_zh": "你喝茶还是咖啡？",
+    "example_pinyin": "Nǐ hē chá háishi kāfēi?",
+    "example_en": "Do you want tea or coffee?",
+    "example_ja": "お茶にしますか、コーヒーにしますか？"
+  },
+  {
+    "simplified": "害怕",
+    "meaning_ja": "怖い；恐れる",
+    "example_zh": "我不害怕。",
+    "example_pinyin": "Wǒ bú hàipà.",
+    "example_en": "I'm not afraid.",
+    "example_ja": "私は怖くないです。"
+  },
+  {
+    "simplified": "河",
+    "meaning_ja": "川",
+    "example_zh": "这条河很长。",
+    "example_pinyin": "Zhè tiáo hé hěn cháng.",
+    "example_en": "This river is very long.",
+    "example_ja": "この川はとても長いです。"
+  },
+  {
+    "simplified": "黑板",
+    "meaning_ja": "黒板",
+    "example_zh": "请看黑板。",
+    "example_pinyin": "Qǐng kàn hēibǎn.",
+    "example_en": "Please look at the blackboard.",
+    "example_ja": "黒板を見てください。"
+  },
+  {
+    "simplified": "护照",
+    "meaning_ja": "パスポート",
+    "example_zh": "请出示你的护照。",
+    "example_pinyin": "Qǐng chūshì nǐ de hùzhào.",
+    "example_en": "Please show your passport.",
+    "example_ja": "パスポートを見せてください。"
+  },
+  {
+    "simplified": "花",
+    "meaning_ja": "花；使う（お金）",
+    "example_zh": "这些花很漂亮。",
+    "example_pinyin": "Zhèxiē huā hěn piàoliang.",
+    "example_en": "These flowers are beautiful.",
+    "example_ja": "これらの花はきれいです。"
+  },
+  {
+    "simplified": "花园",
+    "meaning_ja": "庭園；ガーデン",
+    "example_zh": "花园里有很多花。",
+    "example_pinyin": "Huāyuán lǐ yǒu hěn duō huā.",
+    "example_en": "There are many flowers in the garden.",
+    "example_ja": "庭にはたくさんの花があります。"
+  },
+  {
+    "simplified": "画",
+    "meaning_ja": "描く；絵",
+    "example_zh": "他画了一幅画。",
+    "example_pinyin": "Tā huà le yì fú huà.",
+    "example_en": "He drew a painting.",
+    "example_ja": "彼は絵を一枚描きました。"
+  },
+  {
+    "simplified": "坏",
+    "meaning_ja": "壊れた；悪い",
+    "example_zh": "电脑坏了。",
+    "example_pinyin": "Diànnǎo huài le.",
+    "example_en": "The computer is broken.",
+    "example_ja": "パソコンが壊れました。"
+  },
+  {
+    "simplified": "环境",
+    "meaning_ja": "環境",
+    "example_zh": "这里的环境很好。",
+    "example_pinyin": "Zhèlǐ de huánjìng hěn hǎo.",
+    "example_en": "The environment here is nice.",
+    "example_ja": "ここの環境はとても良いです。"
+  },
+  {
+    "simplified": "换",
+    "meaning_ja": "換える；交換する",
+    "example_zh": "我想换一个房间。",
+    "example_pinyin": "Wǒ xiǎng huàn yí ge fángjiān.",
+    "example_en": "I'd like to change rooms.",
+    "example_ja": "部屋を変えたいです。"
+  },
+  {
+    "simplified": "黄",
+    "meaning_ja": "黄色い",
+    "example_zh": "秋天树叶变黄了。",
+    "example_pinyin": "Qiūtiān shùyè biàn huáng le.",
+    "example_en": "Leaves turn yellow in autumn.",
+    "example_ja": "秋に葉が黄色くなります。"
+  },
+  {
+    "simplified": "会议",
+    "meaning_ja": "会議",
+    "example_zh": "下午有一个会议。",
+    "example_pinyin": "Xiàwǔ yǒu yí ge huìyì.",
+    "example_en": "There's a meeting this afternoon.",
+    "example_ja": "午後に会議があります。"
+  },
+  {
+    "simplified": "或者",
+    "meaning_ja": "あるいは；または",
+    "example_zh": "你喝茶或者咖啡。",
+    "example_pinyin": "Nǐ hē chá huòzhě kāfēi.",
+    "example_en": "You can have tea or coffee.",
+    "example_ja": "お茶かコーヒーを飲めます。"
+  },
+  {
+    "simplified": "机会",
+    "meaning_ja": "チャンス；機会",
+    "example_zh": "这是一个好机会。",
+    "example_pinyin": "Zhè shì yí ge hǎo jīhuì.",
+    "example_en": "This is a good opportunity.",
+    "example_ja": "これは良いチャンスです。"
+  },
+  {
+    "simplified": "极",
+    "meaning_ja": "極めて；非常に",
+    "example_zh": "好极了！",
+    "example_pinyin": "Hǎo jí le!",
+    "example_en": "Excellent!",
+    "example_ja": "素晴らしい！"
+  },
+  {
+    "simplified": "几乎",
+    "meaning_ja": "ほとんど",
+    "example_zh": "我几乎每天运动。",
+    "example_pinyin": "Wǒ jīhū měitiān yùndòng.",
+    "example_en": "I exercise almost every day.",
+    "example_ja": "ほぼ毎日運動しています。"
+  },
+  {
+    "simplified": "记得",
+    "meaning_ja": "覚えている",
+    "example_zh": "你还记得我吗？",
+    "example_pinyin": "Nǐ hái jìde wǒ ma?",
+    "example_en": "Do you still remember me?",
+    "example_ja": "まだ私のことを覚えていますか？"
+  },
+  {
+    "simplified": "季节",
+    "meaning_ja": "季節",
+    "example_zh": "你最喜欢哪个季节？",
+    "example_pinyin": "Nǐ zuì xǐhuan nǎge jìjié?",
+    "example_en": "Which season do you like most?",
+    "example_ja": "どの季節が一番好きですか？"
+  },
+  {
+    "simplified": "检查",
+    "meaning_ja": "検査する；チェック",
+    "example_zh": "医生检查了我的身体。",
+    "example_pinyin": "Yīshēng jiǎnchá le wǒ de shēntǐ.",
+    "example_en": "The doctor examined me.",
+    "example_ja": "医者が体を検査しました。"
+  },
+  {
+    "simplified": "简单",
+    "meaning_ja": "簡単な",
+    "example_zh": "这个问题很简单。",
+    "example_pinyin": "Zhège wèntí hěn jiǎndān.",
+    "example_en": "This question is very simple.",
+    "example_ja": "この問題はとても簡単です。"
+  },
+  {
+    "simplified": "见面",
+    "meaning_ja": "会う",
+    "example_zh": "我们明天见面吧。",
+    "example_pinyin": "Wǒmen míngtiān jiànmiàn ba.",
+    "example_en": "Let's meet tomorrow.",
+    "example_ja": "明日会いましょう。"
+  },
+  {
+    "simplified": "健康",
+    "meaning_ja": "健康",
+    "example_zh": "祝你身体健康。",
+    "example_pinyin": "Zhù nǐ shēntǐ jiànkāng.",
+    "example_en": "Wish you good health.",
+    "example_ja": "健康をお祈りします。"
+  },
+  {
+    "simplified": "讲",
+    "meaning_ja": "話す；講義する",
+    "example_zh": "老师在讲课。",
+    "example_pinyin": "Lǎoshī zài jiǎngkè.",
+    "example_en": "The teacher is giving a lecture.",
+    "example_ja": "先生が授業をしています。"
+  },
+  {
+    "simplified": "角",
+    "meaning_ja": "角；毛（通貨）",
+    "example_zh": "这个要两块五角。",
+    "example_pinyin": "Zhège yào liǎng kuài wǔ jiǎo.",
+    "example_en": "This costs two yuan and fifty cents.",
+    "example_ja": "これは二元五角です。"
+  },
+  {
+    "simplified": "脚",
+    "meaning_ja": "足",
+    "example_zh": "我的脚很疼。",
+    "example_pinyin": "Wǒ de jiǎo hěn téng.",
+    "example_en": "My foot hurts.",
+    "example_ja": "足が痛いです。"
+  },
+  {
+    "simplified": "教",
+    "meaning_ja": "教える",
+    "example_zh": "她教我们汉语。",
+    "example_pinyin": "Tā jiāo wǒmen Hànyǔ.",
+    "example_en": "She teaches us Chinese.",
+    "example_ja": "彼女は私たちに中国語を教えています。"
+  },
+  {
+    "simplified": "接",
+    "meaning_ja": "受け取る；迎える",
+    "example_zh": "我去机场接你。",
+    "example_pinyin": "Wǒ qù jīchǎng jiē nǐ.",
+    "example_en": "I'll pick you up at the airport.",
+    "example_ja": "空港に迎えに行きます。"
+  },
+  {
+    "simplified": "街道",
+    "meaning_ja": "通り；街路",
+    "example_zh": "这条街道很热闹。",
+    "example_pinyin": "Zhè tiáo jiēdào hěn rènao.",
+    "example_en": "This street is very lively.",
+    "example_ja": "この通りはとてもにぎやかです。"
+  },
+  {
+    "simplified": "节目",
+    "meaning_ja": "番組；プログラム",
+    "example_zh": "我喜欢这个节目。",
+    "example_pinyin": "Wǒ xǐhuan zhège jiémù.",
+    "example_en": "I like this program.",
+    "example_ja": "この番組が好きです。"
+  },
+  {
+    "simplified": "节日",
+    "meaning_ja": "祝日；お祭り",
+    "example_zh": "春节是中国最大的节日。",
+    "example_pinyin": "Chūnjié shì Zhōngguó zuì dà de jiérì.",
+    "example_en": "Spring Festival is China's biggest holiday.",
+    "example_ja": "春節は中国最大の祝日です。"
+  },
+  {
+    "simplified": "结婚",
+    "meaning_ja": "結婚する",
+    "example_zh": "他们去年结婚了。",
+    "example_pinyin": "Tāmen qùnián jiéhūn le.",
+    "example_en": "They got married last year.",
+    "example_ja": "彼らは去年結婚しました。"
+  },
+  {
+    "simplified": "结束",
+    "meaning_ja": "終わる；終了する",
+    "example_zh": "会议结束了。",
+    "example_pinyin": "Huìyì jiéshù le.",
+    "example_en": "The meeting is over.",
+    "example_ja": "会議が終わりました。"
+  },
+  {
+    "simplified": "解决",
+    "meaning_ja": "解決する",
+    "example_zh": "我们要解决这个问题。",
+    "example_pinyin": "Wǒmen yào jiějué zhège wèntí.",
+    "example_en": "We need to solve this problem.",
+    "example_ja": "この問題を解決しなければなりません。"
+  },
+  {
+    "simplified": "借",
+    "meaning_ja": "借りる；貸す",
+    "example_zh": "我借了一本书。",
+    "example_pinyin": "Wǒ jiè le yì běn shū.",
+    "example_en": "I borrowed a book.",
+    "example_ja": "本を一冊借りました。"
+  },
+  {
+    "simplified": "经常",
+    "meaning_ja": "よく；頻繁に",
+    "example_zh": "我经常去那个超市。",
+    "example_pinyin": "Wǒ jīngcháng qù nàge chāoshì.",
+    "example_en": "I often go to that supermarket.",
+    "example_ja": "よくあのスーパーに行きます。"
+  },
+  {
+    "simplified": "经过",
+    "meaning_ja": "通る；経て",
+    "example_zh": "我每天经过这里。",
+    "example_pinyin": "Wǒ měitiān jīngguò zhèlǐ.",
+    "example_en": "I pass by here every day.",
+    "example_ja": "毎日ここを通ります。"
+  },
+  {
+    "simplified": "经理",
+    "meaning_ja": "マネージャー；部長",
+    "example_zh": "经理今天不在。",
+    "example_pinyin": "Jīnglǐ jīntiān bú zài.",
+    "example_en": "The manager is not here today.",
+    "example_ja": "マネージャーは今日いません。"
+  },
+  {
+    "simplified": "久",
+    "meaning_ja": "長い（時間）",
+    "example_zh": "好久不见！",
+    "example_pinyin": "Hǎojiǔ bújiàn!",
+    "example_en": "Long time no see!",
+    "example_ja": "お久しぶりです！"
+  },
+  {
+    "simplified": "旧",
+    "meaning_ja": "古い；中古の",
+    "example_zh": "这件衣服太旧了。",
+    "example_pinyin": "Zhè jiàn yīfu tài jiù le.",
+    "example_en": "This clothing is too old.",
+    "example_ja": "この服は古すぎます。"
+  },
+  {
+    "simplified": "举行",
+    "meaning_ja": "行う；開催する",
+    "example_zh": "学校举行了运动会。",
+    "example_pinyin": "Xuéxiào jǔxíng le yùndònghuì.",
+    "example_en": "The school held a sports day.",
+    "example_ja": "学校が運動会を開催しました。"
+  },
+  {
+    "simplified": "句子",
+    "meaning_ja": "文；センテンス",
+    "example_zh": "请读这个句子。",
+    "example_pinyin": "Qǐng dú zhège jùzi.",
+    "example_en": "Please read this sentence.",
+    "example_ja": "この文を読んでください。"
+  },
+  {
+    "simplified": "决定",
+    "meaning_ja": "決める；決定",
+    "example_zh": "我决定了。",
+    "example_pinyin": "Wǒ juédìng le.",
+    "example_en": "I've decided.",
+    "example_ja": "決めました。"
+  },
+  {
+    "simplified": "可爱",
+    "meaning_ja": "かわいい",
+    "example_zh": "这个孩子真可爱。",
+    "example_pinyin": "Zhège háizi zhēn kě'ài.",
+    "example_en": "This child is really cute.",
+    "example_ja": "この子は本当にかわいいです。"
+  },
+  {
+    "simplified": "渴",
+    "meaning_ja": "喉が渇いた",
+    "example_zh": "我很渴。",
+    "example_pinyin": "Wǒ hěn kě.",
+    "example_en": "I'm very thirsty.",
+    "example_ja": "とても喉が渇きました。"
+  },
+  {
+    "simplified": "刻",
+    "meaning_ja": "15分；刻む",
+    "example_zh": "现在三点一刻。",
+    "example_pinyin": "Xiànzài sān diǎn yí kè.",
+    "example_en": "It's a quarter past three.",
+    "example_ja": "今三時十五分です。"
+  },
+  {
+    "simplified": "客人",
+    "meaning_ja": "お客さん",
+    "example_zh": "家里来了客人。",
+    "example_pinyin": "Jiālǐ lái le kèrén.",
+    "example_en": "We have guests at home.",
+    "example_ja": "家にお客さんが来ました。"
+  },
+  {
+    "simplified": "空调",
+    "meaning_ja": "エアコン",
+    "example_zh": "请开空调。",
+    "example_pinyin": "Qǐng kāi kōngtiáo.",
+    "example_en": "Please turn on the AC.",
+    "example_ja": "エアコンをつけてください。"
+  },
+  {
+    "simplified": "口",
+    "meaning_ja": "口；～人（量詞）",
+    "example_zh": "我家有四口人。",
+    "example_pinyin": "Wǒ jiā yǒu sì kǒu rén.",
+    "example_en": "There are four people in my family.",
+    "example_ja": "うちは四人家族です。"
+  },
+  {
+    "simplified": "哭",
+    "meaning_ja": "泣く",
+    "example_zh": "别哭了。",
+    "example_pinyin": "Bié kū le.",
+    "example_en": "Don't cry.",
+    "example_ja": "泣かないで。"
+  },
+  {
+    "simplified": "裤子",
+    "meaning_ja": "ズボン；パンツ",
+    "example_zh": "这条裤子很好看。",
+    "example_pinyin": "Zhè tiáo kùzi hěn hǎokàn.",
+    "example_en": "These pants look nice.",
+    "example_ja": "このズボンはきれいです。"
+  },
+  {
+    "simplified": "筷子",
+    "meaning_ja": "箸",
+    "example_zh": "你会用筷子吗？",
+    "example_pinyin": "Nǐ huì yòng kuàizi ma?",
+    "example_en": "Can you use chopsticks?",
+    "example_ja": "箸を使えますか？"
+  },
+  {
+    "simplified": "蓝",
+    "meaning_ja": "青い",
+    "example_zh": "天空很蓝。",
+    "example_pinyin": "Tiānkōng hěn lán.",
+    "example_en": "The sky is very blue.",
+    "example_ja": "空がとても青いです。"
+  },
+  {
+    "simplified": "老",
+    "meaning_ja": "年を取った；古い",
+    "example_zh": "他很老了。",
+    "example_pinyin": "Tā hěn lǎo le.",
+    "example_en": "He is very old.",
+    "example_ja": "彼はとても年を取っています。"
+  },
+  {
+    "simplified": "了解",
+    "meaning_ja": "理解する；わかる",
+    "example_zh": "我了解你的意思。",
+    "example_pinyin": "Wǒ liǎojiě nǐ de yìsi.",
+    "example_en": "I understand what you mean.",
+    "example_ja": "あなたの言いたいことがわかります。"
+  },
+  {
+    "simplified": "离开",
+    "meaning_ja": "離れる；出発する",
+    "example_zh": "他离开了。",
+    "example_pinyin": "Tā líkāi le.",
+    "example_en": "He left.",
+    "example_ja": "彼は去りました。"
+  },
+  {
+    "simplified": "礼物",
+    "meaning_ja": "プレゼント；贈り物",
+    "example_zh": "这是给你的礼物。",
+    "example_pinyin": "Zhè shì gěi nǐ de lǐwù.",
+    "example_en": "This is a gift for you.",
+    "example_ja": "これはあなたへのプレゼントです。"
+  },
+  {
+    "simplified": "历史",
+    "meaning_ja": "歴史",
+    "example_zh": "中国有很长的历史。",
+    "example_pinyin": "Zhōngguó yǒu hěn cháng de lìshǐ.",
+    "example_en": "China has a long history.",
+    "example_ja": "中国には長い歴史があります。"
+  },
+  {
+    "simplified": "脸",
+    "meaning_ja": "顔",
+    "example_zh": "她的脸很红。",
+    "example_pinyin": "Tā de liǎn hěn hóng.",
+    "example_en": "Her face is very red.",
+    "example_ja": "彼女の顔が赤いです。"
+  },
+  {
+    "simplified": "练习",
+    "meaning_ja": "練習する",
+    "example_zh": "我每天练习写字。",
+    "example_pinyin": "Wǒ měitiān liànxí xiě zì.",
+    "example_en": "I practice writing every day.",
+    "example_ja": "毎日字を書く練習をしています。"
+  },
+  {
+    "simplified": "辆",
+    "meaning_ja": "～台（車の量詞）",
+    "example_zh": "他有两辆车。",
+    "example_pinyin": "Tā yǒu liǎng liàng chē.",
+    "example_en": "He has two cars.",
+    "example_ja": "彼は車を二台持っています。"
+  },
+  {
+    "simplified": "邻居",
+    "meaning_ja": "隣人；ご近所",
+    "example_zh": "我的邻居很友好。",
+    "example_pinyin": "Wǒ de línjū hěn yǒuhǎo.",
+    "example_en": "My neighbors are friendly.",
+    "example_ja": "隣人はとても親切です。"
+  },
+  {
+    "simplified": "楼",
+    "meaning_ja": "ビル；階",
+    "example_zh": "我住在五楼。",
+    "example_pinyin": "Wǒ zhù zài wǔ lóu.",
+    "example_en": "I live on the fifth floor.",
+    "example_ja": "五階に住んでいます。"
+  },
+  {
+    "simplified": "绿",
+    "meaning_ja": "緑",
+    "example_zh": "春天草变绿了。",
+    "example_pinyin": "Chūntiān cǎo biàn lǜ le.",
+    "example_en": "Grass turns green in spring.",
+    "example_ja": "春に草が緑になります。"
+  },
+  {
+    "simplified": "马",
+    "meaning_ja": "馬",
+    "example_zh": "他喜欢骑马。",
+    "example_pinyin": "Tā xǐhuan qí mǎ.",
+    "example_en": "He likes horseback riding.",
+    "example_ja": "彼は乗馬が好きです。"
+  },
+  {
+    "simplified": "马上",
+    "meaning_ja": "すぐに",
+    "example_zh": "我马上来。",
+    "example_pinyin": "Wǒ mǎshàng lái.",
+    "example_en": "I'll be right there.",
+    "example_ja": "すぐ行きます。"
+  },
+  {
+    "simplified": "满意",
+    "meaning_ja": "満足する",
+    "example_zh": "我很满意。",
+    "example_pinyin": "Wǒ hěn mǎnyì.",
+    "example_en": "I'm very satisfied.",
+    "example_ja": "とても満足しています。"
+  },
+  {
+    "simplified": "帽子",
+    "meaning_ja": "帽子",
+    "example_zh": "他戴了一顶帽子。",
+    "example_pinyin": "Tā dài le yì dǐng màozi.",
+    "example_en": "He wore a hat.",
+    "example_ja": "彼は帽子をかぶりました。"
+  },
+  {
+    "simplified": "米",
+    "meaning_ja": "メートル；米",
+    "example_zh": "他身高一米八。",
+    "example_pinyin": "Tā shēngāo yì mǐ bā.",
+    "example_en": "He is 1.8 meters tall.",
+    "example_ja": "彼の身長は一メートル八十です。"
+  },
+  {
+    "simplified": "面包",
+    "meaning_ja": "パン",
+    "example_zh": "我早上吃面包。",
+    "example_pinyin": "Wǒ zǎoshang chī miànbāo.",
+    "example_en": "I eat bread in the morning.",
+    "example_ja": "朝はパンを食べます。"
+  },
+  {
+    "simplified": "面条",
+    "meaning_ja": "麺；ラーメン",
+    "example_zh": "我想吃面条。",
+    "example_pinyin": "Wǒ xiǎng chī miàntiáo.",
+    "example_en": "I want to eat noodles.",
+    "example_ja": "麺が食べたいです。"
+  },
+  {
+    "simplified": "明白",
+    "meaning_ja": "わかる；理解する",
+    "example_zh": "我明白了。",
+    "example_pinyin": "Wǒ míngbai le.",
+    "example_en": "I understand.",
+    "example_ja": "わかりました。"
+  },
+  {
+    "simplified": "拿",
+    "meaning_ja": "持つ；取る",
+    "example_zh": "请把书拿过来。",
+    "example_pinyin": "Qǐng bǎ shū ná guòlái.",
+    "example_en": "Please bring the book over.",
+    "example_ja": "本を持ってきてください。"
+  },
+  {
+    "simplified": "奶奶",
+    "meaning_ja": "おばあさん（父方）",
+    "example_zh": "奶奶给我做饭。",
+    "example_pinyin": "Nǎinai gěi wǒ zuòfàn.",
+    "example_en": "Grandma cooks for me.",
+    "example_ja": "おばあちゃんがご飯を作ってくれます。"
+  },
+  {
+    "simplified": "南",
+    "meaning_ja": "南",
+    "example_zh": "我住在南方。",
+    "example_pinyin": "Wǒ zhù zài nánfāng.",
+    "example_en": "I live in the south.",
+    "example_ja": "南に住んでいます。"
+  },
+  {
+    "simplified": "难",
+    "meaning_ja": "難しい",
+    "example_zh": "这个题很难。",
+    "example_pinyin": "Zhège tí hěn nán.",
+    "example_en": "This question is very hard.",
+    "example_ja": "この問題はとても難しいです。"
+  },
+  {
+    "simplified": "难过",
+    "meaning_ja": "悲しい；つらい",
+    "example_zh": "他很难过。",
+    "example_pinyin": "Tā hěn nánguò.",
+    "example_en": "He is very sad.",
+    "example_ja": "彼はとても悲しんでいます。"
+  },
+  {
+    "simplified": "年级",
+    "meaning_ja": "学年",
+    "example_zh": "你上几年级？",
+    "example_pinyin": "Nǐ shàng jǐ niánjí?",
+    "example_en": "What grade are you in?",
+    "example_ja": "何年生ですか？"
+  },
+  {
+    "simplified": "年轻",
+    "meaning_ja": "若い",
+    "example_zh": "她很年轻。",
+    "example_pinyin": "Tā hěn niánqīng.",
+    "example_en": "She is very young.",
+    "example_ja": "彼女はとても若いです。"
+  },
+  {
+    "simplified": "鸟",
+    "meaning_ja": "鳥",
+    "example_zh": "树上有一只鸟。",
+    "example_pinyin": "Shù shàng yǒu yì zhī niǎo.",
+    "example_en": "There's a bird in the tree.",
+    "example_ja": "木に鳥が一羽います。"
+  },
+  {
+    "simplified": "努力",
+    "meaning_ja": "努力する；頑張る",
+    "example_zh": "你要努力学习。",
+    "example_pinyin": "Nǐ yào nǔlì xuéxí.",
+    "example_en": "You should study hard.",
+    "example_ja": "一生懸命勉強しなければなりません。"
+  },
+  {
+    "simplified": "爬山",
+    "meaning_ja": "山登りをする",
+    "example_zh": "周末我们去爬山。",
+    "example_pinyin": "Zhōumò wǒmen qù páshān.",
+    "example_en": "Let's go hiking this weekend.",
+    "example_ja": "週末に山登りに行きましょう。"
+  },
+  {
+    "simplified": "盘子",
+    "meaning_ja": "皿",
+    "example_zh": "请给我一个盘子。",
+    "example_pinyin": "Qǐng gěi wǒ yí ge pánzi.",
+    "example_en": "Please give me a plate.",
+    "example_ja": "お皿を一枚ください。"
+  },
+  {
+    "simplified": "胖",
+    "meaning_ja": "太った",
+    "example_zh": "我最近胖了。",
+    "example_pinyin": "Wǒ zuìjìn pàng le.",
+    "example_en": "I've gained weight recently.",
+    "example_ja": "最近太りました。"
+  },
+  {
+    "simplified": "啤酒",
+    "meaning_ja": "ビール",
+    "example_zh": "来两瓶啤酒。",
+    "example_pinyin": "Lái liǎng píng píjiǔ.",
+    "example_en": "Two bottles of beer, please.",
+    "example_ja": "ビールを二本ください。"
+  },
+  {
+    "simplified": "葡萄",
+    "meaning_ja": "ブドウ",
+    "example_zh": "我喜欢吃葡萄。",
+    "example_pinyin": "Wǒ xǐhuan chī pútao.",
+    "example_en": "I like eating grapes.",
+    "example_ja": "ブドウが好きです。"
+  },
+  {
+    "simplified": "普通话",
+    "meaning_ja": "普通語（標準中国語）",
+    "example_zh": "你会说普通话吗？",
+    "example_pinyin": "Nǐ huì shuō pǔtōnghuà ma?",
+    "example_en": "Can you speak Mandarin?",
+    "example_ja": "普通語を話せますか？"
+  },
+  {
+    "simplified": "其实",
+    "meaning_ja": "実は",
+    "example_zh": "其实我不知道。",
+    "example_pinyin": "Qíshí wǒ bù zhīdào.",
+    "example_en": "Actually, I don't know.",
+    "example_ja": "実は知りません。"
+  },
+  {
+    "simplified": "其他",
+    "meaning_ja": "その他；他の",
+    "example_zh": "其他人都走了。",
+    "example_pinyin": "Qítā rén dōu zǒu le.",
+    "example_en": "Everyone else has left.",
+    "example_ja": "他の人はみんな帰りました。"
+  },
+  {
+    "simplified": "奇怪",
+    "meaning_ja": "不思議な；変な",
+    "example_zh": "真奇怪。",
+    "example_pinyin": "Zhēn qíguài.",
+    "example_en": "How strange.",
+    "example_ja": "本当に不思議ですね。"
+  },
+  {
+    "simplified": "骑",
+    "meaning_ja": "乗る（またがる）",
+    "example_zh": "我骑自行车去。",
+    "example_pinyin": "Wǒ qí zìxíngchē qù.",
+    "example_en": "I'll go by bike.",
+    "example_ja": "自転車で行きます。"
+  },
+  {
+    "simplified": "铅笔",
+    "meaning_ja": "鉛筆",
+    "example_zh": "请用铅笔写。",
+    "example_pinyin": "Qǐng yòng qiānbǐ xiě.",
+    "example_en": "Please write with a pencil.",
+    "example_ja": "鉛筆で書いてください。"
+  },
+  {
+    "simplified": "清楚",
+    "meaning_ja": "はっきりしている",
+    "example_zh": "我听清楚了。",
+    "example_pinyin": "Wǒ tīng qīngchu le.",
+    "example_en": "I heard it clearly.",
+    "example_ja": "はっきり聞こえました。"
+  },
+  {
+    "simplified": "秋",
+    "meaning_ja": "秋",
+    "example_zh": "秋天很凉爽。",
+    "example_pinyin": "Qiūtiān hěn liángshuǎng.",
+    "example_en": "Autumn is cool.",
+    "example_ja": "秋は涼しいです。"
+  },
+  {
+    "simplified": "裙子",
+    "meaning_ja": "スカート",
+    "example_zh": "她穿了一条红裙子。",
+    "example_pinyin": "Tā chuān le yì tiáo hóng qúnzi.",
+    "example_en": "She wore a red skirt.",
+    "example_ja": "彼女は赤いスカートを履きました。"
+  },
+  {
+    "simplified": "然后",
+    "meaning_ja": "それから；その後",
+    "example_zh": "先吃饭，然后去公园。",
+    "example_pinyin": "Xiān chīfàn, ránhòu qù gōngyuán.",
+    "example_en": "Eat first, then go to the park.",
+    "example_ja": "まずご飯を食べて、それから公園に行きます。"
+  },
+  {
+    "simplified": "热情",
+    "meaning_ja": "熱心な；親切な",
+    "example_zh": "他很热情。",
+    "example_pinyin": "Tā hěn rèqíng.",
+    "example_en": "He is very warm and friendly.",
+    "example_ja": "彼はとても親切です。"
+  },
+  {
+    "simplified": "认为",
+    "meaning_ja": "～と思う；考える",
+    "example_zh": "我认为他说得对。",
+    "example_pinyin": "Wǒ rènwéi tā shuō de duì.",
+    "example_en": "I think he's right.",
+    "example_ja": "彼の言うことは正しいと思います。"
+  },
+  {
+    "simplified": "认真",
+    "meaning_ja": "真面目な；真剣な",
+    "example_zh": "他学习很认真。",
+    "example_pinyin": "Tā xuéxí hěn rènzhēn.",
+    "example_en": "He studies very seriously.",
+    "example_ja": "彼は真面目に勉強しています。"
+  },
+  {
+    "simplified": "容易",
+    "meaning_ja": "簡単な；容易な",
+    "example_zh": "这个不容易。",
+    "example_pinyin": "Zhège bù róngyì.",
+    "example_en": "This is not easy.",
+    "example_ja": "これは簡単ではありません。"
+  },
+  {
+    "simplified": "如果",
+    "meaning_ja": "もし；もしも",
+    "example_zh": "如果下雨，我不去。",
+    "example_pinyin": "Rúguǒ xiàyǔ, wǒ bú qù.",
+    "example_en": "If it rains, I won't go.",
+    "example_ja": "もし雨が降ったら行きません。"
+  },
+  {
+    "simplified": "伞",
+    "meaning_ja": "傘",
+    "example_zh": "你带伞了吗？",
+    "example_pinyin": "Nǐ dài sǎn le ma?",
+    "example_en": "Did you bring an umbrella?",
+    "example_ja": "傘を持っていますか？"
+  },
+  {
+    "simplified": "上网",
+    "meaning_ja": "ネットをする",
+    "example_zh": "我喜欢上网。",
+    "example_pinyin": "Wǒ xǐhuan shàngwǎng.",
+    "example_en": "I like going online.",
+    "example_ja": "ネットをするのが好きです。"
+  },
+  {
+    "simplified": "生气",
+    "meaning_ja": "怒る",
+    "example_zh": "别生气了。",
+    "example_pinyin": "Bié shēngqì le.",
+    "example_en": "Don't be angry.",
+    "example_ja": "怒らないで。"
+  },
+  {
+    "simplified": "声音",
+    "meaning_ja": "音；声",
+    "example_zh": "你的声音很好听。",
+    "example_pinyin": "Nǐ de shēngyīn hěn hǎotīng.",
+    "example_en": "Your voice sounds nice.",
+    "example_ja": "あなたの声はきれいです。"
+  },
+  {
+    "simplified": "使",
+    "meaning_ja": "使う；～させる",
+    "example_zh": "这件事使我很高兴。",
+    "example_pinyin": "Zhè jiàn shì shǐ wǒ hěn gāoxìng.",
+    "example_en": "This makes me very happy.",
+    "example_ja": "このことは私をとても嬉しくさせます。"
+  },
+  {
+    "simplified": "世界",
+    "meaning_ja": "世界",
+    "example_zh": "世界很大。",
+    "example_pinyin": "Shìjiè hěn dà.",
+    "example_en": "The world is big.",
+    "example_ja": "世界は広いです。"
+  },
+  {
+    "simplified": "瘦",
+    "meaning_ja": "痩せた",
+    "example_zh": "她很瘦。",
+    "example_pinyin": "Tā hěn shòu.",
+    "example_en": "She is very thin.",
+    "example_ja": "彼女はとても痩せています。"
+  },
+  {
+    "simplified": "叔叔",
+    "meaning_ja": "おじさん（父の弟）",
+    "example_zh": "叔叔给我买了礼物。",
+    "example_pinyin": "Shūshu gěi wǒ mǎi le lǐwù.",
+    "example_en": "Uncle bought me a gift.",
+    "example_ja": "おじさんがプレゼントを買ってくれました。"
+  },
+  {
+    "simplified": "舒服",
+    "meaning_ja": "快適な；気持ちいい",
+    "example_zh": "这把椅子很舒服。",
+    "example_pinyin": "Zhè bǎ yǐzi hěn shūfu.",
+    "example_en": "This chair is very comfortable.",
+    "example_ja": "この椅子はとても快適です。"
+  },
+  {
+    "simplified": "树",
+    "meaning_ja": "木",
+    "example_zh": "公园里有很多树。",
+    "example_pinyin": "Gōngyuán lǐ yǒu hěn duō shù.",
+    "example_en": "There are many trees in the park.",
+    "example_ja": "公園にはたくさんの木があります。"
+  },
+  {
+    "simplified": "数学",
+    "meaning_ja": "数学",
+    "example_zh": "我喜欢数学。",
+    "example_pinyin": "Wǒ xǐhuan shùxué.",
+    "example_en": "I like math.",
+    "example_ja": "数学が好きです。"
+  },
+  {
+    "simplified": "刷",
+    "meaning_ja": "磨く；ブラシをかける",
+    "example_zh": "我每天刷牙。",
+    "example_pinyin": "Wǒ měitiān shuā yá.",
+    "example_en": "I brush my teeth every day.",
+    "example_ja": "毎日歯を磨きます。"
+  },
+  {
+    "simplified": "双",
+    "meaning_ja": "～足；～組（量詞）",
+    "example_zh": "我买了一双鞋。",
+    "example_pinyin": "Wǒ mǎi le yì shuāng xié.",
+    "example_en": "I bought a pair of shoes.",
+    "example_ja": "靴を一足買いました。"
+  },
+  {
+    "simplified": "水平",
+    "meaning_ja": "レベル；水準",
+    "example_zh": "他的汉语水平很高。",
+    "example_pinyin": "Tā de Hànyǔ shuǐpíng hěn gāo.",
+    "example_en": "His Chinese level is very high.",
+    "example_ja": "彼の中国語のレベルはとても高いです。"
+  },
+  {
+    "simplified": "司机",
+    "meaning_ja": "運転手；ドライバー",
+    "example_zh": "司机开得很快。",
+    "example_pinyin": "Sījī kāi de hěn kuài.",
+    "example_en": "The driver drives fast.",
+    "example_ja": "運転手は速く走ります。"
+  },
+  {
+    "simplified": "虽然",
+    "meaning_ja": "～だけれども",
+    "example_zh": "虽然很难，但我不放弃。",
+    "example_pinyin": "Suīrán hěn nán, dàn wǒ bù fàngqì.",
+    "example_en": "Although it's hard, I won't give up.",
+    "example_ja": "難しいけれど、諦めません。"
+  },
+  {
+    "simplified": "太阳",
+    "meaning_ja": "太陽",
+    "example_zh": "今天太阳很大。",
+    "example_pinyin": "Jīntiān tàiyáng hěn dà.",
+    "example_en": "The sun is strong today.",
+    "example_ja": "今日は日差しが強いです。"
+  },
+  {
+    "simplified": "糖",
+    "meaning_ja": "砂糖；飴",
+    "example_zh": "我不吃糖。",
+    "example_pinyin": "Wǒ bù chī táng.",
+    "example_en": "I don't eat sweets.",
+    "example_ja": "甘いものは食べません。"
+  },
+  {
+    "simplified": "特别",
+    "meaning_ja": "特に；特別な",
+    "example_zh": "今天特别冷。",
+    "example_pinyin": "Jīntiān tèbié lěng.",
+    "example_en": "It's especially cold today.",
+    "example_ja": "今日は特に寒いです。"
+  },
+  {
+    "simplified": "疼",
+    "meaning_ja": "痛い",
+    "example_zh": "我头疼。",
+    "example_pinyin": "Wǒ tóu téng.",
+    "example_en": "I have a headache.",
+    "example_ja": "頭が痛いです。"
+  },
+  {
+    "simplified": "提高",
+    "meaning_ja": "高める；向上させる",
+    "example_zh": "我想提高我的汉语。",
+    "example_pinyin": "Wǒ xiǎng tígāo wǒ de Hànyǔ.",
+    "example_en": "I want to improve my Chinese.",
+    "example_ja": "中国語を上達させたいです。"
+  },
+  {
+    "simplified": "体育",
+    "meaning_ja": "体育；スポーツ",
+    "example_zh": "今天有体育课。",
+    "example_pinyin": "Jīntiān yǒu tǐyù kè.",
+    "example_en": "There's a PE class today.",
+    "example_ja": "今日は体育の授業があります。"
+  },
+  {
+    "simplified": "甜",
+    "meaning_ja": "甘い",
+    "example_zh": "这个蛋糕很甜。",
+    "example_pinyin": "Zhège dàngāo hěn tián.",
+    "example_en": "This cake is very sweet.",
+    "example_ja": "このケーキはとても甘いです。"
+  },
+  {
+    "simplified": "条",
+    "meaning_ja": "～本；～条（量詞）",
+    "example_zh": "这条路很宽。",
+    "example_pinyin": "Zhè tiáo lù hěn kuān.",
+    "example_en": "This road is very wide.",
+    "example_ja": "この道はとても広いです。"
+  },
+  {
+    "simplified": "同事",
+    "meaning_ja": "同僚",
+    "example_zh": "他是我的同事。",
+    "example_pinyin": "Tā shì wǒ de tóngshì.",
+    "example_en": "He is my colleague.",
+    "example_ja": "彼は私の同僚です。"
+  },
+  {
+    "simplified": "同意",
+    "meaning_ja": "同意する；賛成する",
+    "example_zh": "我同意你的想法。",
+    "example_pinyin": "Wǒ tóngyì nǐ de xiǎngfǎ.",
+    "example_en": "I agree with your idea.",
+    "example_ja": "あなたの考えに賛成です。"
+  },
+  {
+    "simplified": "头发",
+    "meaning_ja": "髪の毛",
+    "example_zh": "她的头发很长。",
+    "example_pinyin": "Tā de tóufa hěn cháng.",
+    "example_en": "Her hair is very long.",
+    "example_ja": "彼女の髪はとても長いです。"
+  },
+  {
+    "simplified": "突然",
+    "meaning_ja": "突然；急に",
+    "example_zh": "他突然走了。",
+    "example_pinyin": "Tā tūrán zǒu le.",
+    "example_en": "He left suddenly.",
+    "example_ja": "彼は突然帰りました。"
+  },
+  {
+    "simplified": "图书馆",
+    "meaning_ja": "図書館",
+    "example_zh": "我在图书馆学习。",
+    "example_pinyin": "Wǒ zài túshūguǎn xuéxí.",
+    "example_en": "I study at the library.",
+    "example_ja": "図書館で勉強しています。"
+  },
+  {
+    "simplified": "腿",
+    "meaning_ja": "脚；もも",
+    "example_zh": "我的腿很疼。",
+    "example_pinyin": "Wǒ de tuǐ hěn téng.",
+    "example_en": "My leg hurts.",
+    "example_ja": "脚が痛いです。"
+  },
+  {
+    "simplified": "完成",
+    "meaning_ja": "完成する；仕上げる",
+    "example_zh": "我完成了作业。",
+    "example_pinyin": "Wǒ wánchéng le zuòyè.",
+    "example_en": "I finished my homework.",
+    "example_ja": "宿題を終わらせました。"
+  },
+  {
+    "simplified": "碗",
+    "meaning_ja": "茶碗；お椀",
+    "example_zh": "给我一碗米饭。",
+    "example_pinyin": "Gěi wǒ yì wǎn mǐfàn.",
+    "example_en": "Give me a bowl of rice.",
+    "example_ja": "ご飯を一杯ください。"
+  },
+  {
+    "simplified": "万",
+    "meaning_ja": "万；10000",
+    "example_zh": "这个要一万块。",
+    "example_pinyin": "Zhège yào yí wàn kuài.",
+    "example_en": "This costs ten thousand yuan.",
+    "example_ja": "これは一万元です。"
+  },
+  {
+    "simplified": "忘记",
+    "meaning_ja": "忘れる",
+    "example_zh": "我忘记了。",
+    "example_pinyin": "Wǒ wàngjì le.",
+    "example_en": "I forgot.",
+    "example_ja": "忘れました。"
+  },
+  {
+    "simplified": "为了",
+    "meaning_ja": "～のために",
+    "example_zh": "为了健康，我每天运动。",
+    "example_pinyin": "Wèile jiànkāng, wǒ měitiān yùndòng.",
+    "example_en": "For my health, I exercise every day.",
+    "example_ja": "健康のために毎日運動しています。"
+  },
+  {
+    "simplified": "为什么",
+    "meaning_ja": "なぜ；どうして",
+    "example_zh": "你为什么不去？",
+    "example_pinyin": "Nǐ wèishénme bú qù?",
+    "example_en": "Why don't you go?",
+    "example_ja": "なぜ行かないのですか？"
+  },
+  {
+    "simplified": "位",
+    "meaning_ja": "～名様（量詞・敬称）",
+    "example_zh": "这位是王老师。",
+    "example_pinyin": "Zhè wèi shì Wáng lǎoshī.",
+    "example_en": "This is Teacher Wang.",
+    "example_ja": "こちらは王先生です。"
+  },
+  {
+    "simplified": "文化",
+    "meaning_ja": "文化",
+    "example_zh": "中国文化很有趣。",
+    "example_pinyin": "Zhōngguó wénhuà hěn yǒuqù.",
+    "example_en": "Chinese culture is interesting.",
+    "example_ja": "中国の文化はとても面白いです。"
+  },
+  {
+    "simplified": "习惯",
+    "meaning_ja": "習慣；慣れる",
+    "example_zh": "我习惯了。",
+    "example_pinyin": "Wǒ xíguàn le.",
+    "example_en": "I'm used to it.",
+    "example_ja": "慣れました。"
+  },
+  {
+    "simplified": "洗手间",
+    "meaning_ja": "トイレ；お手洗い",
+    "example_zh": "洗手间在哪里？",
+    "example_pinyin": "Xǐshǒujiān zài nǎlǐ?",
+    "example_en": "Where is the restroom?",
+    "example_ja": "トイレはどこですか？"
+  },
+  {
+    "simplified": "洗澡",
+    "meaning_ja": "お風呂に入る；シャワー",
+    "example_zh": "我要去洗澡。",
+    "example_pinyin": "Wǒ yào qù xǐzǎo.",
+    "example_en": "I'm going to take a shower.",
+    "example_ja": "お風呂に入ります。"
+  },
+  {
+    "simplified": "西",
+    "meaning_ja": "西",
+    "example_zh": "太阳从西边落下。",
+    "example_pinyin": "Tàiyáng cóng xībiān luòxià.",
+    "example_en": "The sun sets in the west.",
+    "example_ja": "太陽は西に沈みます。"
+  },
+  {
+    "simplified": "夏",
+    "meaning_ja": "夏",
+    "example_zh": "夏天很热。",
+    "example_pinyin": "Xiàtiān hěn rè.",
+    "example_en": "Summer is very hot.",
+    "example_ja": "夏はとても暑いです。"
+  },
+  {
+    "simplified": "先",
+    "meaning_ja": "先に；まず",
+    "example_zh": "你先走吧。",
+    "example_pinyin": "Nǐ xiān zǒu ba.",
+    "example_en": "You go first.",
+    "example_ja": "先に行ってください。"
+  },
+  {
+    "simplified": "相同",
+    "meaning_ja": "同じ",
+    "example_zh": "我们的想法相同。",
+    "example_pinyin": "Wǒmen de xiǎngfǎ xiāngtóng.",
+    "example_en": "Our ideas are the same.",
+    "example_ja": "私たちの考えは同じです。"
+  },
+  {
+    "simplified": "相信",
+    "meaning_ja": "信じる",
+    "example_zh": "我相信你。",
+    "example_pinyin": "Wǒ xiāngxìn nǐ.",
+    "example_en": "I believe you.",
+    "example_ja": "あなたを信じます。"
+  },
+  {
+    "simplified": "香蕉",
+    "meaning_ja": "バナナ",
+    "example_zh": "我每天吃一根香蕉。",
+    "example_pinyin": "Wǒ měitiān chī yì gēn xiāngjiāo.",
+    "example_en": "I eat a banana every day.",
+    "example_ja": "毎日バナナを一本食べます。"
+  },
+  {
+    "simplified": "像",
+    "meaning_ja": "～のようだ；似ている",
+    "example_zh": "她像她妈妈。",
+    "example_pinyin": "Tā xiàng tā māma.",
+    "example_en": "She looks like her mom.",
+    "example_ja": "彼女はお母さんに似ています。"
+  },
+  {
+    "simplified": "小心",
+    "meaning_ja": "気をつける；注意する",
+    "example_zh": "小心！",
+    "example_pinyin": "Xiǎoxīn!",
+    "example_en": "Be careful!",
+    "example_ja": "気をつけて！"
+  },
+  {
+    "simplified": "校长",
+    "meaning_ja": "校長",
+    "example_zh": "校长在办公室。",
+    "example_pinyin": "Xiàozhǎng zài bàngōngshì.",
+    "example_en": "The principal is in the office.",
+    "example_ja": "校長は事務室にいます。"
+  },
+  {
+    "simplified": "鞋",
+    "meaning_ja": "靴",
+    "example_zh": "这双鞋很好看。",
+    "example_pinyin": "Zhè shuāng xié hěn hǎokàn.",
+    "example_en": "These shoes look nice.",
+    "example_ja": "この靴はきれいです。"
+  },
+  {
+    "simplified": "新闻",
+    "meaning_ja": "ニュース",
+    "example_zh": "你看新闻了吗？",
+    "example_pinyin": "Nǐ kàn xīnwén le ma?",
+    "example_en": "Did you watch the news?",
+    "example_ja": "ニュースを見ましたか？"
+  },
+  {
+    "simplified": "新鲜",
+    "meaning_ja": "新鮮な",
+    "example_zh": "这些水果很新鲜。",
+    "example_pinyin": "Zhèxiē shuǐguǒ hěn xīnxiān.",
+    "example_en": "These fruits are very fresh.",
+    "example_ja": "これらの果物はとても新鮮です。"
+  },
+  {
+    "simplified": "信",
+    "meaning_ja": "手紙；信じる",
+    "example_zh": "我给你写了一封信。",
+    "example_pinyin": "Wǒ gěi nǐ xiě le yì fēng xìn.",
+    "example_en": "I wrote you a letter.",
+    "example_ja": "あなたに手紙を書きました。"
+  },
+  {
+    "simplified": "行李箱",
+    "meaning_ja": "スーツケース",
+    "example_zh": "我的行李箱很重。",
+    "example_pinyin": "Wǒ de xínglixiāng hěn zhòng.",
+    "example_en": "My suitcase is heavy.",
+    "example_ja": "スーツケースが重いです。"
+  },
+  {
+    "simplified": "兴趣",
+    "meaning_ja": "興味；関心",
+    "example_zh": "我对中国文化有兴趣。",
+    "example_pinyin": "Wǒ duì Zhōngguó wénhuà yǒu xìngqù.",
+    "example_en": "I'm interested in Chinese culture.",
+    "example_ja": "中国の文化に興味があります。"
+  },
+  {
+    "simplified": "熊猫",
+    "meaning_ja": "パンダ",
+    "example_zh": "熊猫很可爱。",
+    "example_pinyin": "Xióngmāo hěn kě'ài.",
+    "example_en": "Pandas are cute.",
+    "example_ja": "パンダはかわいいです。"
+  },
+  {
+    "simplified": "需要",
+    "meaning_ja": "必要とする",
+    "example_zh": "你需要帮忙吗？",
+    "example_pinyin": "Nǐ xūyào bāngmáng ma?",
+    "example_en": "Do you need help?",
+    "example_ja": "助けが必要ですか？"
+  },
+  {
+    "simplified": "选择",
+    "meaning_ja": "選ぶ；選択する",
+    "example_zh": "你可以自己选择。",
+    "example_pinyin": "Nǐ kěyǐ zìjǐ xuǎnzé.",
+    "example_en": "You can choose by yourself.",
+    "example_ja": "自分で選んでいいですよ。"
+  },
+  {
+    "simplified": "眼镜",
+    "meaning_ja": "メガネ",
+    "example_zh": "我戴眼镜。",
+    "example_pinyin": "Wǒ dài yǎnjìng.",
+    "example_en": "I wear glasses.",
+    "example_ja": "メガネをかけています。"
+  },
+  {
+    "simplified": "要求",
+    "meaning_ja": "要求する；求める",
+    "example_zh": "老师要求我们努力。",
+    "example_pinyin": "Lǎoshī yāoqiú wǒmen nǔlì.",
+    "example_en": "The teacher asks us to work hard.",
+    "example_ja": "先生は私たちに頑張るよう求めます。"
+  },
+  {
+    "simplified": "爷爷",
+    "meaning_ja": "おじいさん（父方）",
+    "example_zh": "爷爷今年八十岁了。",
+    "example_pinyin": "Yéye jīnnián bāshí suì le.",
+    "example_en": "Grandpa is eighty this year.",
+    "example_ja": "おじいちゃんは今年八十歳です。"
+  },
+  {
+    "simplified": "一般",
+    "meaning_ja": "普通；一般的",
+    "example_zh": "这家饭馆一般。",
+    "example_pinyin": "Zhè jiā fànguǎn yìbān.",
+    "example_en": "This restaurant is average.",
+    "example_ja": "このレストランはまあまあです。"
+  },
+  {
+    "simplified": "一边",
+    "meaning_ja": "～しながら",
+    "example_zh": "他一边吃饭一边看书。",
+    "example_pinyin": "Tā yìbiān chīfàn yìbiān kàn shū.",
+    "example_en": "He eats while reading.",
+    "example_ja": "彼は食事をしながら本を読みます。"
+  },
+  {
+    "simplified": "一定",
+    "meaning_ja": "必ず；きっと",
+    "example_zh": "你一定会成功。",
+    "example_pinyin": "Nǐ yídìng huì chénggōng.",
+    "example_en": "You will definitely succeed.",
+    "example_ja": "きっと成功しますよ。"
+  },
+  {
+    "simplified": "一共",
+    "meaning_ja": "全部で；合計",
+    "example_zh": "一共多少钱？",
+    "example_pinyin": "Yígòng duōshao qián?",
+    "example_en": "How much in total?",
+    "example_ja": "全部でいくらですか？"
+  },
+  {
+    "simplified": "一会儿",
+    "meaning_ja": "しばらく；ちょっと",
+    "example_zh": "等一会儿。",
+    "example_pinyin": "Děng yíhuìr.",
+    "example_en": "Wait a moment.",
+    "example_ja": "ちょっと待ってください。"
+  },
+  {
+    "simplified": "一样",
+    "meaning_ja": "同じ",
+    "example_zh": "我们的想法一样。",
+    "example_pinyin": "Wǒmen de xiǎngfǎ yíyàng.",
+    "example_en": "Our ideas are the same.",
+    "example_ja": "私たちの考えは同じです。"
+  },
+  {
+    "simplified": "一直",
+    "meaning_ja": "ずっと；まっすぐ",
+    "example_zh": "他一直在学习。",
+    "example_pinyin": "Tā yìzhí zài xuéxí.",
+    "example_en": "He's been studying all along.",
+    "example_ja": "彼はずっと勉強しています。"
+  },
+  {
+    "simplified": "以后",
+    "meaning_ja": "以後；今後",
+    "example_zh": "以后我要更努力。",
+    "example_pinyin": "Yǐhòu wǒ yào gèng nǔlì.",
+    "example_en": "I'll work harder from now on.",
+    "example_ja": "これからもっと頑張ります。"
+  },
+  {
+    "simplified": "以前",
+    "meaning_ja": "以前；前に",
+    "example_zh": "以前我住在北京。",
+    "example_pinyin": "Yǐqián wǒ zhù zài Běijīng.",
+    "example_en": "I used to live in Beijing.",
+    "example_ja": "以前は北京に住んでいました。"
+  },
+  {
+    "simplified": "以为",
+    "meaning_ja": "～と思い込む",
+    "example_zh": "我以为你走了。",
+    "example_pinyin": "Wǒ yǐwéi nǐ zǒu le.",
+    "example_en": "I thought you had left.",
+    "example_ja": "帰ったと思っていました。"
+  },
+  {
+    "simplified": "音乐",
+    "meaning_ja": "音楽",
+    "example_zh": "我喜欢听音乐。",
+    "example_pinyin": "Wǒ xǐhuan tīng yīnyuè.",
+    "example_en": "I like listening to music.",
+    "example_ja": "音楽を聴くのが好きです。"
+  },
+  {
+    "simplified": "银行",
+    "meaning_ja": "銀行",
+    "example_zh": "银行几点关门？",
+    "example_pinyin": "Yínháng jǐ diǎn guānmén?",
+    "example_en": "What time does the bank close?",
+    "example_ja": "銀行は何時に閉まりますか？"
+  },
+  {
+    "simplified": "应该",
+    "meaning_ja": "～すべき；～はずだ",
+    "example_zh": "你应该多休息。",
+    "example_pinyin": "Nǐ yīnggāi duō xiūxi.",
+    "example_en": "You should rest more.",
+    "example_ja": "もっと休んだ方がいいですよ。"
+  },
+  {
+    "simplified": "影响",
+    "meaning_ja": "影響；影響を与える",
+    "example_zh": "天气影响了我们的计划。",
+    "example_pinyin": "Tiānqì yǐngxiǎng le wǒmen de jìhuà.",
+    "example_en": "The weather affected our plans.",
+    "example_ja": "天気が私たちの計画に影響しました。"
+  },
+  {
+    "simplified": "用",
+    "meaning_ja": "使う；用いる",
+    "example_zh": "你用什么写？",
+    "example_pinyin": "Nǐ yòng shénme xiě?",
+    "example_en": "What do you write with?",
+    "example_ja": "何で書きますか？"
+  },
+  {
+    "simplified": "游戏",
+    "meaning_ja": "ゲーム；遊び",
+    "example_zh": "孩子们在玩游戏。",
+    "example_pinyin": "Háizimen zài wán yóuxì.",
+    "example_en": "The children are playing games.",
+    "example_ja": "子供たちはゲームをしています。"
+  },
+  {
+    "simplified": "有名",
+    "meaning_ja": "有名な",
+    "example_zh": "这个地方很有名。",
+    "example_pinyin": "Zhège dìfang hěn yǒumíng.",
+    "example_en": "This place is very famous.",
+    "example_ja": "ここはとても有名です。"
+  },
+  {
+    "simplified": "又",
+    "meaning_ja": "また；再び",
+    "example_zh": "他又来了。",
+    "example_pinyin": "Tā yòu lái le.",
+    "example_en": "He came again.",
+    "example_ja": "彼はまた来ました。"
+  },
+  {
+    "simplified": "遇到",
+    "meaning_ja": "出会う；遭遇する",
+    "example_zh": "我遇到了一个问题。",
+    "example_pinyin": "Wǒ yùdào le yí ge wèntí.",
+    "example_en": "I encountered a problem.",
+    "example_ja": "問題に遭遇しました。"
+  },
+  {
+    "simplified": "愿意",
+    "meaning_ja": "～したい；喜んで",
+    "example_zh": "我愿意帮你。",
+    "example_pinyin": "Wǒ yuànyì bāng nǐ.",
+    "example_en": "I'm willing to help you.",
+    "example_ja": "喜んでお手伝いします。"
+  },
+  {
+    "simplified": "月亮",
+    "meaning_ja": "月",
+    "example_zh": "今晚的月亮很美。",
+    "example_pinyin": "Jīnwǎn de yuèliang hěn měi.",
+    "example_en": "The moon is beautiful tonight.",
+    "example_ja": "今夜の月はきれいです。"
+  },
+  {
+    "simplified": "越",
+    "meaning_ja": "ますます；～すればするほど",
+    "example_zh": "越来越好了。",
+    "example_pinyin": "Yuè lái yuè hǎo le.",
+    "example_en": "It's getting better and better.",
+    "example_ja": "ますます良くなっています。"
+  },
+  {
+    "simplified": "云",
+    "meaning_ja": "雲",
+    "example_zh": "天上有很多云。",
+    "example_pinyin": "Tiānshang yǒu hěn duō yún.",
+    "example_en": "There are many clouds in the sky.",
+    "example_ja": "空にたくさんの雲があります。"
+  },
+  {
+    "simplified": "站",
+    "meaning_ja": "立つ；駅",
+    "example_zh": "请站起来。",
+    "example_pinyin": "Qǐng zhàn qǐlái.",
+    "example_en": "Please stand up.",
+    "example_ja": "立ってください。"
+  },
+  {
+    "simplified": "照顾",
+    "meaning_ja": "世話をする",
+    "example_zh": "谢谢你照顾我。",
+    "example_pinyin": "Xièxie nǐ zhàogù wǒ.",
+    "example_en": "Thank you for taking care of me.",
+    "example_ja": "世話をしてくれてありがとう。"
+  },
+  {
+    "simplified": "照片",
+    "meaning_ja": "写真",
+    "example_zh": "我们一起拍照片吧。",
+    "example_pinyin": "Wǒmen yìqǐ pāi zhàopiàn ba.",
+    "example_en": "Let's take a photo together.",
+    "example_ja": "一緒に写真を撮りましょう。"
+  },
+  {
+    "simplified": "照相机",
+    "meaning_ja": "カメラ",
+    "example_zh": "这是新的照相机。",
+    "example_pinyin": "Zhè shì xīn de zhàoxiàngjī.",
+    "example_en": "This is a new camera.",
+    "example_ja": "これは新しいカメラです。"
+  },
+  {
+    "simplified": "着急",
+    "meaning_ja": "焦る；慌てる",
+    "example_zh": "别着急，慢慢来。",
+    "example_pinyin": "Bié zhāojí, mànmàn lái.",
+    "example_en": "Don't rush, take your time.",
+    "example_ja": "焦らないで、ゆっくりどうぞ。"
+  },
+  {
+    "simplified": "只",
+    "meaning_ja": "ただ～だけ",
+    "example_zh": "我只有一个。",
+    "example_pinyin": "Wǒ zhǐ yǒu yí ge.",
+    "example_en": "I only have one.",
+    "example_ja": "一つしか持っていません。"
+  },
+  {
+    "simplified": "中间",
+    "meaning_ja": "真ん中；間",
+    "example_zh": "他坐在中间。",
+    "example_pinyin": "Tā zuò zài zhōngjiān.",
+    "example_en": "He sits in the middle.",
+    "example_ja": "彼は真ん中に座っています。"
+  },
+  {
+    "simplified": "终于",
+    "meaning_ja": "ついに；やっと",
+    "example_zh": "我终于到了。",
+    "example_pinyin": "Wǒ zhōngyú dào le.",
+    "example_en": "I finally arrived.",
+    "example_ja": "ついに着きました。"
+  },
+  {
+    "simplified": "种",
+    "meaning_ja": "種類；植える",
+    "example_zh": "这种水果很好吃。",
+    "example_pinyin": "Zhè zhǒng shuǐguǒ hěn hǎochī.",
+    "example_en": "This kind of fruit is delicious.",
+    "example_ja": "この種類の果物はおいしいです。"
+  },
+  {
+    "simplified": "重要",
+    "meaning_ja": "重要な；大切な",
+    "example_zh": "这件事很重要。",
+    "example_pinyin": "Zhè jiàn shì hěn zhòngyào.",
+    "example_en": "This matter is very important.",
+    "example_ja": "このことはとても重要です。"
+  },
+  {
+    "simplified": "周末",
+    "meaning_ja": "週末",
+    "example_zh": "周末你做什么？",
+    "example_pinyin": "Zhōumò nǐ zuò shénme?",
+    "example_en": "What do you do on weekends?",
+    "example_ja": "週末は何をしますか？"
+  },
+  {
+    "simplified": "主要",
+    "meaning_ja": "主な；主要な",
+    "example_zh": "这是主要的原因。",
+    "example_pinyin": "Zhè shì zhǔyào de yuányīn.",
+    "example_en": "This is the main reason.",
+    "example_ja": "これが主な理由です。"
+  },
+  {
+    "simplified": "注意",
+    "meaning_ja": "注意する",
+    "example_zh": "请注意安全。",
+    "example_pinyin": "Qǐng zhùyì ānquán.",
+    "example_en": "Please pay attention to safety.",
+    "example_ja": "安全に注意してください。"
+  },
+  {
+    "simplified": "祝",
+    "meaning_ja": "祝う",
+    "example_zh": "祝你好运！",
+    "example_pinyin": "Zhù nǐ hǎo yùn!",
+    "example_en": "Good luck!",
+    "example_ja": "幸運を祈ります！"
+  },
+  {
+    "simplified": "字典",
+    "meaning_ja": "辞書；辞典",
+    "example_zh": "我用字典查这个字。",
+    "example_pinyin": "Wǒ yòng zìdiǎn chá zhège zì.",
+    "example_en": "I look up this character in a dictionary.",
+    "example_ja": "辞書でこの字を調べます。"
+  },
+  {
+    "simplified": "自己",
+    "meaning_ja": "自分",
+    "example_zh": "要相信自己。",
+    "example_pinyin": "Yào xiāngxìn zìjǐ.",
+    "example_en": "You should believe in yourself.",
+    "example_ja": "自分を信じなければなりません。"
+  },
+  {
+    "simplified": "总是",
+    "meaning_ja": "いつも",
+    "example_zh": "他总是迟到。",
+    "example_pinyin": "Tā zǒngshì chídào.",
+    "example_en": "He is always late.",
+    "example_ja": "彼はいつも遅刻します。"
+  },
+  {
+    "simplified": "最近",
+    "meaning_ja": "最近",
+    "example_zh": "最近怎么样？",
+    "example_pinyin": "Zuìjìn zěnmeyàng?",
+    "example_en": "How have you been recently?",
+    "example_ja": "最近どうですか？"
+  },
+  {
+    "simplified": "作业",
+    "meaning_ja": "宿題",
+    "example_zh": "我还没做完作业。",
+    "example_pinyin": "Wǒ hái méi zuò wán zuòyè.",
+    "example_en": "I haven't finished my homework yet.",
+    "example_ja": "まだ宿題が終わっていません。"
+  },
+  {
+    "simplified": "作用",
+    "meaning_ja": "作用；効果",
+    "example_zh": "运动对身体有作用。",
+    "example_pinyin": "Yùndòng duì shēntǐ yǒu zuòyòng.",
+    "example_en": "Exercise has an effect on the body.",
+    "example_ja": "運動は体に効果があります。"
+  }
+]

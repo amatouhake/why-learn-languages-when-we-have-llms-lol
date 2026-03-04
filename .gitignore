@@ -1,0 +1,7 @@
+hsk.db
+__pycache__/
+.venv/
+complete-hsk-vocabulary/
+audio-cmn/
+.claude/
+deploy.conf

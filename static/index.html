@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HSK 反射トレーナー</title>
+    <link rel="stylesheet" href="/style.css?v=2">
+</head>
+<body>
+    <!-- Mode Selection Screen -->
+    <div id="setup-screen" class="screen active">
+        <h1>HSK 反射トレーナー</h1>
+        <div class="level-select">
+            <h2>HSKレベル</h2>
+            <div class="checkboxes">
+                <label><input type="checkbox" value="1" checked> HSK 1</label>
+                <label><input type="checkbox" value="2" checked> HSK 2</label>
+                <label><input type="checkbox" value="3" checked> HSK 3</label>
+            </div>
+        </div>
+        <div class="radio-group">
+            <h2>言語ペア</h2>
+            <div class="radio-options">
+                <label><input type="radio" name="lang" value="en" checked> 中↔英</label>
+                <label><input type="radio" name="lang" value="ja"> 中↔日</label>
+            </div>
+        </div>
+        <div class="radio-group">
+            <h2>出題方向</h2>
+            <div class="radio-options">
+                <label><input type="radio" name="direction" value="random" checked> ランダム</label>
+                <label><input type="radio" name="direction" value="hanzi_to_meaning"> 漢字→意味</label>
+                <label><input type="radio" name="direction" value="meaning_to_hanzi"> 意味→漢字</label>
+            </div>
+        </div>
+        <div class="mode-select">
+            <h2>モード選択</h2>
+            <button class="mode-btn" data-mode="4">4択モード<span class="key-hint">キー 1-4</span></button>
+            <button class="mode-btn" data-mode="9">9択モード<span class="key-hint">キー 1-9</span></button>
+        </div>
+        <button id="dashboard-btn" class="dashboard-btn">習熟度ダッシュボード</button>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quiz-screen" class="screen">
+        <div class="quiz-header">
+            <div class="streak-display">
+                <span id="streak">🔥 0</span>
+                <span id="best-streak">Best: 0</span>
+            </div>
+            <button id="back-btn" class="back-btn">← 戻る</button>
+        </div>
+        <div class="quiz-body">
+            <div id="prompt-area">
+                <div id="prompt" class="prompt"></div>
+                <div id="prompt-sub" class="prompt-sub"></div>
+            </div>
+            <div id="options" class="options"></div>
+            <div id="example-area" class="example-area" style="display:none">
+                <div id="example-zh" class="example-zh"></div>
+                <div id="example-pinyin" class="example-pinyin"></div>
+                <div id="example-meaning" class="example-meaning"></div>
+            </div>
+        </div>
+        <div id="loading-indicator" class="loading">読み込み中...</div>
+    </div>
+
+    <!-- Dashboard Screen -->
+    <div id="dashboard-screen" class="screen">
+        <div class="dashboard-header">
+            <h1>習熟度ダッシュボード</h1>
+            <button id="dashboard-back-btn" class="back-btn">← 戻る</button>
+        </div>
+        <div class="level-filter">
+            <label><input type="checkbox" class="dash-level-cb" value="1" checked> HSK 1</label>
+            <label><input type="checkbox" class="dash-level-cb" value="2" checked> HSK 2</label>
+            <label><input type="checkbox" class="dash-level-cb" value="3" checked> HSK 3</label>
+        </div>
+        <div id="level-cards" class="level-cards"></div>
+        <div class="sort-controls">
+            <span class="sort-label">ソート:</span>
+            <button class="sort-btn active" data-sort="accuracy-asc">正答率↑</button>
+            <button class="sort-btn" data-sort="accuracy-desc">正答率↓</button>
+            <button class="sort-btn" data-sort="level">レベル</button>
+            <button class="sort-btn" data-sort="attempts">回数</button>
+            <button class="sort-btn" data-sort="time">速度</button>
+        </div>
+        <div class="words-table-wrap">
+            <table class="words-table">
+                <thead>
+                    <tr>
+                        <th>漢字</th>
+                        <th>ピンイン</th>
+                        <th>意味</th>
+                        <th>HSK</th>
+                        <th>正答率</th>
+                        <th>回数</th>
+                        <th>速度</th>
+                    </tr>
+                </thead>
+                <tbody id="words-tbody"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="/app.js?v=2"></script>
+</body>
+</html>
