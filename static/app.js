@@ -14,12 +14,38 @@
         sessionStorage.setItem("session_id", sessionId);
     }
 
+    // --- Sound ---
+    let soundEnabled = localStorage.getItem("sound") !== "off";
+    let audioCtx = null;
+
+    function initAudio() {
+        if (!audioCtx) audioCtx = new AudioContext();
+    }
+
+    function playTone(startFreq, endFreq, duration) {
+        if (!soundEnabled || !audioCtx) return;
+        const osc = audioCtx.createOscillator();
+        const gain = audioCtx.createGain();
+        osc.connect(gain);
+        gain.connect(audioCtx.destination);
+        osc.frequency.setValueAtTime(startFreq, audioCtx.currentTime);
+        osc.frequency.linearRampToValueAtTime(endFreq, audioCtx.currentTime + duration);
+        gain.gain.setValueAtTime(0.3, audioCtx.currentTime);
+        gain.gain.linearRampToValueAtTime(0, audioCtx.currentTime + duration);
+        osc.start();
+        osc.stop(audioCtx.currentTime + duration);
+    }
+
+    function playCorrect() { playTone(523, 784, 0.15); }
+    function playIncorrect() { playTone(330, 220, 0.2); }
+
     let lang = "en";
     let direction = "random";
     let currentQuestion = null;
     let timerStart = 0;
     let streak = 0;
     let bestStreak = 0;
+    let nextQuestionTimer = null;
 
     // Ring buffer of recent word_ids to exclude
     const recentIds = [];
@@ -41,21 +67,70 @@
     const exampleZhEl = document.getElementById("example-zh");
     const examplePinyinEl = document.getElementById("example-pinyin");
     const exampleMeaningEl = document.getElementById("example-meaning");
+    const soundToggleSetup = document.getElementById("sound-toggle-setup");
+    const soundToggleQuiz = document.getElementById("sound-toggle-quiz");
+
+    // --- Sound toggle ---
+    function updateSoundButtons() {
+        const icon = soundEnabled ? "\u{1F50A}" : "\u{1F507}";
+        soundToggleSetup.textContent = icon;
+        soundToggleQuiz.textContent = icon;
+    }
+    updateSoundButtons();
+
+    function toggleSound() {
+        soundEnabled = !soundEnabled;
+        localStorage.setItem("sound", soundEnabled ? "on" : "off");
+        updateSoundButtons();
+    }
+
+    soundToggleSetup.addEventListener("click", toggleSound);
+    soundToggleQuiz.addEventListener("click", toggleSound);
+
+    // --- Restore saved preferences ---
+    (function restorePrefs() {
+        const savedLevels = localStorage.getItem("levels");
+        if (savedLevels) {
+            const set = new Set(savedLevels.split(",").map(Number));
+            document.querySelectorAll(".checkboxes input").forEach(cb => {
+                cb.checked = set.has(parseInt(cb.value));
+            });
+        }
+        const savedLang = localStorage.getItem("lang");
+        if (savedLang) {
+            const el = document.querySelector(`input[name="lang"][value="${savedLang}"]`);
+            if (el) el.checked = true;
+        }
+        const savedDir = localStorage.getItem("direction");
+        if (savedDir) {
+            const el = document.querySelector(`input[name="direction"][value="${savedDir}"]`);
+            if (el) el.checked = true;
+        }
+    })();
 
     // --- Setup screen ---
+    function savePrefs() {
+        localStorage.setItem("levels", levels.join(","));
+        localStorage.setItem("lang", lang);
+        localStorage.setItem("direction", direction);
+    }
+
     document.querySelectorAll(".mode-btn").forEach(btn => {
         btn.addEventListener("click", () => {
+            initAudio();
             const checked = document.querySelectorAll(".checkboxes input:checked");
             if (checked.length === 0) return;
             levels = Array.from(checked).map(cb => parseInt(cb.value));
             quizMode = parseInt(btn.dataset.mode);
             lang = document.querySelector('input[name="lang"]:checked').value;
             direction = document.querySelector('input[name="direction"]:checked').value;
+            savePrefs();
             startQuiz();
         });
     });
 
     backBtn.addEventListener("click", () => {
+        clearTimeout(nextQuestionTimer);
         showScreen("SETUP");
     });
 
@@ -178,6 +253,13 @@
             }
         });
 
+        // Sound feedback
+        if (isCorrect) {
+            playCorrect();
+        } else {
+            playIncorrect();
+        }
+
         // Update streak locally
         if (isCorrect) {
             streak++;
@@ -222,7 +304,7 @@
         }
 
         // Next question after delay
-        setTimeout(fetchQuestion, delay);
+        nextQuestionTimer = setTimeout(fetchQuestion, delay);
     }
 
     function updateStreakDisplay() {

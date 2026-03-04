@@ -4,12 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HSK 反射トレーナー</title>
-    <link rel="stylesheet" href="/style.css?v=2">
+    <link rel="stylesheet" href="/style.css?v=6">
 </head>
 <body>
     <!-- Mode Selection Screen -->
     <div id="setup-screen" class="screen active">
-        <h1>HSK 反射トレーナー</h1>
+        <div class="title-row">
+            <h1>HSK 反射トレーナー</h1>
+            <button id="sound-toggle-setup" class="sound-toggle" aria-label="Sound toggle">🔊</button>
+        </div>
         <div class="level-select">
             <h2>HSKレベル</h2>
             <div class="checkboxes">
@@ -48,6 +51,7 @@
                 <span id="streak">🔥 0</span>
                 <span id="best-streak">Best: 0</span>
             </div>
+            <button id="sound-toggle-quiz" class="sound-toggle" aria-label="Sound toggle">🔊</button>
             <button id="back-btn" class="back-btn">← 戻る</button>
         </div>
         <div class="quiz-body">
@@ -103,6 +107,6 @@
         </div>
     </div>
 
-    <script src="/app.js?v=2"></script>
+    <script src="/app.js?v=6"></script>
 </body>
 </html>
