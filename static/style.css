@@ -150,6 +150,7 @@ h2 {
     margin-top: 1.5rem;
     padding: 1rem 1.5rem;
     background: #16213e;
+    border-left: 3px solid #e94560;
     border-radius: 8px;
     text-align: center;
 }
@@ -169,6 +170,33 @@ h2 {
 .example-meaning {
     font-size: 1rem;
     color: #a0a0b0;
+}
+
+/* Next button */
+.next-btn {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin: 1.5rem auto 0;
+    padding: 0.8rem 2rem;
+    font-size: 1.2rem;
+    background: #0f3460;
+    color: #e0e0e0;
+    border: 2px solid #533483;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.15s;
+}
+
+.next-btn:hover {
+    background: #533483;
+    border-color: #e94560;
+}
+
+.next-btn .key-hint {
+    font-size: 0.8rem;
+    color: #888;
+    margin-left: 0.5rem;
 }
 
 /* Quiz screen */

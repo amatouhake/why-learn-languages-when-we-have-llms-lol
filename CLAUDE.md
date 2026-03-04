@@ -47,9 +47,13 @@ requirements.txt    # fastapi, uvicorn[standard]
 data/
   llm_generated.json  # 595 words: Japanese translations + example sentences (Claude-generated)
 static/
-  index.html        # SPA — setup (level/lang/direction selection) + quiz + dashboard screens
+  index.html        # SPA — setup (level/lang/direction/advance selection) + quiz + dashboard screens
   style.css         # Dark theme, radio groups, example area, 4-col list / 9-col 3×3 grid
-  app.js            # Keyboard/touch handler, state machine, ring buffer, example display
+  app.js            # Keyboard/touch handler, state machine, ring buffer, example display, manual/auto advance
+  manifest.json     # PWA manifest
+  sw.js             # Service Worker — static asset + audio cache
+  icon-192.png      # PWA icon 192x192
+  icon-512.png      # PWA icon 512x512
 ```
 
 ## Tech Stack
@@ -61,12 +65,14 @@ static/
 ## Architecture
 
 - Single-user app — no auth, no concurrent write concerns
-- Quiz state: `LOADING → READY → ANSWERED → LOADING → ...`
+- Quiz state: `LOADING → READY → ANSWERED → WAITING → (user action) → LOADING → ...` (manual mode, default)
+- Quiz state: `LOADING → READY → ANSWERED → (timer) → LOADING → ...` (auto/fast/instant mode)
 - `correct_index` sent in quiz response (no server roundtrip for feedback — personal app)
 - Frontend manages 20-word ring buffer, sends `exclude` param to avoid repeats
 - `POST /api/answer` is fire-and-forget from frontend (streak synced on response)
 - Audio served at `/audio/cmn-{simplified}.mp3` with `Cache-Control: immutable`
-- Example sentences shown after answering (delay extended to 2.5s when example present)
+- Example sentences shown after answering; in manual mode, visible until user advances
+- PWA: Service Worker caches static assets (cache-first) and audio (lazy cache-first); API is network-only
 - Static assets use `?v=N` cache-busting for mobile browser compatibility
 
 ## API Endpoints

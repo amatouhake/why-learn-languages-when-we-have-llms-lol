@@ -3,8 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#1a1a2e">
+    <meta name="description" content="HSK vocabulary reflex trainer">
     <title>HSK 反射トレーナー</title>
-    <link rel="stylesheet" href="/style.css?v=6">
+    <link rel="stylesheet" href="/style.css?v=10">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="apple-touch-icon" href="/icon-192.png">
 </head>
 <body>
     <!-- Mode Selection Screen -->
@@ -36,6 +40,15 @@
                 <label><input type="radio" name="direction" value="meaning_to_hanzi"> 意味→漢字</label>
             </div>
         </div>
+        <div class="radio-group">
+            <h2>遷移モード</h2>
+            <div class="radio-options">
+                <label><input type="radio" name="advance" value="manual" checked> 手動</label>
+                <label><input type="radio" name="advance" value="auto"> 自動</label>
+                <label><input type="radio" name="advance" value="fast"> 高速</label>
+                <label><input type="radio" name="advance" value="instant"> 即時</label>
+            </div>
+        </div>
         <div class="mode-select">
             <h2>モード選択</h2>
             <button class="mode-btn" data-mode="4">4択モード<span class="key-hint">キー 1-4</span></button>
@@ -65,6 +78,7 @@
                 <div id="example-pinyin" class="example-pinyin"></div>
                 <div id="example-meaning" class="example-meaning"></div>
             </div>
+            <button id="next-btn" class="next-btn" style="display:none">次へ <span class="key-hint">Space</span></button>
         </div>
         <div id="loading-indicator" class="loading">読み込み中...</div>
     </div>
@@ -107,6 +121,11 @@
         </div>
     </div>
 
-    <script src="/app.js?v=6"></script>
+    <script src="/app.js?v=10"></script>
+    <script>
+    if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("/sw.js");
+    }
+    </script>
 </body>
 </html>

@@ -3,7 +3,7 @@
 
     // --- State ---
     const RING_SIZE = 20;
-    let state = "SETUP"; // SETUP | LOADING | READY | ANSWERED
+    let state = "SETUP"; // SETUP | LOADING | READY | ANSWERED | WAITING
     let quizMode = 4;
     let levels = [1, 2, 3];
     let sessionId = sessionStorage.getItem("session_id");
@@ -37,10 +37,26 @@
     }
 
     function playCorrect() { playTone(523, 784, 0.15); }
-    function playIncorrect() { playTone(330, 220, 0.2); }
+    function playIncorrect() {
+        if (!soundEnabled || !audioCtx) return;
+        const t = audioCtx.currentTime;
+        const osc = audioCtx.createOscillator();
+        const gain = audioCtx.createGain();
+        osc.type = "square";
+        osc.connect(gain);
+        gain.connect(audioCtx.destination);
+        osc.frequency.setValueAtTime(200, t);
+        osc.frequency.setValueAtTime(150, t + 0.1);
+        gain.gain.setValueAtTime(0.12, t);
+        gain.gain.setValueAtTime(0.12, t + 0.12);
+        gain.gain.linearRampToValueAtTime(0, t + 0.2);
+        osc.start(t);
+        osc.stop(t + 0.2);
+    }
 
     let lang = "en";
     let direction = "random";
+    let advanceMode = localStorage.getItem("advance") || "manual";
     let currentQuestion = null;
     let timerStart = 0;
     let streak = 0;
@@ -67,6 +83,7 @@
     const exampleZhEl = document.getElementById("example-zh");
     const examplePinyinEl = document.getElementById("example-pinyin");
     const exampleMeaningEl = document.getElementById("example-meaning");
+    const nextBtn = document.getElementById("next-btn");
     const soundToggleSetup = document.getElementById("sound-toggle-setup");
     const soundToggleQuiz = document.getElementById("sound-toggle-quiz");
 
@@ -106,6 +123,11 @@
             const el = document.querySelector(`input[name="direction"][value="${savedDir}"]`);
             if (el) el.checked = true;
         }
+        const savedAdvance = localStorage.getItem("advance");
+        if (savedAdvance) {
+            const el = document.querySelector(`input[name="advance"][value="${savedAdvance}"]`);
+            if (el) el.checked = true;
+        }
     })();
 
     // --- Setup screen ---
@@ -113,6 +135,7 @@
         localStorage.setItem("levels", levels.join(","));
         localStorage.setItem("lang", lang);
         localStorage.setItem("direction", direction);
+        localStorage.setItem("advance", advanceMode);
     }
 
     document.querySelectorAll(".mode-btn").forEach(btn => {
@@ -124,6 +147,7 @@
             quizMode = parseInt(btn.dataset.mode);
             lang = document.querySelector('input[name="lang"]:checked').value;
             direction = document.querySelector('input[name="direction"]:checked').value;
+            advanceMode = document.querySelector('input[name="advance"]:checked').value;
             savePrefs();
             startQuiz();
         });
@@ -131,8 +155,11 @@
 
     backBtn.addEventListener("click", () => {
         clearTimeout(nextQuestionTimer);
+        nextBtn.style.display = "none";
         showScreen("SETUP");
     });
+
+    nextBtn.addEventListener("click", goNext);
 
     dashboardBtn.addEventListener("click", () => {
         showScreen("DASHBOARD");
@@ -166,6 +193,7 @@
         optionsEl.innerHTML = "";
         promptEl.textContent = "";
         promptSubEl.textContent = "";
+        nextBtn.style.display = "none";
 
         const exclude = recentIds.join(",");
         const url = `/api/quiz?mode=${quizMode}&levels=${levels.join(",")}&exclude=${exclude}&lang=${lang}&direction=${direction}`;
@@ -231,6 +259,7 @@
     }
 
     function playAudio(hanzi) {
+        if (!soundEnabled) return;
         const audio = new Audio(`/audio/cmn-${encodeURIComponent(hanzi)}.mp3`);
         audio.play().catch(() => {}); // Ignore autoplay errors
     }
@@ -293,18 +322,36 @@
         }).catch(() => {});
 
         // Show example sentence if available
-        let delay = 600;
         if (currentQuestion.example) {
             const ex = currentQuestion.example;
             exampleZhEl.textContent = ex.zh;
             examplePinyinEl.textContent = ex.pinyin;
             exampleMeaningEl.textContent = lang === "ja" && ex.ja ? ex.ja : ex.en;
             exampleArea.style.display = "block";
-            delay = 2500;
         }
 
-        // Next question after delay
-        nextQuestionTimer = setTimeout(fetchQuestion, delay);
+        if (advanceMode !== "manual") {
+            // Auto advance with speed variants
+            const delays = {
+                auto:    [2500, 600],   // [with example, without]
+                fast:    [1200, 400],
+                instant: [500,  200],
+            };
+            const [exDelay, noExDelay] = delays[advanceMode] || delays.auto;
+            const delay = currentQuestion.example ? exDelay : noExDelay;
+            nextQuestionTimer = setTimeout(fetchQuestion, delay);
+        } else {
+            // Manual advance: show next button after brief feedback
+            setTimeout(() => {
+                state = "WAITING";
+                nextBtn.style.display = "block";
+            }, 600);
+        }
+    }
+
+    function goNext() {
+        nextBtn.style.display = "none";
+        fetchQuestion();
     }
 
     function updateStreakDisplay() {
@@ -314,11 +361,17 @@
 
     // --- Keyboard handler ---
     document.addEventListener("keydown", (e) => {
-        if (state !== "READY") return;
-        const key = parseInt(e.key);
-        if (key >= 1 && key <= quizMode) {
-            e.preventDefault();
-            handleAnswer(key);
+        if (state === "READY") {
+            const key = parseInt(e.key);
+            if (key >= 1 && key <= quizMode) {
+                e.preventDefault();
+                handleAnswer(key);
+            }
+        } else if (state === "WAITING") {
+            if (e.key === " " || (parseInt(e.key) >= 1 && parseInt(e.key) <= 9)) {
+                e.preventDefault();
+                goNext();
+            }
         }
     });
 
